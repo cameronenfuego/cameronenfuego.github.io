@@ -1,0 +1,30 @@
+---
+id: 115
+title: Cure for the Mondays
+date: 2011-09-13T11:30:27+00:00
+author: Cameron
+layout: post
+guid: https://faiththroughdoubt.wordpress.com/2011/09/13/cure-for-the-mondays/
+permalink: /2011/09/13/cure-for-the-mondays-2/
+categories:
+  - Uncategorized
+tags:
+  - beauty
+  - gifts
+  - glory
+  - god
+  - joy
+---
+I have to admit, it’s easy to love Mondays when you’re not working. They, like every other day of the week, are merely Saturdays and _everyone_ loves Saturday. Now that I’ve been working a couple weeks, I’ve come to find that I have joined the rest of the working world in considering Monday to be the most dreaded and loathed day of the week. However, _my_ reasons for doing so are different from most.
+
+I don’t like Mondays because it means that I have to listen to everyone with a “case of the Mondays” proclaim their intense detest for this most unfortunate day of the week. I’m new in the office, so I don’t feel comfortable slaying their Monday dragons with my sword of optimism, but I’m really questioning this passive approach. However, as much as I’d like to gripe about the immediate problem, I know there is a far deeper cause to the rampant Monday-ragging.
+
+> “Formerly, when you did not know God, you were enslaved to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more? You observe days and months and seasons and years!” — Galatians 4:8–10
+
+I hate to even hypothesize this, but have we become so enslaved to our lives and happiness that we have forgotten _every_ day is a precious gift from God? Each sunrise is invaluable regardless of our to-do list for the day. Our schedule has no weight on our souls. Do we truly revile our daily occupations so much that not a Monday can pass without us voicing our complaints? This is far from the joy our merciful Lord has in store for us.
+
+> “Ascribe to the LORD, O heavenly beings, ascribe to the LORD glory and strength. Ascribe to the LORD the glory due his name; worship the LORD in the splendor of holiness. The voice of the LORD is over the waters; the God of glory thunders, the LORD, over many waters. The voice of the LORD is powerful; the voice of the LORD is full of majesty. The voice of the LORD breaks the cedars; the LORD breaks the cedars of Lebanon. He makes Lebanon to skip like a calf, and Sirion like a young wild ox. The voice of the LORD flashes forth flames of fire. The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh. The voice of the LORD makes the deer give birth and strips the forests bare, and in his temple all cry, ‘Glory!’ The LORD sits enthroned over the flood; the LORD sits enthroned as king forever. May the LORD give strength to his people! May the LORD bless his people with peace!” — Psalm 29
+
+<a href="http://www.relevantmagazine.com/sons-daughters/songs/25402-your-glory" target="_blank">This</a> is what our Monday should look like, friends. However, we have contented ourselves with a joy in God that…well, is non-existent. What has overtaken the surpassing beauty of our God? God is greater, more beautiful and more gracious than any affliction or trial we may endure. The light of His glory is brighter than any darkness our souls may encounter. Sadly, you would never know this from looking at any of us on Mondays. It’s such a shame we so dread this wonderful gift from the Gracious One. Be it work, school, unemployment, whatever, it is a gift meant to draw us closer to a God who we could never approach without His drawing _us_ near to Himself. **And He’s doing just that**!
+
+_How far from grace do we fall on Mondays_! I’m not sure what has so eclipsed our joy in the Maker, but it comes around like clockwork at the beginning of each work week. Yet, God is the same all _seven_ days of the week, otherwise He would not have created them all. Who am _I_ to say God’s grace is less valuable or simply less abundant on Mondays. For that matter, who are _you_? Seriously, **who are we on Mondays**?

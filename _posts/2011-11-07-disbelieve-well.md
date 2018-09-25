@@ -1,0 +1,36 @@
+---
+id: 835
+title: Disbelieve Well
+date: 2011-11-07T08:07:25+00:00
+author: cameroneshgh
+layout: post
+guid: http://waywardjourneyer.com/?p=835
+permalink: /2011/11/07/disbelieve-well/
+tagazine-media:
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"19879429";s:7:"blog_id";s:8:"19280981";s:9:"mod_stamp";s:19:"2011-11-07 13:07:25";}'
+categories:
+  - Uncategorized
+tags:
+  - active
+  - complacent
+  - disbelief
+  - faith
+  - growth
+---
+Have you ever thought that maybe we don&#8217;t disbelieve well? I think the better question is have we ever thought that the way we disbelieve is important? I know that before this past weekend, the thought had never crossed my mind. However, in a life that God knows is is _filled_ with disbelief, don&#8217;t you think He might place a _little_ importance on the topic and help us out in the process with an example? I don&#8217;t know how one grows in their faith without some form of disbelief and so I was thankful to find this example.
+
+> &#8220;But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared. And they found the stone rolled away from the tomb, but when they went in they did not find the body of the Lord Jesus. While they were perplexed about this, behold, two men stood by them in dazzling apparel. And as they were frightened and bowed their faces to the ground, the men said to them, &#8216;Why do you seek the living among the dead? He is not here, but has risen. Remember how he told you, while he was still in Galilee, that the Son of Man must be delivered into the hands of sinful men and be crucified and on the third day rise.&#8217; And they remembered his words, and returning from the tomb they told all these things to the eleven and to all the rest. Now it was Mary Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles, but these words seemed to them an idle tale, and they did not believe them. But Peter rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened.&#8221; &#8211; Luke 24:1-12
+
+**Jesus warned the disciples many times of His crucifixion and resurrection, but they still didn&#8217;t believe**. This fact is rather encouraging to me. When they were told of the tomb&#8217;s emptyness, they all _dismissed_ it. You could argue it had something to do with the fact that the messengers were all women and women in that culture were not highly regarded. You might be right to a degree here, but one of the women was James&#8217; mother and I&#8217;m pretty sure he didn&#8217;t just disregard everything that came out of her mouth, so that doesn&#8217;t carry a whole lot of water in this case. Simply, the news was too fantastic to be possibly true.
+
+**Peter refused to take disbelief at face value**. He knew the tomb was not far away and so the passage ends with him _running_ (not walking) there and finding out for himself. While the other ten disciples chose to disregard the report given to them that the tomb was empty, Peter decided that was not good enough for his troubled mind. It&#8217;s a pretty simple concept he displayed here. He didn&#8217;t believe, but since the tomb in question was a short distance away, he went there to find out firsthand. Because of his curiosity, it seems that all the disciples benefitted.
+
+_Peter showed us active disbelief_. This is the problem with our disbelief. We merely choose to disbelieve something and often don&#8217;t take the time to run to the issue in question and find out the truth of the matter firsthand. I know I have contented myself many times with the fact that I don&#8217;t believe something and that is just the fact of the matter. That _can&#8217;t_ be the fact of the matter if we want a faith that is growing. This settling is a conscious decision to stagnate faith. This is spiritual complacency and laziness. This is the beginning of the road to spiritual _death_.
+
+The way we disbelieve is crucial. It says a lot about our relationship with God. It evidences whether we are serious about loving Him more intimately, living the life we proclaim. Disbelief is prevalent in this existence and there is no way around that fact. However, this lends some importance to the _way_ we disbelieve. Rather than settle for a surface disbelief, let&#8217;s strive for an unbelief that benefits the community around us. Let&#8217;s push ourselves and those around us onward to a disbelief that is active and never satisfied with the easy throwing our hands up in the air. Let&#8217;s follow the example of Peter and disbelieve _well_.

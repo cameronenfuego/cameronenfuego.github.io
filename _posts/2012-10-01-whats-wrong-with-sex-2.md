@@ -1,0 +1,28 @@
+---
+id: 1485
+title: What’s Wrong With Sex?
+date: 2012-10-01T08:07:42+00:00
+author: cameroneshgh
+layout: post
+guid: https://waywardjourneyer.wordpress.com/2012/10/01/whats-wrong-with-sex-2/
+permalink: /2012/10/01/whats-wrong-with-sex-2/
+categories:
+  - Uncategorized
+tags:
+  - beautiful
+  - bible
+  - church
+  - dirty
+  - god
+---
+**What’s wrong with sex?** Now that I have your attention, I am, you are, he is, she is, we all are. Why? Because some time ago, someone in some tall tower decided that sex would be best thought of as bad. So, now everyone I can think of goes around (whether they have sex or not) treating sex as a dirty thing. Now, you have the married couples who have and enjoy sex in the Biblical way, but not even they seem to like to talk about it. Then, you have the couples who are having sex unmarried and I’d be floored if I heard too many of them even venturing toward that topic openly. You also have the promiscuous singles who’ve had sex to varying degrees and the only time you’ll hear about sex there is as a sort of primal contest of manliness. Then, you have the good boys and girls who wouldn’t go near the sex, let alone utter a word in its direction.
+
+**Sex sells.** Consider this Exhibit A in the evidence supporting that we as a society think sex to be dirty. Like the fruit in the Garden, there is at least an air wrongdoing that entices us inextricably. There is something intrinsically sexy about sex. Therefore, men and women are all drawn to it. Just spitballing, but it could be simply a result of the fact that we were made sexual creatures. However, we’ve never really figured out what to do with or make of that fact other than babies.
+
+**We’re failing.** I mean this of the Church, primarily, but also of society as a whole. For heaven’s sake, there’s an entire book of the Bible dedicated to a couple and the bulk of the narrative centers around them making love. It’s not some erotic analogy for the church. There are some things you may be able to stretch in that direction, but when it starts talking about how beautiful the woman’s navel is, I think the analogy dies right there. In spite of this, we the Church deem sex as evil, dirty, filthy, etc. and somehow a magic wand is waved on our wedding day and *_poof_* it’s made beautiful and sacred. Huh? So, what am I supposed to have been doing with these past near twenty-five years of my life?
+
+**The conversation’s begun.** Yes, there’s been more and more conversation in churches about this dirty little act, but I think we’ve still a ways to go. What do I mean? The biggest concern I have (maybe it’s because it directly affects me) is that the only answer college students and young professionals seems to get in regards to sexuality is to get married. So, since those things happened physically and biologically around thirteen up until now, I’m supposed to do what? Silence. I think this is the most important question right now. People for various reasons are waiting longer and longer to get married. Therefore, that time before marriage is also longer and the temptation to indulge in the dirty sex is that much greater, if only prolonged. Where is our answer?
+
+**It’s a murky water.** The fact is, there isn’t a whole lot in the Bible for the single people. For the record, I don’t believe the answer is free love. It isn’t masturbation and it isn’t feigning sexual ignorance. We have to find a way to embrace and cultivate our individual sexualities. We need to be in environments that acknowledge that we are becoming sexual beings _before_ we’re married and that period of time is only growing nowadays. We need to be free to explore and understand the implications of this, but in a healthy way. I’m sure it’s happening somewhere, but I just don’t see it. We can’t play ostrich to sex until the day we’re married. Sex was never meant to work that way.
+
+I’m not giving you an answer, I know. I’m sorry, but I’m twenty-four and I’m in the thick of it. I can’t imagine how difficult it is for the ladies, but I do know how difficult it is for the men, so I have a reference point. Why is sex, what God calls good and beautiful, made out as dirty? Why are we the Church seeming to lead this wayward charge? Yes, I agree we’ve swung back from this crusade (too soon?), but there’s much work yet to be done. We’re missing the key to our answer and that is to address those singles, before their married and in over their heads. We need to educate in much the same way we do learning Scripture. If our bodies are to be living sacrifices, then aren’t our sexual desires also to be? Instead, they’re treated like sin, shut in a closet until it rears its ugly head and we are left denying it a part of our existence once again. So again I ask, “**What’s wrong with sex?**”

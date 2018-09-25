@@ -1,0 +1,22 @@
+---
+id: 1767
+title: Pain In the Offering
+date: 2010-10-27T03:28:00+00:00
+author: Cameron
+layout: post
+guid: https://faiththroughdoubt.wordpress.com/2010/10/27/pain-in-the-offering/
+permalink: /2010/10/27/pain-in-the-offering-2/
+categories:
+  - Uncategorized
+---
+“If God is good, then why does He allow pain and suffering?” A great question I have heard a few times. A new friend mentioned within the last week that he had gotten that question many times and it got me thinking. How would I answer that question? It is truly a great question, and something that I haven’t really thought about for a long time.
+
+Pain, suffering to be more specific, I firmly believe is a result of the fall of Adam and Eve. It would be inconceivable to think that God intended originally for there to be suffering inflicted on His most dear creations. I think a majority of people can agree that this world is fallen and broken at least in a way or two. Paul noted this in Romans 8:22 when he said, “For we know that the whole creation has been groaning together in the pains of childbirth until now.” It could only be groaning if it were impatiently waiting for something better; something better and worth desiring.
+
+I cannot broach this topic without thinking of a favorite song of mine written by a friend. “I’d Sing Hallelujah” by Andy Zipf really serves to embody a person wrestling with the issue of pain. “…I am not Lewis or Clark; I am only a man that gets lost in his questions like, ‘Why doesn’t love heal when we need it most?’ Will somebody give me the answer I need?” Before I get in over my head, I think it’s relevant to note a strong belief of mine. I do not consider my spiritual journey active unless it is being challenged and reshaped. I am whelmingly finite in my ability and only over time will God slowly reveal His truth more fully. I believe this process is necessary given the infinite nature of God and how it speaks even more to how awesome He is being able to work through my ineptitude.
+
+I have read C.S. Lewis’ The Problem of Pain and I believe he explains the need for pain in our world. Lewis describes pain as a megaphone in our lives used when God wants to grab our full attention. I have noticed that when I am in agony, I am much more apt to throw myself at the foot of the cross. Too many times for my liking has God used pain in my life to wake me from a complacent sleep to rouse me back to life in my relationship with Him. In a world that is moving so fast that it makes my head spin thinking about it, pain is the mechanism that God uses to slow down our world for us.
+
+Frankly, this still leaves us up a creek. What does this mean for me when I am in the midst of my darkest time? So I run to God, but where is His provision? I believe He would say it is in community. Certainly, God will use His Spirit to comfort us, but more often than not, God will lead us toward fellowship with others. Fellowship is not a luxury item in this life. It is an essential and central component of the Church. Fellowship is the only way man can truly thrive and flourish. Times of struggle are no different for us. God uses the people around us and typically closest to us to point us back in the right direction; back towards God. This is just another example of how awesome God is.
+
+Pain, deep pain that can often cause bitterness, is integral to our existence of constant tension on this earth. We groan inwardly with creation for a new and perfect earth and heaven, but for now we obediently wait. God has a much grander plan in which He uses a base element such as pain to right our waywardness and point us back toward His goodness. Yes, even pain is a gift in this life. Pain is another way God shows us how much He loves us. Maybe this doesn’t make sense, but pain as with everything else in this life is nothing short of a gift from our benevolent, gracious Creator. Consider it all joy, brothers, when you face trials, because they are not punishment, but gifts whose beauty you will marvel at soon enough.

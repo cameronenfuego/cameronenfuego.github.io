@@ -1,0 +1,54 @@
+---
+id: 24
+title: Weekend Recap
+date: 2009-02-23T14:38:00+00:00
+author: cameroneshgh
+layout: post
+guid: http://waywardjourneyer.wordpress.com/2009/02/23/weekend-recap
+permalink: /2009/02/23/weekend-recap/
+blogger_blog:
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+  - waywardjourneyer.blogspot.com
+blogger_author:
+  - waywardjourneyer
+  - waywardjourneyer
+  - waywardjourneyer
+  - waywardjourneyer
+  - waywardjourneyer
+  - waywardjourneyer
+  - waywardjourneyer
+blogger_0beecbba667ac7d51549a09dd2864606_permalink:
+  - "4905178778984324659"
+  - "4905178778984324659"
+  - "4905178778984324659"
+  - "4905178778984324659"
+  - "4905178778984324659"
+  - "4905178778984324659"
+  - "4905178778984324659"
+categories:
+  - Uncategorized
+tags:
+  - church
+  - complain
+  - Creator
+  - Dad
+  - murder
+---
+<span style="font-family:trebuchet ms;font-size:small;">So, I apologize up front, this post will be disjointed at best. Today&#8217;s been a great day and because of the day&#8217;s excitement, I am certainly ecstatic and thus highly ADD.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">With that out of the way, I went snowboarding Friday. I&#8217;m pausing to let that statement sink in. It was a lot of fun, I have to say, but I earned that fun haha. I can&#8217;t count the number of butt-plants, face-plants and outright ugly falls I took, but it was an enriching experience which I&#8217;m surprised Brandon stuck around to aid. It definitely cemented the idea that I am much better off with both feet planted on terra firma. My mom joined us and we all drove to Wintergreen and shared stories, including some rather embarrassing ones about me and my childhood haha.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">I drove home after getting dinner with the aforementioned (I really like that word) people separately from my mom as I would hate to ask her to spend an entire day just so that she could drop me off at school unless completely necessary. So, we got home around 10:30 and continued to talk and catch up for the next 2+ hours when we realized it was late and got to bed. I love having conversations like that with my mom, because I do feel like she understands me at least for the most part.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">Saturday was glorious. I woke up on my own at 9:45, had a leisurely breakfast that my mom insisted on making (to which I could not fight, nor did I want to) and scheduled to get a late lunch with my dad. Lunch was great because, like my mom, I feel like my dad also gets me to a large extent. It&#8217;s nice having two parents who are so interested in your life. There&#8217;s a sense of value and importance that only parents can give through that. Anyway, we had a good conversation over Thai food and then went back to his townhouse and took a nap. That was simply INCREDIBLE. After the nap, we talked a little and then I drove back home to get ready to see the rest of the family at my aunt&#8217;s house (at least my dad&#8217;s side of it). I was really looking forward to the dinner at my aunt&#8217;s house, because as crazy and dysfunctional as my extended family is as a whole, they&#8217;re so much fun. Between playing rock band, being a human trampoline (yes, my cousin called me a trampoline), messing with the dogs, the conversation and joking and the food, I daresay (ooh, I like that word as well) it was a near perfect outing. Then, when we came back to the house, my sister and her friend wanted to go get Ben & Jerry&#8217;s and watch </span><span style="font-family:trebuchet ms;font-size:small;font-style:italic;">Definitely, Maybe</span> <span style="font-family:trebuchet ms;font-size:small;">and so I drove them to the grocery store (a hilarious adventure) and then watched the first bit of the movie before deciding to go to bed in light of having to wake up earlier in the morning to get back for a group meeting at noon back at school =/.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">Ok, admittedly Sunday sucked for the most part. I had a two hour meeting the moment I got back. I can&#8217;t think of too many worse things to have to come back for, but I dealt. Right after that, I had another group meeting where we had to test our robot we&#8217;ve spent the last nearly four weeks building and programming for a lego search and rescue mission. This should be fun, but I&#8217;m burnt out on the project especially after the amount of time spent working last week on it. Once that was over, I went to church (I was bitter about the fact that I couldn&#8217;t even make the early service back home because of the first meeting) and heard a great message on the sixth commandment which deals with murder. I had a coffee meeting at 8:30, so I had to hurry and get to the gym which was great. Once I got out of the shower, I realized my 8:30 had been an hour early to Starbucks, so I rushed off and met her and we talked for a little over 2 hours, which was good. Ahh, long lost friends&#8230;Once I dropped her off at the library, I realized I hadn&#8217;t eaten dinner and it was 10:30&#8230;this seems to be my life in a nutshell.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">I opened at the coffee shop this morning (waking up was a real task). I do love working there. I saw someone who I hadn&#8217;t seen for the better part of a month and that was enough to brighten the rest of the morning&#8230;no, I&#8217;m not going to elaborate on that =D. The rest of today&#8217;s been somewhat boring, but it&#8217;s Monday and all that stands between the rest of the day and me is a little lab.</span>
+  
+<span style="font-family:trebuchet ms;font-size:small;">So, I came to find last night that I have a vicious and violent heart. Though I don&#8217;t commit physical murder or do harm to others physically, there are times when I simply wish to in a sense do harm to others. So often do I do things which I thought were at least on the surface innocent, like getting slightly annoyed when someone cuts me off on the highway, or when someone does something little that I don&#8217;t appreciate. That thought that I could make things better, that they should be better and that I </span><span style="font-family:trebuchet ms;font-size:small;font-style:italic;">deserve</span> <span style="font-family:trebuchet ms;font-size:small;">better, it&#8217;s all violence of the heart. It&#8217;s an ill-will towards the way things or people are. I want to forcefully change things, and no, I don&#8217;t have to ability or right to do so. I am not the king or ruler of the universe, so things simply don&#8217;t go my way all the time and that&#8217;s just the way God&#8217;s ordained it. It just comes down to getting over myself and seeing the beauty in that which I do not immediately find it. I am such a whining complainer. It&#8217;s all because I&#8217;m unwilling to work and see things from a broader perspective. Where is the trust, the faith, the submission? I am still struggling with the idea that I, unlike Superman, need rest, that my mortality demands it. My soul and heart ache for it, yet I refuse to bow the knee and submit to the Almighty Creator and Conqueror of my heart. He is trying to make that which was tainted and evil, pure and good. Why can&#8217;t I accept His grace? Curse this pride. It just goes to show that I can be my greatest enemy, especially when He wants to be my greatest friend.</span>
