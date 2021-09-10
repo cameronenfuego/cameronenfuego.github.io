@@ -4,7 +4,7 @@ description: ''
 date: '2009-04-22T22:59:00.000Z'
 categories: []
 keywords: []
-slug: /know-your-enemy
+slug: /@cameroneshgh/know-your-enemy
 ---
 
 As a preface, this post comes from an ongoing conversation/stream of consciousness spawned this morning as I sat in philosophy trying to pay attention, but failing miserably.

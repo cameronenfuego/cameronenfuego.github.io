@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-19T18:47:00.000Z'
 categories: []
 keywords: []
-slug: /this-was-atypically-planned
+slug: /@cameroneshgh/this-was-atypically-planned
 ---
 
 As the title screams, yes, I planned this post a good deal.  

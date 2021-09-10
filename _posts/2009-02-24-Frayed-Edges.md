@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-24T02:00:00.000Z'
 categories: []
 keywords: []
-slug: /frayed-edges
+slug: /@cameroneshgh/frayed-edges
 ---
 
 So, I love the Fray. Their new album took a little while to grow on me, but it certainly has. My favorite song without doubt, well, I love at least 3/4 of the album but my favorite is “Absolute”. Just listen to the song and think about the lyrics and I dare you not to like it. Ok, so I can’t really say that, but I really do like it.  
