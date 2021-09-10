@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-04T21:56:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/friends-are-like-sunshine-to-the-heart-37ac1834fc1b
+slug: /@cameroneshgh/friends-are-like-sunshine-to-the-heart
 ---
 
 I really should be doing some of the reading I’ve been backlogging all week, but I’m finding it nearly impossible. As usual I’m sitting in Para despite the fact that I opened this morning and I’m just sitting here kind of observing what’s going on around me. There is a great mixture of conversations from a discussion about ministry to an upcoming art exhibit to a discussion about classes and profession. I just got a little distracted as I related the events of work this morning to a coworker and friend. Long story short, I was working alone as is usual before 9am and I got this insane rush of customers where I ran out of coffee completely and had a drink queue of about 8 espresso drinks and was stuck at the register because customers just kept coming in the store and finally the “management team” came in to help my predicament. As hectic as that was, I would not change a thing about my job.  

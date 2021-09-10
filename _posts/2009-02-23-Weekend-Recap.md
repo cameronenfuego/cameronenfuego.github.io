@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-23T19:38:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/weekend-recap-8dd1c5976ac9
+slug: /@cameroneshgh/weekend-recap
 ---
 
 So, I apologize up front, this post will be disjointed at best. Today’s been a great day and because of the day’s excitement, I am certainly ecstatic and thus highly ADD.  

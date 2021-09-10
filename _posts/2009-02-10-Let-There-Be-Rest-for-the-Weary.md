@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-10T01:19:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/let-there-be-rest-for-the-weary-429702ca3525
+slug: /@cameroneshgh/let-there-be-rest-for-the-weary
 ---
 
 I feel like an old man. It’s 8:20 and I’m completely exhausted. I will say, it’s been a long day with not getting to bed early last night and working this morning. This idea of rest is seemingly more important and pertinent than I thought.  

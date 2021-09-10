@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-19T02:23:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/family-and-parents-we-all-have-growing-up-to-do-1fffed095018
+slug: /@cameroneshgh/family-and-parents-we-all-have-growing-up-to-do
 ---
 
 The world might just stop spinning. Once again, I’ve missed a day…I’m sorry, I’m just making fun of myself right now. And, it’s now Wednesday and I’m about to the point of absolute exhaustion.  

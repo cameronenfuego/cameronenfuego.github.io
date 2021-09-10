@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-13T03:48:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/i-dub-this-two-post-thursday-98c74432fad3
+slug: /@cameroneshgh/i-dub-this-two-post-thursday
 ---
 
 I definitely did not expect to make a second post pretty much ever, but especially not today with how busy today was and how tired I feel right now. Yet, here I am once more.  

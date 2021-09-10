@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-16T20:01:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/overcast-like-the-weather-32d2bb00a128
+slug: /@cameroneshgh/overcast-like-the-weather
 ---
 
 I am not happy right now…it’s 3:00 and I was really looking forward to just sitting back for a few minutes and blogging to my heart’s content. However, I have a lab in 15 minutes where I have to give a presentation on risk mitigation. Here’s risk mitigation for you, don’t make me give this presentation right now and no one gets hurt haha. So, I’m on my fourth cup of coffee and I’m fighting exhaustion desperately. The worst part is that I need to get some real work done on this group project today as it’s crunch time and I don’t have much time in the end of the week, as in zero Thursday on.  

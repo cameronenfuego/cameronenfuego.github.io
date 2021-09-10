@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-02T19:53:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/not-a-case-of-the-mondays-543391a11d36
+slug: /@cameroneshgh/not-a-case-of-the-mondays
 ---
 
 And it’s Monday, but not a typical one. Thank the Lord for good moods and His grace. For whatever reason, it probably had something to do with the Bible study prep material that I was doing while working, I was in the best mood leaving work. This Study, strangely and providentially, follows the material of Sunday’s sermon and subsequent quiet time almost perfectly.  

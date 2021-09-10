@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-31T02:18:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/where-to-begin-4f7abc46a63f
+slug: /@cameroneshgh/where-to-begin
 ---
 
 I firmly believe a blog to be a free-form stream of consciousness so that is how I will write. Honestly, I’ve been pretty adamantly against starting a blog for the simple reason that I don’t really want to think about my life as something so important that several people should and need to care about it. I don’t diminish my inborn significance and worth, but I just err on the side of downplaying it for the simple reason that I was brought up to never boast. It feels great to have a computer once again as in my…wayward attempt to update my hard drive, I realized the process was a lot more involved than I had originally thought.  

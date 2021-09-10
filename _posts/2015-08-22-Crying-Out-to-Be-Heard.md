@@ -1,10 +1,10 @@
 ---
-title: Crying Out to Be Heard
+title: Crying Out to Be Heard (In Search of an Identity)
 description: ''
 date: '2015-08-22T17:49:41.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/crying-out-to-be-heard-750a7b183de5
+slug: /@cameroneshgh/crying-out-to-be-heard
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*vs_qQxf8QcHYCVgMEZb36A.jpeg)
