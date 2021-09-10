@@ -4,6 +4,8 @@ slug: /my-estranged-relationship-with-happiness
 date: '2019-04-08T01:17:00.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 Initially, I'd intended to ease a little more into this post, but I don't react all that well to happiness. Some of you may know that I moved to Denver some weeks ago. I'm not going to pretend that I have been so affirmed in my decision almost since the minute I arrived.
 
 For most of you—I imagine—that would be gift enough. I find this a hard gift to accept. What is wrong with me?

@@ -7,6 +7,8 @@ slug: /one-nation-under-trauma
 date: '2020-09-12T18:42:00.000Z'
 ---
 
+![](../images/CF16820A-5FD6-4133-A9BD-733133ED47C0.jpg)
+
 In this eternal year that mostly feels like living through the movie *Groundhog Day*, according to the calendar, yesterday was September 11. How it isn't a national holiday in honor of the people who died on that day nineteen years later feels almost as confusing as 2020 itself. But it's not.
 
 Something curious happened yesterday that you may have come across. New York Times columnist and economist [Paul Krugman posted his account](https://www.fastcompany.com/90549597/new-york-times-writer-paul-krugmans-bad-9-11-tweets-have-united-the-country-against-him) of what transpired in this country following the tragedy. What I found notable was, aside from the fact that this wasn't his first attempt at putting a rosy spin on the infamous day and our nation's response, it had the rare effect of generating the ire of people across political ideologies. What I'm focusing on here is the general reaction his tweets generated, and I found an odd sense of hopefulness in a day of such stark ideological tribalism and political divide.

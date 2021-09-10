@@ -7,6 +7,8 @@ slug: /more-than-a-new-normal
 date: '2020-09-06T17:28:37.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1599394271439-c61748783171?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 I feel like I can speak for many of us when I say that days of the week don't carry meaning right now. Tuesday, Friday, Saturday, what's the difference? Yes, this is a bit oversimplified, but I think you understand what I'm saying here.
 You will probably see why I was shocked this morning as I drank my coffee and journaled to recognize that it felt like a Sunday. What I mean is that sitting in the stillness of the apartment, drinking coffee, and journaling felt comfortable and calming—aspects that I think many of us can agree we would like regularly. For a moment, I felt like I had returned to "normal."
 The problem with that word is that normal for many of us describes a state of profound nervous system activation, oppression, and stress. When the word first came to mind, I realized that it was not what I had intended, but this was one moment where the English language felt particularly limiting—or at least my level of ability to use it.

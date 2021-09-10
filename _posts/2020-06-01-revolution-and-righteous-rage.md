@@ -7,6 +7,8 @@ slug: /revolution-and-righteous-rage
 date: '2020-06-01T20:49:00.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1590895763408-2788fce4a5be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 Over the past few days, the need to rebel and revolt against the old "normal" became inescapable to me, and much of White America. Black people and People of Color have been dying for this painful reality for hundreds of years already. For those of us at variable stages of wokeness, we were jolted from our comfortable slumber abruptly. If you're anything like me, the naked rage that has coursed through my veins is uncomfortable, to say the least.
 
 Some of us, many more than on previous occasions, took to the streets. We joined our brothers and sisters to peacefully protest the ongoing, manualized oppression and discrimination that the recent murders of George Floyd, Breonna Taylor, and Ahmaud Arbery—along with countless others—have brought to the national spotlight. Or I should say that it brought these senseless murders—*lynchings*—into the national spotlight of White America. In too many cases, these protests were met with physical aggression and *violence*.

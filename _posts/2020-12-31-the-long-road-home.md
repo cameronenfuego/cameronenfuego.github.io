@@ -7,6 +7,8 @@ slug: /the-long-road-home
 date: '2020-12-31T21:13:33.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1567278811007-ec7d9f2e1a90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDV8fGxvbmclMjByb2FkfGVufDB8fHw&ixlib=rb-1.2.1&q=80&w=2000)
+
 Over a month-and-a-half ago, I confronted the idea that evangelicalism—all of it—is an abusive system. In therapy, I found out that the revelation is still fucking with the internal dissonance that I've called equilibrium the past three years. However, I'm grateful for this insight.
 
 I've known for a couple of years that I experienced religious trauma. At first, I wanted to minimize its effects because I wasn't involved in a "proper" cult. That's what I wanted to believe.

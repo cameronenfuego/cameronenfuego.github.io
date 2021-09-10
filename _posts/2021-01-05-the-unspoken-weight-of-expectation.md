@@ -7,6 +7,8 @@ slug: /the-unspoken-weight-of-expectation
 date: '2021-01-06T00:19:55.000Z'
 ---
 
+![](../images/IMG_5302.jpg)
+
 I feel a tremendous weight has been placed on the past few days, the first days since the constant calamity of 2020. I have certainly felt more hopeful and ready for a new year than perhaps ever, but I see that this expectation is not without weight. That weight, I've realized, has given my inner critic more input than is typical—especially since I have made that the focus of a fair amount of my work.
 
 I was re-acclimating my feet to my soccer cleats on a nearby turf field when I burst out (in my head), "You're an asshole!" I'd felt this tension rising, but I had been trying to counter the critic's cutting criticism with compassionate words without acknowledging him directly. I had reached a boiling point and let him have it.

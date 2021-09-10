@@ -7,6 +7,8 @@ slug: /descent-into-the-bottomless-well
 date: '2020-04-12T21:31:08.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1527100673774-cce25eafaf7f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 This post comes from a delicate place as I think we are all—to put it mildly—feeling like ass cheeks rubbed raw by sandpaper. Maybe it really is all too much, this pandemic, the abrupt loss of so much, forced distance from friends and loved ones, death, and the overnight vanishing of a past life—at least our old *way* of life. Maybe, just maybe, it is all too much. In the past few days, I have been struck by my own muchness. I wonder if a few others, perhaps many or all of you, haven't been sensing that their individual reservoirs are deeper and more voluminous than previously thought?
 
 As another week has passed, I am asking, "how much longer?" with greater frequency, greater urgency. I thought that my experience of getting separated and eventually divorced had prepared me for this experience. I had lost my partner and been effectively shunned by the community I used to call friends and home. I spent more concerted time alone than I thought healthy or possible in those months. Even then, I could go to work, shop freely at the grocery store, visit my family, and have a social life almost without limitation—again, partner and faith community relationships aside.

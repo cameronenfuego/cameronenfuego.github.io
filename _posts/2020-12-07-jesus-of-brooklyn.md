@@ -7,6 +7,8 @@ slug: /jesus-of-brooklyn
 date: '2020-12-08T01:57:29.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1605940169839-aedc047b0b06?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 I'll first start by explaining this title to you. My favorite band on earth is Green Day. This should not be a surprise to many—if any—of you. Their album "American Idiot" was very formative for me, but my brother had presciently exposed me to them shortly after "Dookie" had been released, so don't you dare label me a bandwagoner.
 
 Okay, defensiveness aside, one of the most brilliant songs on "American Idiot" is a nine-plus minute, five-movement marathon of a song basically about a coming of age of Jimmy or "Jesus of Suburbia." I have two tattoos in Greek on the inside of both my biceps that vaguely reference a line in the song: "I am the son of rage and love," so I have rage and love (agape) tattooed on me.

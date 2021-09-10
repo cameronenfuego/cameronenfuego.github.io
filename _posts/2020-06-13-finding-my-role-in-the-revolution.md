@@ -7,6 +7,8 @@ slug: /finding-my-role-in-the-revolution
 date: '2020-06-13T18:18:05.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1591765567926-b5a5b7666847?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 It's been more days since my last post than I had planned—well, initially. However, the past few days have been intentional as I realized that I needed to spend more time listening, learning, marinating. The past couple of weeks have been dizzying. Simultaneously, too much has happened and yet woefully too little.
 
 I was one of the few thousand people who marched across the Brooklyn Bridge last Saturday, though I had only intended to attend a protest in downtown Brooklyn. I'd arrived late, finishing schoolwork due the next day, and the demonstration I was joining up with had started across the bridge over a half-hour prior—after I'd set out on my walk. This trip across the bridge was easily the most meaningful and memorable, having walked across the bridge nearly a handful of times previously.

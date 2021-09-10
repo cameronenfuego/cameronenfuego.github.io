@@ -7,6 +7,8 @@ slug: /chaos-and-love
 date: '2020-12-15T03:16:10.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1601885763070-5641802d0f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDR8fGNoYW9zJTIwZGFya3xlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000)
+
 I will do my best to attempt to tie together these tenuous threads on which I've been noodling the past week. I've spent a lot of time in these last few days thinking of the ways I abandon myself and look for external resources or solutions for perceived problems in my inner world. It's been a particularly turbulent time of introspection—right on time for my annual introspective deep dive.
 
 Like clockwork, I spend the months of November and December contemplating another trip around the sun and the close of another calendar year, as well as deciphering the direction and new decisions I want to make for the year to come. Add finishing a grad degree, and I feel like this has been the reflective equivalent of a Molotov cocktail. I kind of love it.

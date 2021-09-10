@@ -7,6 +7,8 @@ slug: /the-illusion-of-free
 date: '2020-09-11T17:37:00.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1511282419954-ef8b90aec22b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 One of the first lessons I learned when I worked in marketing was how much people love getting free things. Regardless of the product or service, give people something for free. Especially in selling business to business (B2B), offering the customer a month of free service—where they invested time in setting up our service and customizing it to their liking—felt like a dirty trick.
 
 Looking at the number of services to which I'm beholden today, I don't pay a cent for my email, document collaboration, social networking, or accessing the vast and expanding universe of knowledge available today. Myspace, Gmail, and Facebook are case studies in how this illusion of "free" has come to dominate our society and operates to keep this system in place. In each of these services and myriad others, my information and privacy are the product—the price I pay daily. It's the price I've willingly paid for over a decade.

@@ -7,6 +7,8 @@ slug: /the-light-creates-the-shadow
 date: '2019-03-08T03:28:00.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1518621681930-4ea023f9c8f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 It's hard to fathom that it's been nearly two months since my last post here, but I'm not going to get into that right here and now. No, I'd much rather focus on the present. And for me, the present has a lot to do with Lent and Ash Wednesday. I've established that Ash Wednesday is my favorite day of the Liturgical Calendar and easily my favorite non-holiday.
 
 Okay, so maybe you've noticed that Ash Wednesday was yesterday at the time of writing—you've got me there. A lot has occurred in the past couple months including moving to the city of Denver. For several reasons, I took myself to church yesterday evening so I could participate in the Eucharist and get ashes smudged across my forehead. Sounds like a lovely experience, no?

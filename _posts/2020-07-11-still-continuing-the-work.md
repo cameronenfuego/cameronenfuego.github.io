@@ -7,6 +7,8 @@ slug: /still-continuing-the-work
 date: '2020-07-11T20:12:08.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1501869150797-9bbb64f782fd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 I had tried to write something else, but after getting a few words on the screen, I realized that I had something else to talk about. I have to admit that being in therapy today—while needed—is far more challenging than at any other time in my life. And I've been in therapy for about four years in aggregate.
 
 Being in Brooklyn, I've been in some form of stuck at home for nearly four months at this point, except for a few days last week spent visiting family. Were I in my apartment alone, I find that alternative reality nearly impossible to fathom at this point. However, the present reality has been sufficiently challenging.

@@ -7,6 +7,8 @@ date: '2021-06-04T03:37:31.000Z'
 slug: /seeing-christ-anew
 ---
 
+![](https://images.unsplash.com/photo-1490730141103-6cac27aaab94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fFN1bnJpc2V8ZW58MHx8fHwxNjIyNzc3ODEw&ixlib=rb-1.2.1&q=80&w=2000)
+
 Working in mental health is a pretty thankless career path, and I'm grateful for that fact. Working in substance use within the field, as I see firsthand, is a particular kind of thanklessness. But I have chosen it to help circumvent the savior complex so many therapists encounter at one point or another.
 
 However, Tara Brach said in *Radical Acceptance* that people come to her, a renowned therapist, to be with her settled nervous system. This truth immediately struck me as true. I've sought ways in the past few months to further and maintain my settling. Perhaps that's helped in the past several weeks at work, but my nervous system isn't the focus of this post—stick with me another second.

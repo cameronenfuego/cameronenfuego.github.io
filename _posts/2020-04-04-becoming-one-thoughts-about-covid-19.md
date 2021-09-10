@@ -7,6 +7,8 @@ slug: /becoming-one-thoughts-about-covid-19
 date: '2020-04-04T20:05:15.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1585282284319-e38fb6c29dd1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 I'm not sure who of you can relate to a sense of deep self-doubt. Like a crippling sort of doubt that convinces you that what you have to contribute is unoriginal, worthless, and devoid of meaning—all before you've even started. I don't know who of you can identify with an inner critic so blistering and cruel that it leaves you feeling muted, lacking, and without a purpose in many ways.
 
 In so many aspects of my life, this has been me for the past several years even. It only makes sense—surprise, surprise, Enneagram reference incoming!—that I realized just a few weeks ago that I'm not a Two as I had thought for more than a couple of years but a Four in transit if you will. It makes sense now, my ability to enact such exacting, withering self-attack before I undertake any remotely creative endeavor—most certainly *after *the attempt as well!

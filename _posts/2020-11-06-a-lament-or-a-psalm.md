@@ -7,6 +7,8 @@ slug: /a-lament-or-a-psalm
 date: '2020-11-07T04:36:49.000Z'
 ---
 
+![](https://images.unsplash.com/photo-1531684510013-7aa3d3f55ea4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+
 It's not lost on me as I reflect on another year, my thirty-third trip around our sun, looking, as I like to joke, something akin to white Jesus. This birthday carries with it a special significance; as others have noted before, it's the "Jesus" birthday—Jesus was crucified at the age of thirty-three for those of you lost in the allegory. A person I deeply appreciate and respect encouraged me in our time together this morning to—continuing a theme I have observed over the past couple of months—grieve and mourn. Still, this time it was to grieve the loss of the God I once knew. So this is a post of lament for the God who died and was buried some three years ago; it's finally time to stop running and acknowledge the loss.
 
 I've written about the loss and subsequent searching from a more theological and cognitive point of view, but this is because the loss, death, of God was intimate and, in many ways, too sudden. To a degree, it felt worse than losing one of my parents—as I lost my Father and Mother in a cosmic sense in what seemed like an instant. It was an abandonment of the worst kind.
