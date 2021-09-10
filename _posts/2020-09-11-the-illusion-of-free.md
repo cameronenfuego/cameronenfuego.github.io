@@ -1,8 +1,10 @@
 ---
-title: The Illusion of Free
-slug: the-illusion-of-free
-date_published: 2020-09-11T17:37:00.000Z
-date_updated: 2020-11-07T04:45:41.000Z
+title: 'The Illusion of Free'
+description: ''
+categories: []
+keywords: []
+slug: /the-illusion-of-free
+date: '2020-09-11T17:37:00.000Z'
 ---
 
 One of the first lessons I learned when I worked in marketing was how much people love getting free things. Regardless of the product or service, give people something for free. Especially in selling business to business (B2B), offering the customer a month of free service—where they invested time in setting up our service and customizing it to their liking—felt like a dirty trick.

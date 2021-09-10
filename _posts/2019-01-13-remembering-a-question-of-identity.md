@@ -1,8 +1,10 @@
 ---
-title: "Remembering: A Question of Identity"
-slug: remembering-a-question-of-identity
-date_published: 2019-01-14T02:47:00.000Z
-date_updated: 2020-02-07T21:27:21.000Z
+title: 'Remembering: A Question of Identity'
+description: ''
+categories: []
+keywords: []
+slug: /remembering-a-question-of-identity
+date: '2019-01-14T02:47:00.000Z'
 ---
 
 Who am I? It's one of the earliest questions—or maybe *the* earliest question—we ask in life. It's also the question that we will continue to ask, answer, and reanswer. Our earliest answer is one that is much more *given* to us than something we find for ourselves. Yes, our parents, friends, families, and even society at large will all have things to say about who *I *am, who *you* are.

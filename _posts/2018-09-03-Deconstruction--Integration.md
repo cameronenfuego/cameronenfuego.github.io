@@ -1,8 +1,7 @@
 ---
 title: 'Deconstruction: Integration'
-description: >-
-  I’ll admit, it’s so much easier to live life based on the principle of
-  either-or. Something is one or the other, black or white. There are…
+description: 'I’ll admit, it’s so much easier to live life based on the principle of
+  either-or. Something is one or the other, black or white. There are…'
 date: '2018-09-03T19:31:33.431Z'
 categories: []
 keywords: []

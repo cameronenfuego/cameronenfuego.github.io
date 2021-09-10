@@ -1,8 +1,10 @@
 ---
-title: Examining Original [Trauma]
-slug: examining-original-trauma
-date_published: 2020-08-22T16:36:55.000Z
-date_updated: 2020-09-06T17:38:53.000Z
+title: 'Examining Original [Trauma]'
+description: ''
+categories: []
+keywords: []
+slug: /examining-original-trauma
+date: '2020-08-22T16:36:55.000Z'
 ---
 
 I've been interested in trauma since I first heard about it a few years ago. Frankly, the more I understand about trauma—especially since I just started looking into [Resmaa Menakem's white-body supremacy trauma](https://www.resmaa.com/)—I wonder if it isn't the most human of experiences and our primary emotion if you will, especially when we look at trauma from an epigenetic standpoint.

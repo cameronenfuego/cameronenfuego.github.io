@@ -1,8 +1,10 @@
 ---
-title: More Than a New Normal
-slug: more-than-a-new-normal
-date_published: 2020-09-06T17:28:37.000Z
-date_updated: 2020-09-12T16:37:54.000Z
+title: 'More Than a New Normal'
+description: ''
+categories: []
+keywords: []
+slug: /more-than-a-new-normal
+date: '2020-09-06T17:28:37.000Z'
 ---
 
 I feel like I can speak for many of us when I say that days of the week don't carry meaning right now. Tuesday, Friday, Saturday, what's the difference? Yes, this is a bit oversimplified, but I think you understand what I'm saying here.

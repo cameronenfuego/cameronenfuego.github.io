@@ -1,8 +1,10 @@
 ---
-title: Seeing Christ Anew
-slug: seeing-christ-anew
-date_published: 2021-06-04T03:37:31.000Z
-date_updated: 2021-06-13T17:26:54.000Z
+title: 'Seeing Christ Anew'
+description: ''
+categories: []
+keywords: []
+date: '2021-06-04T03:37:31.000Z'
+slug: /seeing-christ-anew
 ---
 
 Working in mental health is a pretty thankless career path, and I'm grateful for that fact. Working in substance use within the field, as I see firsthand, is a particular kind of thanklessness. But I have chosen it to help circumvent the savior complex so many therapists encounter at one point or another.

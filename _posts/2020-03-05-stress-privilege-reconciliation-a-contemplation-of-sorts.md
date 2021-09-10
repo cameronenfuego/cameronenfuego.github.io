@@ -1,8 +1,10 @@
 ---
-title: "Stress, Privilege, and Reconciliation: A Contemplation of Sorts"
-slug: stress-privilege-reconciliation-a-contemplation-of-sorts
-date_published: 2020-03-05T21:55:00.000Z
-date_updated: 2020-04-26T16:36:47.000Z
+title: 'Stress, Privilege, and Reconciliation: A Contemplation of Sorts'
+description: ''
+categories: []
+keywords: []
+slug: /stress-privilege-reconciliation-a-contemplation-of-sorts
+date: '2020-03-05T21:55:00.000Z'
 ---
 
 This post is going to get political right away. You've been forewarned. So, Elizabeth Warren suspended her presidential campaign today. Sadly, I said Tuesday evening that I would be surprised if she was still a candidate come Friday. Sometimes I hate being right.

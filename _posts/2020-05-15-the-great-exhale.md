@@ -1,8 +1,10 @@
 ---
-title: "The Great Exhale: A Form of Our Own Re-Creation"
-slug: the-great-exhale
-date_published: 2020-05-15T23:35:39.000Z
-date_updated: 2020-05-23T21:34:15.000Z
+title: 'The Great Exhale: A Form of Our Own Re-Creation'
+description: ''
+categories: []
+keywords: []
+slug: /the-great-exhale
+date: '2020-05-15T23:35:39.000Z'
 ---
 
 I feel like I—and we—are in the liminal space between a death and a rebirth. Societally, I think we are on the precipice of breaking into a new sense of inclusion and equality. Yes, this is a more optimistic view. I recognize we are also on the ledge, liable of falling into the canyon of ever-greater income inequality.

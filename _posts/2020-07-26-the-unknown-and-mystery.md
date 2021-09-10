@@ -1,8 +1,10 @@
 ---
-title: The Unknown and Mystery
-slug: the-unknown-and-mystery
-date_published: 2020-07-26T23:54:01.000Z
-date_updated: 2020-07-29T14:14:44.000Z
+title: 'The Unknown and Mystery'
+description: ''
+categories: []
+keywords: []
+slug: /the-unknown-and-mystery
+date: '2020-07-26T23:54:01.000Z'
 ---
 
 I have a complicated relationship with the divine. It's been more profoundly complicated for nearly the past four years. However, the relationship probably started out as more complex since I became aware that there was a divine, notably at the age of five, when I accepted Jesus into my heart. The relationship was never stable or static from the start. I shouldn't be surprised that I refer to the divine as Mystery today.

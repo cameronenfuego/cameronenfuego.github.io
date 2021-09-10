@@ -1,8 +1,10 @@
 ---
-title: The Unspoken Weight of Expectation
-slug: the-unspoken-weight-of-expectation
-date_published: 2021-01-06T00:19:55.000Z
-date_updated: 2021-01-06T00:19:55.000Z
+title: 'The Unspoken Weight of Expectation'
+description: ''
+categories: []
+keywords: []
+slug: /the-unspoken-weight-of-expectation
+date: '2021-01-06T00:19:55.000Z'
 ---
 
 I feel a tremendous weight has been placed on the past few days, the first days since the constant calamity of 2020. I have certainly felt more hopeful and ready for a new year than perhaps ever, but I see that this expectation is not without weight. That weight, I've realized, has given my inner critic more input than is typical—especially since I have made that the focus of a fair amount of my work.

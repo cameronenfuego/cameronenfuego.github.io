@@ -1,8 +1,10 @@
 ---
-title: Self-abandonment as a Form of Narcissim
-slug: self-abandonment-as-a-form-of-narcissim
-date_published: 2021-06-13T17:26:26.000Z
-date_updated: 2021-06-13T17:26:26.000Z
+title: 'Self-Abandonment as a Form of Narcissim'
+description: ''
+categories: []
+keywords: []
+date: '2021-06-13T17:26:26.000Z'
+slug: /self-abandonment-as-a-form-of-narcissim
 ---
 
 It's been a heavy week for me, and if I'm honest, I'm forcing myself in front of this keyboard. My self-doubt has nearly convinced me that the words I will type will fail the thoughts and ideas underlying them even before the first keystroke. I suppose this is my attempt a transparency today, so I hope you can forgive its awkward clunkiness and keep reading with me as the words unfold.

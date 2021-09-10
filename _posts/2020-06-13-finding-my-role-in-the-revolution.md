@@ -1,8 +1,10 @@
 ---
-title: Finding My Role in the Revolution
-slug: finding-my-role-in-the-revolution
-date_published: 2020-06-13T18:18:05.000Z
-date_updated: 2020-06-26T03:09:24.000Z
+title: 'Finding My Role in the Revolution'
+description: ''
+categories: []
+keywords: []
+slug: /finding-my-role-in-the-revolution
+date: '2020-06-13T18:18:05.000Z'
 ---
 
 It's been more days since my last post than I had planned—well, initially. However, the past few days have been intentional as I realized that I needed to spend more time listening, learning, marinating. The past couple of weeks have been dizzying. Simultaneously, too much has happened and yet woefully too little.

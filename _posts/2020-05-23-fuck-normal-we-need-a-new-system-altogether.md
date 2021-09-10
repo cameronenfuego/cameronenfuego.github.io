@@ -1,8 +1,10 @@
 ---
-title: "Fuck Normal: We Need a New System Altogether"
-slug: fuck-normal-we-need-a-new-system-altogether
-date_published: 2020-05-23T21:31:20.000Z
-date_updated: 2020-06-01T20:54:55.000Z
+title: 'Fuck Normal: We Need a New System Altogether'
+description: ''
+categories: []
+keywords: []
+slug: /fuck-normal-we-need-a-new-system-altogether
+date: '2020-05-23T21:31:20.000Z'
 ---
 
 I can't tell y'all the number of posts I've written in my head in the past week, and none of them felt right. I've felt a few little but significant enough shifts within me in the last week or so, and I feel those shifts have been a bit emblematic of what's going on in a meta-sense. I wonder if a few of y'all aren't a bit confused—as I find myself—in what to think and how to feel right now. I don't promise much about this update other than the fact that it will be a form of a streaming-consciousness grab bag.

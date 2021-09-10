@@ -1,8 +1,10 @@
 ---
-title: Revolution and Righteous Rage
-slug: revolution-and-righteous-rage
-date_published: 2020-06-01T20:49:00.000Z
-date_updated: 2020-06-13T18:18:22.000Z
+title: 'Revolution and Righteous Rage'
+description: ''
+categories: []
+keywords: []
+slug: /revolution-and-righteous-rage
+date: '2020-06-01T20:49:00.000Z'
 ---
 
 Over the past few days, the need to rebel and revolt against the old "normal" became inescapable to me, and much of White America. Black people and People of Color have been dying for this painful reality for hundreds of years already. For those of us at variable stages of wokeness, we were jolted from our comfortable slumber abruptly. If you're anything like me, the naked rage that has coursed through my veins is uncomfortable, to say the least.

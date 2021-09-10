@@ -1,8 +1,10 @@
 ---
-title: My Evolving Consciousness
-slug: my-evolving-consciousness
-date_published: 2020-06-26T03:09:10.000Z
-date_updated: 2020-06-28T19:36:02.000Z
+title: 'My Evolving Consciousness'
+description: ''
+categories: []
+keywords: []
+slug: /my-evolving-consciousness
+date: '2020-06-26T03:09:10.000Z'
 ---
 
 I'd love to say this has been an interesting week or so, but what does  "interesting" mean anymore? Honestly, I couldn't tell you. Nonetheless, the past several days have been eventful.

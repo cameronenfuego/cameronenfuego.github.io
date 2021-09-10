@@ -1,8 +1,10 @@
 ---
-title: Breaking Down the Fourth Wall
-slug: breaking-down-the-fourth-wall
-date_published: 2020-04-30T17:19:14.000Z
-date_updated: 2020-05-07T20:52:46.000Z
+title: 'Breaking Down the Fourth Wall'
+description: ''
+categories: []
+keywords: []
+slug: /breaking-down-the-fourth-wall
+date: '2020-04-30T17:19:14.000Z'
 ---
 
 I'm not sure what was more jarring, taking work home with us every day or bringing the home into the workplace—and the lack of choice the pandemic ushered in on both accounts with such abruptness. Seemingly overnight, everyone *had *to work from home. Every day, we couldn't *not* bring home work; every day, we brought our homes straight to the little makeshift workplace that many were forced to carve out with little prep time.

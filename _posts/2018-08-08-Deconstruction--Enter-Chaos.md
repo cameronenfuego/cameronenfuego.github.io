@@ -1,8 +1,7 @@
 ---
 title: 'Deconstruction: Enter Chaos'
-description: >-
-  I’d thought this post was going to unfold very differently, that I’d be
-  talking about my path toward wholeness. But that feels…
+description: 'I’d thought this post was going to unfold very differently, that I’d be
+  talking about my path toward wholeness. But that feels…'
 date: '2018-08-08T03:39:07.405Z'
 categories: []
 keywords: []

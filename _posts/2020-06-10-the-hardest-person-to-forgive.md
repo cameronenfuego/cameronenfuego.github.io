@@ -1,9 +1,10 @@
 ---
-title: The Hardest Person to Forgive
-slug: temp-slug-396
-date_published: 2020-06-10T16:45:40.000Z
-date_updated: 2018-08-24T02:54:03.000Z
-tags: forgive, god, grace, jesus
+title: 'The Hardest Person to Forgive'
+description: ''
+categories: []
+keywords: []
+slug: /the-hardest-person-to-forgive
+date: '2020-06-10T16:45:40.000Z'
 draft: true
 ---
 

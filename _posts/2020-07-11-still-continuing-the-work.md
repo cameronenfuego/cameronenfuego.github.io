@@ -1,8 +1,10 @@
 ---
-title: Still Continuing the Work
-slug: still-continuing-the-work
-date_published: 2020-07-11T20:12:08.000Z
-date_updated: 2020-07-11T20:12:08.000Z
+title: 'Still Continuing the Work'
+description: ''
+categories: []
+keywords: []
+slug: /still-continuing-the-work
+date: '2020-07-11T20:12:08.000Z'
 ---
 
 I had tried to write something else, but after getting a few words on the screen, I realized that I had something else to talk about. I have to admit that being in therapy today—while needed—is far more challenging than at any other time in my life. And I've been in therapy for about four years in aggregate.

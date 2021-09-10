@@ -1,8 +1,10 @@
 ---
-title: Dear John Letter
-slug: dear-john-letter
-date_published: 2021-01-22T21:45:41.000Z
-date_updated: 2021-01-22T21:47:53.000Z
+title: 'Dear John Letter'
+description: ''
+categories: []
+keywords: []
+slug: /dear-john-letter
+date: '2021-01-22T21:45:41.000Z'
 ---
 
 "This will be the last letter I ever write you," the note began. I couldn't believe I was finally writing it; it was unfathomable that it had taken me so long. As hard as it was to break up with the old church, my community, marriage, and former life, God was the hardest to leave behind—that's why it took me more than three years when all the others had been a matter of months. I will warn you that this post might be particularly triggering for many.

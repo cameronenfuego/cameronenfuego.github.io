@@ -1,8 +1,7 @@
 ---
-title: Time Passed at Altitude
-slug: time-passed-at-altitude
-date_published: 2019-10-04T03:57:00.000Z
-date_updated: 2020-03-05T23:05:30.000Z
+title: 'Time Passed at Altitude'
+slug: /time-passed-at-altitude
+date: '2019-10-04T03:57:00.000Z'
 ---
 
 I would apologize, but it would be shallow. And there are so few of you tracking with this—would you even call it a blog anymore?—that it's just not worth it. However, I've been silent for a purpose.

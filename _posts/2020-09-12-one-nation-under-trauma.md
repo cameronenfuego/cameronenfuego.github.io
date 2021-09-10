@@ -1,8 +1,10 @@
 ---
-title: One Nation, Under Trauma
-slug: one-nation-under-trauma
-date_published: 2020-09-12T18:42:00.000Z
-date_updated: 2020-11-07T04:45:31.000Z
+title: 'One Nation, Under Trauma'
+description: ''
+categories: []
+keywords: []
+slug: /one-nation-under-trauma
+date: '2020-09-12T18:42:00.000Z'
 ---
 
 In this eternal year that mostly feels like living through the movie *Groundhog Day*, according to the calendar, yesterday was September 11. How it isn't a national holiday in honor of the people who died on that day nineteen years later feels almost as confusing as 2020 itself. But it's not.

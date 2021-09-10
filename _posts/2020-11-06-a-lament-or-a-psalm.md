@@ -1,8 +1,10 @@
 ---
-title: A Lament or a Psalm
-slug: a-lament-or-a-psalm
-date_published: 2020-11-07T04:36:49.000Z
-date_updated: 2020-12-20T19:48:04.000Z
+title: 'A Lament or a Psalm'
+description: ''
+categories: []
+keywords: []
+slug: /a-lament-or-a-psalm
+date: '2020-11-07T04:36:49.000Z'
 ---
 
 It's not lost on me as I reflect on another year, my thirty-third trip around our sun, looking, as I like to joke, something akin to white Jesus. This birthday carries with it a special significance; as others have noted before, it's the "Jesus" birthday—Jesus was crucified at the age of thirty-three for those of you lost in the allegory. A person I deeply appreciate and respect encouraged me in our time together this morning to—continuing a theme I have observed over the past couple of months—grieve and mourn. Still, this time it was to grieve the loss of the God I once knew. So this is a post of lament for the God who died and was buried some three years ago; it's finally time to stop running and acknowledge the loss.

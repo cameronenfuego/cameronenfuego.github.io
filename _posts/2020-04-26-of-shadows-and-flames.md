@@ -1,8 +1,10 @@
 ---
-title: Of Shadows and Flames
-slug: of-shadows-and-flames
-date_published: 2020-04-26T19:43:09.000Z
-date_updated: 2020-05-15T03:11:40.000Z
+title: 'Of Shadows and Flames'
+description: ''
+categories: []
+keywords: []
+slug: /of-shadows-and-flames
+date: '2020-04-26T19:43:09.000Z'
 ---
 
 What world will we create in moving forward? This is the question on the top of my mind and has been for weeks now. I'd also love to know when we'll be able to move freely about and create that world more tangibly. However, we will continue physical distancing to protect those most vulnerable and ourselves alike. In this time, I am reminded that I and we are recreating today a new future. One that we will soon enough be able to physically step into if you will.

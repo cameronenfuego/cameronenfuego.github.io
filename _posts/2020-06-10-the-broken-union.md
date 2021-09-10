@@ -1,9 +1,10 @@
 ---
-title: The Broken Union
-slug: temp-slug-395
-date_published: 2020-06-10T16:45:40.000Z
-date_updated: 2018-08-24T02:53:29.000Z
-tags: church, cross, divorce, jesus
+title: 'The Broken Union'
+description: ''
+categories: []
+keywords: []
+slug: /the-broken-union
+date_published: '2020-06-10T16:45:40.000Z'
 draft: true
 ---
 

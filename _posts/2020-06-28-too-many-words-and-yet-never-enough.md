@@ -1,8 +1,10 @@
 ---
-title: Too Many Words and Yet Never Enough
-slug: too-many-words-and-yet-never-enough
-date_published: 2020-06-28T19:35:47.000Z
-date_updated: 2020-07-11T21:29:33.000Z
+title: 'Too Many Words and Yet Never Enough'
+description: ''
+categories: []
+keywords: []
+slug: /too-many-words-and-yet-never-enough
+date: '2020-06-28T19:35:47.000Z'
 ---
 
 I'd love to say this has been an interesting week or so, but what does  "interesting" mean anymore? Honestly, I couldn't tell you. Nonetheless, the past several days have been eventful.

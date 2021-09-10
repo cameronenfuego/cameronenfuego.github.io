@@ -1,8 +1,10 @@
 ---
-title: At the Precipice of a New Year
-slug: at-the-precipice-of-a-new-year
-date_published: 2019-01-01T03:13:00.000Z
-date_updated: 2020-02-07T21:14:38.000Z
+title: 'At the Precipice of a New Year'
+description: ''
+date: '2019-01-01T03:13:00.000Z'
+categories: []
+keywords: []
+slug: /at-the-precipice-of-a-new-year
 ---
 
 Pensive does not begin to approach adequately describing the level of introspection I feel like I've experienced the past few weeks. As I was explaining yesterday, I feel the rhythm of the calendar leads me to spending more time in a reflective state with a birthday in November—the ending of a year of existence—that dovetails into the introspection that typically accompanies the ending of another calendar year. This year proved no different.

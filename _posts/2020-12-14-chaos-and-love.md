@@ -1,8 +1,10 @@
 ---
-title: Chaos and Love
-slug: chaos-and-love
-date_published: 2020-12-15T03:16:10.000Z
-date_updated: 2020-12-31T21:13:45.000Z
+title: 'Chaos and Love'
+description: ''
+categories: []
+keywords: []
+slug: /chaos-and-love
+date: '2020-12-15T03:16:10.000Z'
 ---
 
 I will do my best to attempt to tie together these tenuous threads on which I've been noodling the past week. I've spent a lot of time in these last few days thinking of the ways I abandon myself and look for external resources or solutions for perceived problems in my inner world. It's been a particularly turbulent time of introspection—right on time for my annual introspective deep dive.

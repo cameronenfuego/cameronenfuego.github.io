@@ -1,8 +1,10 @@
 ---
-title: We Found Gratitude in a Hopeless Place
-slug: we-found-gratitude-in-a-hopeless-place
-date_published: 2020-12-20T19:47:41.000Z
-date_updated: 2021-01-06T00:22:37.000Z
+title: 'We Found Gratitude in a Hopeless Place'
+description: ''
+categories: []
+keywords: []
+slug: /we-found-gratitude-in-a-hopeless-place
+date: '2020-12-20T19:47:41.000Z'
 ---
 
 I'm struggling to put together the words to describe where I find myself as I sit down before this blank screen. This haziness, or fuzziness, is why I want to continue as it feels truer than merely a narcissistic indulgence. I wonder if we're all not in a certain grey space? We are weary from a year that has held no punches, saddened by 9/11-every-day death rates, disgust for a government standing by idly, excited for a holiday with a limited friend group or family members, and the rebellious hope of a better new year.

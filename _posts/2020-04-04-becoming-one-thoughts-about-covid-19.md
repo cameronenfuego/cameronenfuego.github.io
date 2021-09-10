@@ -1,8 +1,10 @@
 ---
-title: "Becoming One: Thoughts About COVID-19"
-slug: becoming-one-thoughts-about-covid-19
-date_published: 2020-04-04T20:05:15.000Z
-date_updated: 2020-04-04T20:05:15.000Z
+title: 'Becoming One: Thoughts About COVID-19'
+description: ''
+categories: []
+keywords: []
+slug: /becoming-one-thoughts-about-covid-19
+date: '2020-04-04T20:05:15.000Z'
 ---
 
 I'm not sure who of you can relate to a sense of deep self-doubt. Like a crippling sort of doubt that convinces you that what you have to contribute is unoriginal, worthless, and devoid of meaning—all before you've even started. I don't know who of you can identify with an inner critic so blistering and cruel that it leaves you feeling muted, lacking, and without a purpose in many ways.

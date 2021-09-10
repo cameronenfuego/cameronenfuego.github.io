@@ -1,8 +1,10 @@
 ---
-title: Jesus of Brooklyn
-slug: jesus-of-brooklyn
-date_published: 2020-12-08T01:57:29.000Z
-date_updated: 2020-12-08T02:09:48.000Z
+title: 'Jesus of Brooklyn'
+description: ''
+categories: []
+keywords: []
+slug: /jesus-of-brooklyn
+date: '2020-12-08T01:57:29.000Z'
 ---
 
 I'll first start by explaining this title to you. My favorite band on earth is Green Day. This should not be a surprise to many—if any—of you. Their album "American Idiot" was very formative for me, but my brother had presciently exposed me to them shortly after "Dookie" had been released, so don't you dare label me a bandwagoner.

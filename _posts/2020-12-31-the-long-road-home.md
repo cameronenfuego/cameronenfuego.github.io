@@ -1,8 +1,10 @@
 ---
-title: The Long Road Home
-slug: the-long-road-home
-date_published: 2020-12-31T21:13:33.000Z
-date_updated: 2020-12-31T21:13:33.000Z
+title: 'The Long Road Home'
+description: ''
+categories: []
+keywords: []
+slug: /the-long-road-home
+date: '2020-12-31T21:13:33.000Z'
 ---
 
 Over a month-and-a-half ago, I confronted the idea that evangelicalism—all of it—is an abusive system. In therapy, I found out that the revelation is still fucking with the internal dissonance that I've called equilibrium the past three years. However, I'm grateful for this insight.

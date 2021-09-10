@@ -1,8 +1,10 @@
 ---
-title: Descent Into the Bottomless Well
-slug: descent-into-the-bottomless-well
-date_published: 2020-04-12T21:31:08.000Z
-date_updated: 2020-04-27T15:57:28.000Z
+title: 'Descent Into the Bottomless Well'
+description: ''
+categories: []
+keywords: []
+slug: /descent-into-the-bottomless-well
+date: '2020-04-12T21:31:08.000Z'
 ---
 
 This post comes from a delicate place as I think we are all—to put it mildly—feeling like ass cheeks rubbed raw by sandpaper. Maybe it really is all too much, this pandemic, the abrupt loss of so much, forced distance from friends and loved ones, death, and the overnight vanishing of a past life—at least our old *way* of life. Maybe, just maybe, it is all too much. In the past few days, I have been struck by my own muchness. I wonder if a few others, perhaps many or all of you, haven't been sensing that their individual reservoirs are deeper and more voluminous than previously thought?

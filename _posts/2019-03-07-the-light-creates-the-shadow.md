@@ -1,8 +1,10 @@
 ---
-title: The Light Creates the Shadow
-slug: the-light-creates-the-shadow
-date_published: 2019-03-08T03:28:00.000Z
-date_updated: 2020-02-07T21:29:07.000Z
+title: 'The Light Creates the Shadow'
+description: ''
+categories: []
+keywords: []
+slug: /the-light-creates-the-shadow
+date: '2019-03-08T03:28:00.000Z'
 ---
 
 It's hard to fathom that it's been nearly two months since my last post here, but I'm not going to get into that right here and now. No, I'd much rather focus on the present. And for me, the present has a lot to do with Lent and Ash Wednesday. I've established that Ash Wednesday is my favorite day of the Liturgical Calendar and easily my favorite non-holiday.

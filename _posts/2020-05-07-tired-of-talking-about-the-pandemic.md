@@ -1,8 +1,10 @@
 ---
-title: Tired of Talking About the Pandemic
-slug: tired-of-talking-about-the-pandemic
-date_published: 2020-05-07T19:53:50.000Z
-date_updated: 2020-05-16T18:46:19.000Z
+title: 'Tired of Talking About the Pandemic'
+description: ''
+categories: []
+keywords: []
+slug: /tired-of-talking-about-the-pandemic
+date: '2020-05-07T19:53:50.000Z'
 ---
 
 While some states are beginning the process of opening up, you have news of large corporations extending work from home policies into the fall. The juxtaposition is a bit dizzying. Really, I just don't want to be talking about the subject of this damn pandemic anymore.

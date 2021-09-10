@@ -1,8 +1,10 @@
 ---
-title: Criminalizing the Unloved (The Least of These)
-slug: criminalizing-the-unloved-the-least-of-these
-date_published: 2021-02-13T19:58:33.000Z
-date_updated: 2021-02-13T19:58:33.000Z
+title: 'Criminalizing the Unloved (The Least of These)'
+description: ''
+categories: []
+keywords: []
+slug: /criminalizing-the-unloved-the-least-of-these
+date: '2021-02-13T19:58:33.000Z'
 ---
 
 In honor of the holiday on the calendar tomorrow, I will be talking about love. However, it will not at all be in the way that you might expect. No, today, I'm talking about the correlation between love and substance use.

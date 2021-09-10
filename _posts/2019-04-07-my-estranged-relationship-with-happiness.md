@@ -1,8 +1,7 @@
 ---
-title: My Estranged Relationship with Happiness
-slug: my-estranged-relationship-with-happiness
-date_published: 2019-04-08T01:17:00.000Z
-date_updated: 2020-02-07T21:30:35.000Z
+title: 'My Estranged Relationship with Happiness'
+slug: /my-estranged-relationship-with-happiness
+date: '2019-04-08T01:17:00.000Z'
 ---
 
 Initially, I'd intended to ease a little more into this post, but I don't react all that well to happiness. Some of you may know that I moved to Denver some weeks ago. I'm not going to pretend that I have been so affirmed in my decision almost since the minute I arrived.
