@@ -4,9 +4,8 @@ description: ''
 date: '2009-02-08T20:54:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/gifts-and-curses-sans-the-curses
+slug: /gifts-and-curses-sans-the-curses
 ---
-
 So, I completely slept through yesterday. I got back from the scavenger hunt at noon and passed out from 1 to 8:45 last night. That felt phenomenal. I then woke up, ate dinner, and went with my movie buddy, Brandon, and attempted to see He’s Just Not That Into You. I say attempted because when we got halfway through the line, the announcement came that the movie had sold out. Immediately afterward, we overheard the gaggle of ladies in front of us derisively asking how any guys in line could be wanting to see the movie anyway. Brandon immediately announced how excited he was to see Taken. I, following suit, agreed audibly. We got our tickets for Taken and Brandon then accidentally walked into the theater showing He’s Just Not That Into You. I asked him if he had realized his “mistake” and when he asked me which movie I preferred to see, I commented truthfully that I’d rather see the movie playing in the theater into which we had haphazardly walked. In all honesty, it was a great movie.  
 I was really debating whether or not I was going to Portico this morning having slept through my normal 9am service. I’m still planning on going to “Abide”, the young-20’s service at 5 starting this week. It all came down to me worrying about having enough time during the rest of the day to complete the work that I feel I “need” to do.  
 So now it’s around 11:30 pm and I have a heck of a lot more to write about now.  

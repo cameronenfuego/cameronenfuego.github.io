@@ -4,9 +4,8 @@ description: ''
 date: '2009-02-06T03:54:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/righteous
+slug: /righteous
 ---
-
 I want to write something profound, something that when I reread it, would put a smile on my face and I would know that it was worthwhile. Too bad I cannot do that on command. Honestly, I am not that great a writer. My goal here is not to be as eloquent as possible, but to simply put forth what I am contemplating and some other of my random thoughts.  
 Once again, I’m writing when I should probably be going to bed as I’m already tired and need to be at work at 6:30, but here I am still.  
 Thursdays are definitely my long day of the week as classes start at 9:30, at 12:15 I get lunch, I have a meeting at 2:15, two discussions at 4 and 5, then I help set up the sound system for Agape and finally I help work the sound system during the meeting. Since I got up early this morning to do some reading before class, I was out of the house from about 8:15 to 10:30…yes, it’s been a long day, but I love 6:00. At that moment my weekend begins and everything I do from then on in the week is nothing but fun. I love music. I love listening to it, playing it, creating it, I love analyzing it. Seriously, I love everything about music, so the work with the sound system is nothing but enjoyment for me.  

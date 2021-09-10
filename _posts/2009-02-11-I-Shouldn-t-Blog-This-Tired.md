@@ -4,9 +4,8 @@ description: ''
 date: '2009-02-11T03:50:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/i-shouldnt-blog-this-tired
+slug: /i-shouldnt-blog-this-tired
 ---
-
 So, I really want to write something meaningful, but I have the sinking feeling this post will be rather meaningless and simply all over the place. Here goes nothing.  
 Once again I ran into John today and talked with him for over a half hour before scooting off to class. Greg, who was observing the conversation later shed some light on John that I had noticed today in particular but was unwilling to really unearth. John’s biggest problem is that his spiritual life is all in his head. I can say this because this is my great struggle as well. So many truths do I know in my head, but they do not influence the way in which I act on a daily basis. Essentially, I am an encyclopedia of do’s and don’ts. I am no greater than the Pharisees. Foolish vanity. Were I using this knowledge to make a difference in my life and the life of others, this would then be wisdom. However, it is nothing more than wasted knowledge.  
 I went to a new bible study tonight through Portico, the church I attend here. It was a great conversation reflecting in community on the sermon from Sunday as well as going over the same material as the bible study i normally attend on Mondays. I think the repetition is good for someone like myself who is a little stubborn. It was good getting to meet some guys who I don’t know or don’t know well. We had some great conversation especially in regards to one line of the sermon in particular where Chris said “We should long for the impossibility of rest outside of Christ.” What an amazing statement. We should dream of the day when we do not wish to find rest outside of that is found in Christ. What a beautiful aspiration.  

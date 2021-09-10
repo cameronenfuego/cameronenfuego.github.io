@@ -6,7 +6,6 @@ categories: []
 keywords: []
 slug: /this-was-atypically-planned
 ---
-
 As the title screams, yes, I planned this post a good deal.  
 It all started this morning at work, which I wasn’t supposed to be opening today, but I agreed last night to cover for my exhausted boss for a couple hours. This meant that I went to bed early last night, which meant that after taking my “break” watching 5 episodes of Entourage season 3, I did zero studying. Around 7:15, “Boston” by Augustana came on the Pandora-playing iPod at work and right at the line in the song “I think I need a sunrise, I’m tired of the sunset…” I happened to look out the window and see an exquisite sunrise and I couldn’t help but chuckle to myself (only by virtue of no one else being in the shop) and think that was not by coincidence.  
 Then, when I was on my way to grab some food after the stop at the gym early this afternoon, I saw a guy who, to the casual observer I was, appeared to have “assumed the position” and was urinating on a small bush by the e-school in broad daylight and without any noticeable cover. It was upon further review that I realized he had a shovel he had thrust into the dirt and was working it down further into the earth. My random awkward moment in my mind for the day…  

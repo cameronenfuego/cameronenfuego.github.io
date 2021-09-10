@@ -4,15 +4,10 @@ description: ''
 date: '2012-05-17T11:45:39.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/weve-all-been-hurt-by-the-church-15218c1475
+slug: /weve-all-been-hurt-by-the-church-15218c1475
 ---
-
 **We’ve all been hurt by the Church.** In one way or another, I think we’ve all been hurt by the Church (the global collection of churches who worship Jesus as God’s son and our Savior). As a result, many have turned away and written off this institution that has been struggling for nearly two thousand years. I want to say right now that I am sorry for the pain you’ve suffered at the hands of the Church and that I am with you. Today, I want to tell you a little about my story, pose an explanation and then ask for your stories and ideas.
-
 **You can’t judge a book by its cover.** I lived outside Philly for a year and immediately started attending a church suggested by a few friends. It was a time of great spiritual growth for me as I was taking on issues with God that had lingered for longer than I care to remember. Between work and family, I spent the latter half of November and almost all of December away. When I came back to the church that January, I was a ghost. I had been disowned and voted off the island without knowing there had been a vote. I was no longer “in”. I tried for a few weeks, but no progress was made. People asked where I had been, but these same people had my number. I could tell things were going nowhere, so I left.
-
 **I found a new church.** This isn’t the typical response, but in my case I felt it was the logical next step. I started going to another church in the area and the only reason I’m not attending that church today is because I had to move. However, why would someone go back into the arms of the very organization that so brutally and suddenly rejected them? There is one reason, but it’s not a very satisfying one to many, I’m sure.
-
 **We’re all broken in our own way.** What does that have to do with the price of tea in China, you ask? Look, the church is attended, led and everything else by broken people. The very same people who are cracked, torn, hurt and bruised just like you and me are the ones running the show. They aren’t put into place specifically because they’re holier than the rest of us, but because God has a plan for that person in that specific position. Sometimes it’s to help the church around them grow and sometimes it’s to help the leaders themselves grow. And if Paul himself said that no one can judge the thoughts of a man but that man’s spirit, well I’m apt to believe him here (I Corinthians 2:11). I don’t think the church is anymore messed up than most corporations running today. I just think it gets bad press and we judge it by some higher standard we created especially for the Church.
-
 I’m not going to sugarcoat it, there’s a lot wrong with the Church. However, I think the issues, while severe, are no more dire than the rest of this world. The difference is the Church is the one muddying God’s name in the process. That, I believe, is the real shame. Well, now it’s your turn. How have you been/are you being hurt by the Church? What then was/is your response and why? There’s no one here to judge, because _we’ve all been hurt by the Church_.

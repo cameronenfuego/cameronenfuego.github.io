@@ -1,0 +1,12 @@
+---
+title: God of Relationship and the Little Drummer Boy
+description: ''
+date: '2013-11-22T15:29:47.000Z'
+categories: []
+keywords: []
+slug: /god-of-relationship-and-the-little-drummer-boy
+---
+I couldn’t let this blog sit fallow for an entire week. However, I will admit it’s been an emotionally rough week for me. It’s never fun when you realize the issues you have with relationships and intimacy are the same ones you were noticing almost four years ago. It’s not fun when you feel like you’re living a rewind of a past failed relationship. It’s even less fun returning to the same places with four more years of baggage than the last time you were there.
+It makes you feel a little helpless, useless. I was feeling a little doomed to continue repeating the same habits ad nauseam without any ability to change course. It eats at my sense of self. It cuts at my worth. This helplessness produces a weight like lead, and it weighed every step, every breath this week. But somehow listening to the Little Drummer Boy this morning made it all a little better. Somehow, I have a hope for my current and future relationships. I have hope for my relationship with God, more importantly.
+I have no gift to bring that fit to give the King. I played my drum for Him; I played my best for Him. Then He smiled at me. It’s a fictitious song about a baby smiling at a boy playing a drum, I get that fact. But, how true is the overarching narrative? I have nothing of value to bring the God of the universe. I bring nothing to the table, no credibility, no worth. Yet, He smiles at the pauper’s trinkets and junk I lay down at His feet. And that smile (I know it’s there) reminds me I’m not worthless. I’m not useless. He won’t leave me for dead. Even when He feels far off, He’s right there. He loves me too much for any of the doubts and the lies I believe to be true. Somehow, He values a relationship with me too much for any of it to be true.
+I’m not entirely sure how to end this, friends. What’s eating at you? Where do you feel you’ve stagnated in your life, in your faith? Where do you feel destined to lament possibly for the rest of your days? Fret not, you won’t. Remember, you have a relationship with the Most High King. He loves you deeply. He cares infinitely. He won’t let you waste away. He will not idly stand by as you wither. He values you and your relationship far too much. He values you. He values every breath, thought, and action. You are more important than the rest of creation. You are worthy. Be loved today.
