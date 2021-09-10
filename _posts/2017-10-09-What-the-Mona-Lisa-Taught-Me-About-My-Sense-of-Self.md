@@ -1,0 +1,39 @@
+---
+title: What the Mona Lisa Taught Me About My Sense of Self
+description: >-
+  I’ve been in Paris for a couple of days now. It’s been many more days since I
+  last wrote here. It’s time to process some of the thoughts…
+date: '2017-10-09T10:44:10.198Z'
+categories: []
+keywords: []
+slug: >-
+  /what-the-mona-lisa-taught-me-about-my-sense-of-self
+---
+
+![](https://cdn-images-1.medium.com/max/1200/1*AW_Th2qTyU3b8FkPaWuN0A.jpeg)
+
+I’ve been in Paris for a couple of days now. It’s been many more days since I last wrote here. It’s time to process some of the thoughts I’ve had over the past few weeks and several hours alone in the city of light.
+
+I’ve struggled mightily in life with the question of “who am I?” as I’ve never found a satisfying answer. I’ve envied people who were able to answer effortlessly either more definitively than me or decisively that they didn’t know. My answer has always been some paltry assembling of what I felt like I should be saying at the time. All this to say, I’ve never had a damn clue.
+
+Frankly, that fact has been killing me. Not so much in the sense that it keeps me up at night — though, one could easily argue that’s untrue and they’d be right — but rather in the way that not having a sense of self — not being acquainted with myself in such a way that I can describe who I am in essence — is both death itself and it is a slow, steady march closer to that death.
+
+My mom’s husband (thank you, Mike!) graciously loaned me his copy of “The Return of the Prodigal Son” by Henri Nouwen a few weeks ago. I have dived in headfirst the past few days and I begin to see how fortuitous the grace of this book has been. Nouwen explores the identities of both the younger and elder sons, all the while introspecting ad applying each to himself and his experience, in such a luminating way.
+
+What struck me like a train with the younger son was the way that even in his return home, he still does not understand his identity as an heir of his father. The son returns so that he can beg his father to allow him to become a servant or a slave, if you will. The son believes, he knows deep in his heart, that what he has done is unforgiveable in receiving his portion of the estate and wasting the proceeds of its sale on a lavish but brief lifestyle. Surely, the son is convinced, there is not enough forgiveness in all the world that could restore him to his old life at home; he could no longer be a son.
+
+Speech prepared, he is cut short in its recitation by a father overjoyed at his return. But how could it be? Does the father not remember what the son did in his leaving? The father cannot take the son back as anything less than a son — an heir at that! The son, full of shame and self-loathing, is met with unfathomable grace. And it struck me, have I not in my return home met my Father with a similar lack of self-identity? Put another way, as I feel myself attempting to return home do I believe His grace, do I trust my status as an eternally beloved son? The answer screaming out from my heart feels all too inevitable.
+
+And what about the elder son? Though somewhat more enigmatic — he is introduced much later in the parable — this son is just as wayward as his younger brother. It doesn’t take much to hear the bitterness, disdain, even alienation in the words of the elder son. He has been slighted. His brother’s reception — which has been completely underserved — is nothing less than betrayal by the father when the “good” son has never done anything half as detestable as his brother. Once he is done with his work and sees the party in full swing, I sense animosity in a degree I don’t believe I’ve ever witnessed before. His words are arrows flung over the walls of a brother and father he renounces. But here’s where things got interesting for me.
+
+Nouwen pointed out two important aspects of the story here: the father’s response to the elder son and the ambiguity to the end of the story — spoiler: it has none. Look at the words the father has for his firstborn. They are exceedingly tender. They speak of abounding grace in the face of his child’s rage. The father reminds his son, without feeding the hurt thrown his direction, that he gives his son his presence always. Moreover, the father reminds his son of _his_ inheritance which has been secure from the beginning. The father is every bit as gracious towards the elder son as he is the younger for which he throws a party — the elder son is invited to join the festivities as well.
+
+The elder son cannot join the festivities. But maybe he does later. Does he? And what about the younger son, does he get his s\*\*t together? We don’t know. All we know is that in throwing the party for the younger son and inviting in the elder son the father’s joy is complete. In other words, the father is throwing a massive party and everyone is free to join, but each individually must _choose_ to join. He will not force them. _Grace is ours to choose_.
+
+This morning I walked down to the Louvre and made sure I was early so I could accomplish my goal of visiting the Louvre. Okay, so my real objective was to see the Mona Lisa, but seeing as it’s housed in the Louvre…yes, I think you get the point. After my half-hour walk through the predawn waking city, I arrived third in line. No, I hadn’t purchased a ticket ahead of time as I’d only decided I would go today sometime last night.
+
+After a lovely hear-hour in line, it was time to accomplish my goal for the day. Following — poorly I might add — the self-guided tour directions on the Louvre website, I found myself within a few minutes after my entry face to face with one of the most famous women in history. When I got there, there was literally one person in front of me — I couldn’t believe my fortune. And then, it was just me. And her. All at once I understood. In a way, I think she understood me in the same way. She was gorgeous. She was ordinary. She was smiling. She stood emotionless.
+
+I’ve heard a few people express their disappointment when they finally saw the painting, but I didn’t share this experience. I think it’s because I wasn’t trying to see what wasn’t there. I accepted her only as she was. And in this way, I felt she accepted me. There was no expectation, no pretense. Only observation, appreciation. I don’t know that it was a spiritual moment, but it was a moment when I felt my spirit briefly touched. You see, for a moment I felt able to observe the painting in the same way that I see the father addressing both of his sons. But please, I am not here to assert that I am without blemish or at all an art critic.
+
+Maybe the unspoken truth in the parable of the prodigal son is summed up in saying that what matters most is what _is_ rather than what is _not_. On deciding to return, the younger son is drawn by what is not, what he doesn’t have, what he feels he can no longer have. Likewise, the elder son’s tirade is a litany of what he doesn’t have, hasn’t been given. In stark contrast to both are the words of the father. They are a gracious offering of what is, what he is making or had made available to his sons. Perhaps this perspective is what both sons miss. Maybe, just maybe, what is keeping me from Home, from the presence and inheritance of my Father, is this obsession with what is not; in Nouwen’s words, I am not Home because I have not learned to be still in the disciplines of trust and gratitude for what is.

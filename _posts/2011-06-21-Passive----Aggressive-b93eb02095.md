@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-21T13:58:48.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/passive-aggressive-b93eb02095
+slug: /passive-aggressive-b93eb02095
 ---
 
 Hi, I’m passive-aggressive. I don’t know if you’re familiar at all with Southern or Middle Eastern culture, but they are both rather similar in several aspects. Most notably in my mind, they are some of the most passive-aggressive cultures that I’ve encountered. Therefore, since I am half of each, I say I was cursed from birth.

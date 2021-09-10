@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-24T17:12:42.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/what-is-freedom-1dbda20f375
+slug: /what-is-freedom-1dbda20f375
 ---
 
 I think the title of this post really says it all. I read Ephesians 4:17–30 the other morning and the question of “what is freedom?” continues to ring out in the sanctum of my mind. I know myself to be free in Christ, but what does that really look like? Is it a freedom from..? Is it freedom to..? It doesn’t help that I know my perception of freedom has been constantly changing over the past 7 or so years.

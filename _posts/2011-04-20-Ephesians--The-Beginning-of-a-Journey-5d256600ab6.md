@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-20T13:00:33.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/ephesians-the-beginning-of-a-journey-5d256600ab6
+slug: /ephesians-the-beginning-of-a-journey-5d256600ab6
 ---
 
 So, this past week marked the true beginning of a Bible study I’m starting with some friends. While the blog readership is growing, I felt that my personal growth needed a shot in the arm, so the group going through Ephesians seemed to be the obvious answer to helping maintain a focus in God’s word. Admittedly, I do not spend nearly enough time in the Word, so having to prepare for each week seemed like a great inciting incident to kick-start this effort. I really need to watch what I wish for, however.

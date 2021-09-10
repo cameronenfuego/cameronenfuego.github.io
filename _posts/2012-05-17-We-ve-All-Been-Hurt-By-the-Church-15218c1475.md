@@ -4,7 +4,7 @@ description: ''
 date: '2012-05-17T11:45:39.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/weve-all-been-hurt-by-the-church-15218c1475
+slug: /weve-all-been-hurt-by-the-church-15218c1475
 ---
 
 **We’ve all been hurt by the Church.** In one way or another, I think we’ve all been hurt by the Church (the global collection of churches who worship Jesus as God’s son and our Savior). As a result, many have turned away and written off this institution that has been struggling for nearly two thousand years. I want to say right now that I am sorry for the pain you’ve suffered at the hands of the Church and that I am with you. Today, I want to tell you a little about my story, pose an explanation and then ask for your stories and ideas.

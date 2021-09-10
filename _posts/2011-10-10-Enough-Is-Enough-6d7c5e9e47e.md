@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-10T14:04:58.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/enough-is-enough-6d7c5e9e47e
+slug: /enough-is-enough-6d7c5e9e47e
 ---
 
 I hope no one reading thinks at this point that I’m immune to the problems common to the rest of mankind, because you’d be utterly mistaken. I had a couple friends visit from out of town this past weekend and despite having a great weekend, when they were getting ready to leave I wanted more time. It was like the rest of the weekend didn’t matter. All I cared about was getting more. This is just a small example, but if we’re honest with ourselves we _always_ want more.

@@ -6,7 +6,7 @@ description: >-
 date: '2017-10-17T12:02:52.900Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/a-reflection-on-imperfection-4bc19defe32
+slug: /a-reflection-on-imperfection-4bc19defe32
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*ODSLMKT-iCpzPY9ME3CJLA.jpeg)

@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-06T03:54:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/righteous
+slug: /righteous
 ---
 
 I want to write something profound, something that when I reread it, would put a smile on my face and I would know that it was worthwhile. Too bad I cannot do that on command. Honestly, I am not that great a writer. My goal here is not to be as eloquent as possible, but to simply put forth what I am contemplating and some other of my random thoughts.  

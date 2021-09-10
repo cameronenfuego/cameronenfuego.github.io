@@ -4,7 +4,7 @@ description: ''
 date: '2013-02-11T13:59:10.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/directionally-challenged-3bfdc708f07
+slug: /directionally-challenged-3bfdc708f07
 ---
 
 So, you remember that post I wrote last week about [letting go](http://104.193.143.57/~waywar13/ce/2013/02/07/letting-go/ "Letting Go")? Well, I think I had to face on of my greatest fears in writing this blog and lived that post a little this past weekend. While I hope you picked up on the jest, I wasn’t kidding about the having to let go some myself. I’m looking to buy a place of my own right now and I went to an open house for a place that I thought coming in was so-so, but the location was nearly perfect. I was thinking I could fix up the place, I _want_ to fix up a place, if it wasn’t by some stretch of the imagination terribly undervalued, but not even that could keep my interest. There were just some aspects of the place that I couldn’t get over. And not that coin operated laundry is a big deal, but come on, I have to have _some_ standards. Even if they’re strange or low. But what good are standards if I don’t really know the purpose of the endeavor?

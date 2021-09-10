@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-12T20:22:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/im-such-a-poser
+slug: /im-such-a-poser
 ---
 
 I’m writing now because I have some spare time in between a meeting and discussion and I honestly don’t know how much energy I’ll have when I return from the evening’s activities. That being said, one more disclaimer. I’m pretty much stealing this topic from a good friend who will probably read this and call me out on it, but it’s all the material I got.  

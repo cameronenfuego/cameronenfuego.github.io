@@ -1,0 +1,30 @@
+---
+title: Risky Business
+description: ''
+date: '2011-09-23T11:30:06.000Z'
+categories: []
+keywords: []
+slug: /risky-business
+---
+
+I had a bit of a startling revelation today that cut me to the core and I’m still reeling as I type this. As much as I may think of myself as bold and risk-taking, I’m a pansy. I say this because I feel I don’t truly understand and appreciate the true meaning of risk.
+
+Risk is precisely what we love about every great movie hero that I can remember. Each hero did not risk a little, nor did they risk a lot; they risked _everything_. I think cognitively we understand this concept as noble and even necessary for a hero. Any hero risking all to save their loved ones, stand up for what is right, do good of any sort is exalted in this country, yet I feel there is a disconnect.
+
+Calling myself a Christian means that I am following Christ and placing my identity in that pursuit. It should mean that in so identifying, I am betting the farm on Jesus being the way, the truth and the life (John 14:6). It should mean that everything I am and everything I have is committed to this end. I fear that this is merely an “ought” and not a reality.
+
+Why this is true, I think, lies in the fact that I have not (and I suspect many others also haven’t) had to risk much in my life. Risking everything to me means putting my life savings into a venture that may not pan out in the end. Sure, this is risking a lot, but theoretically I could go and get a job and at least eke out a living if I go broke. Risk is not just monetary, nor is it only relational. Risk here encompasses _everything_ from our finances to our reputations to our very souls. Daily, I feel I take this fact very lightly, or even ignore it altogether.
+
+Maybe I’m wrong and the cause is the fact that we don’t fully understand what is the purpose for our taking on risk. To this possibility, my only response is, “Duh!” I’m sorry, but we’re not supposed to fully understand God and the reward we have through the death and resurrection of Christ that is waiting for us at the end of this road! That seems like it must be the point. The reward, part of which is God, the ultimate Being in the universe, saying, “Well done, good and faithful servant,” which in and of itself I cannot fathom (Matthew 25:21). For what we are risking is so great that words will never describe and that is all we need to understand.
+
+> “Are you a born writer? Were you put on earth to be a painter, a scientist, an apostle of peace? In the end the question can only be answered by action. Do it or don’t do it. It may help to think of it this way. If you were meant to cure cancer or write a symphony or crack cold fusion and you don’t do it, you not only hurt yourself, even destroy yourself. You hurt your children. You hurt me. You hurt the planet.
+
+> You shame the angels who watch over you and you spite the Almighty, who created you and only you with your unique gifts, for the sole purpose of nudging the human race one millimeter farther along its path back to God.
+
+> Creative work is not a selfish act or a bid for attention on the part of the actor. It’s a gift to the world and every being in it. Don’t cheat us of your contribution.
+
+> Give us what you’ve got.” — Steven Pressfield “The War of Art” via
+
+Our calling is a means of living out an existence risked completely for the One in whom we find our identity. I admit, I’ve been weak in this area and for that I apologize. I have been holding back and no one in that scenario truly benefits. We’re not meant to be half-hearted, yet I understand that draw to being so. I myself recognize it and vow to work against it.
+
+Friend, we were created to accomplish great and unimaginable things. However, we can’t do it alone and we certainly can’t do it with a heart divided. The only way we can possibly succeed is to sell out to our Savior and Sustainer. We must live wholly for Him doing what He created us specifically to do and to the best of our God-given ability. I’m not seeing it. I know mine, but what’s your excuse?

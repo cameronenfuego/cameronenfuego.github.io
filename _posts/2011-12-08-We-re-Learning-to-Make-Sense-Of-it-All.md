@@ -1,0 +1,20 @@
+---
+title: We’re Learning to Make Sense Of it All
+description: ''
+date: '2011-12-08T13:16:12.000Z'
+categories: []
+keywords: []
+slug: /were-learning-to-make-sense-of-it-all
+---
+
+We’re learning to make sense of it all. That takes a lifetime doesn’t it? And what primarily do we use to make sense of things but the Bible? Yet, despite this fact, most of us go along never knowing how to read the Bible or hardly read it at all, expecting to be taught it by others wiser than ourselves. Friends, this was never how the Bible was meant to be used. Instead, we were meant to learn for ourselves so that we may help others the unadulterated truths held within. We were meant to perform a sort of exegesis to unlock the beauty in all the aspects of the Bible.
+
+It’s not a super-book of the Bible. Exegesis is not some combination of Genesis and Exodus meant to be read like watching the Lord of the Rings trilogy extended versions non-stop. If you haven’t already, don’t attempt that. Instead, exegesis is a systematic approach to the Bible that takes in some key factors to help lead to a deeper understanding of the text. For those of you who haven’t taken a class on this, Exegesis 101 (more like 001) is in session.
+
+The Bible has a target audience. I hate to break it to you, but the Bible is still a piece of literatrue, albeit a masterpiece. Therefore, each book was written to appeal specifically to a demographic that is not 21st century America. There are metaphors and references that made sense back then to certain groups and it is our job to take those in their now antique-context. In other words, it’s irresponsible to assume that the text was written specially for you and me, therefore we have to use other sources occasionally (like a concordance) to unearth the true meaning of even simple references and phrases.
+
+The Bible does not self-contradict. Whether you realize it or not, there are several accounts within the Bible, particularly the Gospels of Matthew, Mark and Luke, that on the surface do not corroborate the story. Your interpretation of a passage also cannot contradict the rest of the Bible as you are leading yourself to the same conclusion of self-contradiction. In fact, it has been a great deal of study and debate that the Bible seems to flub certain details here and there, but the fact of the matter is it doesn’t. When you have however many different writers (we’re still not sure), there will be different perspectives and ways of conveying the same story. Therefore, so also will accounts of the passage of time vary. Seek out those differences and then try to understand better your writer and the deeper truth that they are trying to convey within the descrepancy.
+
+Use context clues. The Bible is filled with confounding statements, but at the same time it is also filled with clues to shed light on those dark, cryptic passages. Not always, but often they’ll help you arrive at a basic understanding in the least. If that doesn’t work, don’t be afraid of your cross-references. They are great in finding different passages using the same word or phrase. Literary aids are your friend.
+
+The Bible is chock full of God’s truth and it’ll take a lifetime to uncover. It’s up to us how much we want to delve into the text, embrace it and understand it. If we choose, exegesis can help. However, we have to remember that the Bible was written at a specific time for a specific people and so our understanding must also be contextualized. We believe the Bible to be inerrant, therefore our understanding of it should also be in fitting with its story as a whole. Finally, while there are many secretive passages, we have been given cross-references and context clues that help shed some of that mystery. No, we won’t understand the Bible completely today, but our intimacy with the Bible will increase if we take the time and effort. Remember, we only learn what God teaches our Spirit and we cannot rush that. We’re in this together and we’re learning to make sense of it all.

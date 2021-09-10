@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-19T14:47:51.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/three-things-i-learned-from-the-first-missionary-56a485cfd2b
+slug: /three-things-i-learned-from-the-first-missionary-56a485cfd2b
 ---
 
 You may remember me talking about [Jesus and the woman at the well](http://104.193.143.57/~waywar13/ce/what-a-town-slut-taught-me-about-silence/ "What a Town Slut Taught Me About Silence") on Monday. Well, this is a continuation of my marinating on that passage. It’s just the beginning of a new outlook on what it means to live a life transformed by the love and grace of Jesus, the beauty in the story He’s writing that is my life, and what sharing the love, the grace, the beauty looks like.

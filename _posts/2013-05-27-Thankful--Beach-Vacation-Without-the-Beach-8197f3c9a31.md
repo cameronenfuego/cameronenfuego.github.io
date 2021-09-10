@@ -4,7 +4,7 @@ description: ''
 date: '2013-05-27T13:49:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/thankful-beach-vacation-without-the-beach-8197f3c9a31
+slug: /thankful-beach-vacation-without-the-beach-8197f3c9a31
 ---
 
 I was elbow deep in the “berries”, what we’d affectionately referred to as the spidery, unending network of thorns with clusters of deceptively vibrant red berries. I was covered in sweat, sand and my muscles were aching after an hour of alternating shoveling and weeding. But, I was literally up to my elbows in thorns when my dad asks, “You want me to take over?” “No,” I reply, “I’m having fun.” You read what I typed before this, right? And as I rehashed the scenario afterwards, I realized that I was having fun and I was even thankful for the morning’s work I had nearly finished. Yeah, I’ll repeat that for myself, I was thankful.

@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-11T03:50:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/i-shouldnt-blog-this-tired
+slug: /i-shouldnt-blog-this-tired
 ---
 
 So, I really want to write something meaningful, but I have the sinking feeling this post will be rather meaningless and simply all over the place. Here goes nothing.  

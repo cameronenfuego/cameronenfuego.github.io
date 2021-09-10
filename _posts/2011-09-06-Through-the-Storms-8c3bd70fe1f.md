@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-06T11:50:54.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/through-the-storms-8c3bd70fe1f
+slug: /through-the-storms-8c3bd70fe1f
 ---
 
 I have been told many times throughout my life that I am a calm person. I have to admit, I feel I do well under pressure and even enjoy times of mild chaos. This is just the way God has made me, but I am highly grateful for it.

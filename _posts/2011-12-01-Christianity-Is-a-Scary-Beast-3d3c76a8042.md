@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-01T13:00:10.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/christianity-is-a-scary-beast-3d3c76a8042
+slug: /christianity-is-a-scary-beast-3d3c76a8042
 ---
 
 _Christianity is a scary beast_. If you look at it as a code of conduct, immediately you are confronted with a shopping list of _don’ts_. If you look at it as a philosophy, well it is counter-intuitive in more ways than you have fingers and toes. If you look at it as a way of life, then your world is turned on its ear. No matter how you slice it, **Christianity doesn’t fit with our society or culture**. Or does it?

@@ -4,7 +4,7 @@ description: ''
 date: '2013-06-17T14:05:30.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/your-father-lights-the-way-50e05660d67
+slug: /your-father-lights-the-way-50e05660d67
 ---
 
 It struck me yesterday sitting in church that the last few weeks spent waiting, working on the house have been nothing short of a gift. I can honestly say that the time spent with him working on tearing down a wall, rewiring the electricity, painting has shown me more about my father than years of living with him. And I realized that because I hadn’t spent this time with him before, I’ve severely misunderstood him and underappreciated him. It’s because I didn’t take the time to roll up my sleeves with him, getting covered from head to toe in sweat, dust, dirt, grime, etc. that I wasn’t able to see him at his core. And the same can be applied to my heavenly Father.

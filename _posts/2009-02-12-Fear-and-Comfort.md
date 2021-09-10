@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-12T04:06:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/fear-and-comfort
+slug: /fear-and-comfort
 ---
 
 I can’t remember if I posted last night, but I’m far too lazy to check. On second thought, I know I did because I distinctly remember talking about soccer again haha.  

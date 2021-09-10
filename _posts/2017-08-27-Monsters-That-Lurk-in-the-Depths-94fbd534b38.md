@@ -6,7 +6,7 @@ description: >-
 date: '2017-08-27T01:16:05.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/monsters-that-lurk-in-the-depths-94fbd534b38
+slug: /monsters-that-lurk-in-the-depths-94fbd534b38
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*QSbDxrZFumfEfGHLmwZWyQ.jpeg)

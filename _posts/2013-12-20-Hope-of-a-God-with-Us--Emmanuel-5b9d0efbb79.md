@@ -4,7 +4,7 @@ description: ''
 date: '2013-12-20T14:38:28.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/hope-of-a-god-with-us-emmanuel-5b9d0efbb79
+slug: /hope-of-a-god-with-us-emmanuel-5b9d0efbb79
 ---
 
 So at the risk of sounding like Scrooge, is there anyone else out there who finds the chaos of the season makes it a little more difficult to enjoy the holidays? Maybe? Well, for the one other out there, you know that once Thanksgiving is over, the month-or-so-long sprint begins where everyone in this country has to find all the best gifts for everyone at the lowest prices and will stop at (next to) nothing to achieve that goal. Common courtesies and driving laws all go out the window, along with the driving ability to boot. For once, this is not me being melodramatic, just sharing what’s racing around my brain the near two hours I spend on the road each day. However, in spite of it all, I find the fact that Jesus’ birth signified God loving us so much, that He came to physically be and experience with us. He loves us and wants to understand us so much, that He would become Emmanuel, God with us.
