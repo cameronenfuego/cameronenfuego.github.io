@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: /weekend-recap
 ---
+
 So, I apologize up front, this post will be disjointed at best. Today’s been a great day and because of the day’s excitement, I am certainly ecstatic and thus highly ADD.  
 With that out of the way, I went snowboarding Friday. I’m pausing to let that statement sink in. It was a lot of fun, I have to say, but I earned that fun haha. I can’t count the number of butt-plants, face-plants and outright ugly falls I took, but it was an enriching experience which I’m surprised Brandon stuck around to aid. It definitely cemented the idea that I am much better off with both feet planted on terra firma. My mom joined us and we all drove to Wintergreen and shared stories, including some rather embarrassing ones about me and my childhood haha.  
 I drove home after getting dinner with the aforementioned (I really like that word) people separately from my mom as I would hate to ask her to spend an entire day just so that she could drop me off at school unless completely necessary. So, we got home around 10:30 and continued to talk and catch up for the next 2+ hours when we realized it was late and got to bed. I love having conversations like that with my mom, because I do feel like she understands me at least for the most part.  

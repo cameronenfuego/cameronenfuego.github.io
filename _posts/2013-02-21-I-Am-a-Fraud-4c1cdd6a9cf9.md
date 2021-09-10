@@ -1,0 +1,21 @@
+---
+title: I Am a Fraud
+description: ''
+date: '2013-02-21T14:25:24.000Z'
+categories: []
+keywords: []
+slug: /@cameroneshgh/i-am-a-fraud-4c1cdd6a9cf9
+---
+
+I suppose it’s posting time once more. I’d love to come up with some topic off the top of my head and start writing about it, but there’s something far more weighty I feel I have the responsibility to get off my chest. Rather than qualifying, I will just say it: I am a fraud. This blog over the past few months has not been what I claim it to be. The tagline reads “Honest conversation about God, love, faith, community.” The only thing honest about it have been my thoughts on the topics put forth. This may not strike you as problematic, but the real fact is that I’ve not been honest about myself. I’ve hidden myself behind my words and this, my friends, is the first step toward a lie. For this, I’m terribly sorry. You deserve more.
+
+**The fear**  
+For one to run and hide, there must first be a fear, a lie from which they’re running. Mine is a fear of being known by perfect strangers and rejected for what they find to be ugly. Yes, I’m really afraid that once y’all figure out who I really am down deep, you’ll turn and run, rejecting the very core of me. There is no greater rejection than this and rather than give you the chance to wound me so deeply, I, like the armadillo, hid underneath my thick shell. But, at the end of the day, I recognize this fear is nothing more than a lie. I realize it is little more than an attempt to keep me from fulfilling my purpose. And as the sole writer of this blog currently, I have to apologize for failing in my responsibility to you, my friend and reader.
+
+**The lie**  
+Who can reject a soul, but someone who knows intimately that soul? Herein lies the crux of the lie I’ve believed for most of my life. While my writing is very near and dear to my heart, a reader’s rejection of it isn’t an intrinsic rejection of who I am. This is true for any art or avenue of creation. Rejection is merely that of the specific piece, not the creator. Even if it is meant to tear down the person, there is hardly a soul on earth that knows this person’s heart. If there is no one who knows intimately this person, then how can the reject outright? I’ve not been rejected. I’ve not been rejected in any way. And I will not be truly rejected.
+
+**The approval**  
+Daily I am learning to find my identity in the approval that’s been there since before I was ever conceived. The Truth is that I am loved and accepted. The Truth is that I always have been and always will be. I hide from phrases such as this, but my soul needs it: my identity comes from the God who has given me a name, a home and love. My identity is secured by a Savior, Jesus Christ, who shed His blood willingly because He found my soul beautiful and worthy. What do the opinions of mere mortals matter? Yet, I struggle mightily with this. Every day is a battle for faith. Every day, I grapple to believe in Love.
+
+I’m sorry, friends. I’ve hidden my struggle from you for too long. I want to share my triumphs with you, but to hide my struggles is a sham. Just as yourselves, I am working out my faith as we speak. And I will continue to do so. I will do so in plain sight from now on. I owe it to you for your faithful readership. I value each view, I truly do. Each one of you makes this discipline worth it. So, I will do my part as well. I will continue to struggle with you, before you. But I do not struggle for freedom. I struggle because I am free. I hope to continue to see each one of you as we continue down this wayward journey.
