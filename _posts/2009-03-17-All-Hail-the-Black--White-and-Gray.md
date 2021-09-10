@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-17T19:41:00.000Z'
 categories: []
 keywords: []
-slug: /@cameroneshgh/all-hail-the-black-white-and-gray
+slug: /all-hail-the-black-white-and-gray
 ---
 
 Well, I didn’t realize until just now that I haven’t posted in about a week and a half. This is a sure sign of my semester getting a little busier. I just don’t have time to post every day. I wish I could post more often, but such is life.  
