@@ -7,7 +7,7 @@ keywords: []
 slug: /why-jesus-is-a-terrible-leader-for-millennials
 ---
 
-![](https://i.giphy.com/HP7mtfNa1E4CEqNbNL.gif)
+![](../images/awkward.gif)
 
 It’s been a really long time since I last posted, I’m sorry. In all honesty, life’s gotten busy and I haven’t managed my priorities well. But enough about me and onto Jesus. There’s been a lot of talk in the Church over the concern about what I will call the “millennial exodus.” Millennials have been leaving the Church en masse, and few people seem to have a clue what to do about it. I’m not saying I do, but I’d like to offer some conjecture as to why Jesus is problematic to my age demographic.
 
