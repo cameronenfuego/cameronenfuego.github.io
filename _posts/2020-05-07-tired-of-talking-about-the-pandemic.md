@@ -7,7 +7,7 @@ slug: /tired-of-talking-about-the-pandemic
 date: '2020-05-07T19:53:50.000Z'
 ---
 
-![](https://images.unsplash.com/photo-1461344577544-4e5dc9487184?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+![](https://images.unsplash.com/photo-1588853801246-b7f05880c144?ixlib=rb-1.2.1&q=90&fm=jpg&crop=entropy&cs=tinysrgb&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 While some states are beginning the process of opening up, you have news of large corporations extending work from home policies into the fall. The juxtaposition is a bit dizzying. Really, I just don't want to be talking about the subject of this damn pandemic anymore.
 
