@@ -1,15 +1,13 @@
 ---
 title: 'Fear: Constant Enemy, Silent Killer'
-description: >-
-  Fear, it’s something I deal with everyday. It’s something I’m aware of at
-  every moment; deep down I know it has it out for me. I’ll admit…
+description: 'Fear, it’s something I deal with everyday. It’s something I’m aware of at every moment; deep down I know it has it out for me. I’ll admit…'
 date: '2017-06-10T22:25:12.000Z'
 categories: []
 keywords: []
 slug: /fear-constant-enemy-silent-killer
 ---
 
-![](https://cdn-images-1.medium.com/max/1200/1*CgFJ89wJ70Cqd5IO1_rK9w.jpeg)
+![](https://images.unsplash.com/photo-1531926249475-325d7895646b?ixlib=rb-1.2.1&q=90&fm=jpg&crop=entropy&cs=tinysrgb&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 Fear, it’s something I deal with everyday. It’s something I’m aware of at every moment; deep down I know it has it out for me. I’ll admit, I almost didn’t write this post out of succumbing to the fear. Pardon my French, but fear is a bastard that knows no rules, only kill. Surely, if I’ve learned anything over the past few years, it’s that fear is a killer.
 
@@ -23,9 +21,7 @@ You see how silly and preposterous these fears are, but only once they are out i
 
 The result of fear isn’t a simple death — no, it is far more painful than that. The result of fear is the slow death of apathy, or inaction. This blog has lay fallow for — never mind, I’m not going to depress myself by actually seeing how long it’s been — way too long as busyness is apparently synonymous for engagement and then the fear set in. What if I had nothing to say? Haven’t I already said enough? What more is there to write about? What if I’m rusty and the post is garbage? Isn’t it just arrogant to write without having experienced and lived? To the last question, I would answer yes, but I’m also not exactly a shut-in. Most of these questions are valid questions and things to be contemplating. They are not, however, meant to be barriers to action. I should be contemplating if I have something important to say — or important to add if I’ve broached the topic before. I should be asking whether I have a basis to address the topic in the first place or if I may instead be hopping up on a flimsy soapbox.
 
-> _“Yeah, being apathetic’s a pathetic way to be But I don’t care What matters to you does not matter to me ’Cause I don’t care”_
-
-> [_“Apathetic Way to Be” by Relient K_](https://play.google.com/music/preview/Tofanxcnp2fwlaz73xxtguzjs2i?lyrics=1#)
+> _“Yeah, being apathetic’s a pathetic way to be  But I don’t care  What matters to you does not matter to me ’Cause I don’t care”  [_“Apathetic Way to Be” by Relient K_](https://play.google.com/music/preview/Tofanxcnp2fwlaz73xxtguzjs2i?lyrics=1#)_
 
 I have spent far too many days and months over the past two and a half years being apathetic, succumbing to fear. Just ask my wife. Fear has no limits, it will cut you down in your prime if you give it so much as an inch — and I have given it a mile. But fear is also exhausting. I’ve become fed up with being exhausted. And I’m pissed that I’ve allowed myself to waste so much time.
 
@@ -33,7 +29,7 @@ Fear is merciless. It will cut strong, healthy men and women down in their prime
 
 I think it began to hit me back in November right around the election. I saw myself, and the nation, reaching a precipice and I did not like what I could see on the other side. I felt rather helpless to turn around the larger ship, but I knew I had to do something for myself. So I got angry. That didn’t help much. Around this time I marched in the Women’s March. But I may save that experience for another time.
 
-As an aside, I want to apologize to those of you who I may have alienated with my [last post](https://medium.com/faith-through-doubt/election-2016-or-this-great-dumpster-fire-f643afd9dc8d). I am sorry for being so self-righteous and willingly hateful. The election showed that we have many wounds as a nation that are in desperate need of healing and I was not in those words acting as an agent of healing and reconciliation — what we are in so desperate a need of. I was not willing to view your political views, your thoughts, feelings, and aspirations as valuable and valid, and for that I am deeply sorry. Please forgive me.
+As an aside, I want to apologize to those of you who I may have alienated with my [last post](/election-2016-or-this-great-dumpster-fire/). I am sorry for being so self-righteous and willingly hateful. The election showed that we have many wounds as a nation that are in desperate need of healing and I was not in those words acting as an agent of healing and reconciliation — what we are in so desperate a need of. I was not willing to view your political views, your thoughts, feelings, and aspirations as valuable and valid, and for that I am deeply sorry. Please forgive me.
 
 What I began to understand shortly after the election was that a weapon against fear is purpose and dedication. So, I just had to find a purpose. No big deal, right? Thankfully, I had been accepted part-time at a seminary that has a campus a short metro ride away. I may have found that purpose, but with only one class under my belt it’s far too early to make such a definitive statement.
 
