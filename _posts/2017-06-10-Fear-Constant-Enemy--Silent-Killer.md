@@ -6,7 +6,7 @@ description: >-
 date: '2017-06-10T22:25:12.000Z'
 categories: []
 keywords: []
-slug: /fear-constant-enemy-silent-killer-6190156871e
+slug: /fear-constant-enemy-silent-killer
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*CgFJ89wJ70Cqd5IO1_rK9w.jpeg)
