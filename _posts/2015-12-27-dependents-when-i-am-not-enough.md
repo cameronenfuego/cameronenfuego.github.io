@@ -1,15 +1,13 @@
 ---
 title: Dependents (When I Am Not Enough)
-description: >-
-  I’d be willing to bet that the idea of being dependents ranks right up there
-  with submission, meekness, and self-denial. That is a…
+description: 'I’d be willing to bet that the idea of being dependents ranks right up there with submission, meekness, and self-denial.'
 date: '2015-12-27T19:42:51.000Z'
 categories: []
 keywords: []
 slug: /dependents-when-i-am-not-enough
 ---
 
-![](https://cdn-images-1.medium.com/max/2560/1*I8cAv42rACLKFQbqd9Zh3Q.jpeg)
+![](..\images\snow-mountain-forest-trees-snow.jpg)
 
 I’d be willing to bet that the idea of being dependents ranks right up there with submission, meekness, and self-denial. That is a downright scary list of terms. But it’s a damned important one; in the life of faith, they are nothing short of necessity.
 

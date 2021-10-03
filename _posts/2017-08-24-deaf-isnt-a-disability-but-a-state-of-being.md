@@ -1,12 +1,10 @@
 ---
-title: Deaf Isn’t a Disability But a State of Being
-description: >-
-  I was on the way to the airport to spend a few days with my dad. I stopped by
-  the house to drop off a few items of clothing that were worn…
+title: Deaf Isn’t a Disability But a State of Being (For Some)
+description: 'I was on the way to the airport to spend a few days with my dad. I stopped by the house to drop off a few items of clothing that were worn'
 date: '2017-08-24T19:02:10.000Z'
 categories: []
 keywords: []
-slug: /deaf-isnt-a-disability-but-a-state-of-being
+slug: /deaf-isnt-a-disability-but-a-state-of-being-for-some
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*JLD6OlPrdXad-n21UQwviA.jpeg)
