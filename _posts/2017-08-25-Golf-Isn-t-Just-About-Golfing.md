@@ -6,7 +6,7 @@ description: >-
 date: '2017-08-25T17:35:33.000Z'
 categories: []
 keywords: []
-slug: /golf-isnt-just-about-golfing-e4f26111869
+slug: /golf-isnt-just-about-golfing
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*2H8NOy0GyEtNcGpc3bWY7A.jpeg)
