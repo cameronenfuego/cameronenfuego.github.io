@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: cameronenfuego's blog
+name: doubt is faith
 
 # Short bio or description (displayed in the header)
-description: Just some words I put on your screen
+description: I used to believe that I needed faith through doubt. However, doubt is faith so here we are.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/11238397?v=4
@@ -32,13 +32,13 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-rss-description: Inside Cameron's brain which is on fire
+rss-description: Navigating doubt as a form of faith
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: false
+  linkedin: true
   vk: false
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -50,7 +50,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://cameronenfuego.github.io
+url: https://doubtisfaith.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -83,7 +83,7 @@ footer-text-col: "#424242"
 footer-link-col: "#606060"
 
 # Suggest a color for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#FAFAFA"
 
 #
 # !! You don't need to change any of the configuration flags below !!
