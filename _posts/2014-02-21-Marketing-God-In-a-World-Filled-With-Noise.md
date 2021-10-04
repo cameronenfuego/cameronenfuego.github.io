@@ -7,6 +7,8 @@ keywords: []
 slug: /marketing-god-in-a-world-filled-with-noise
 ---
 
+![](../images/woman-sleeping-car.jpg)
+
 While having a conversation the other day, I was asked the question, “Is a marketer successful if their efforts don’t result in sales?” “No,” I answered instantly, startling myself with my certainty. I gathered my thoughts and explained how the purpose of a business is to make money, and if a business isn’t selling, they aren’t making money, and they are out of business. The marketer ceases to be. And then I realized that analogy is somewhat applicable to our lives and how we share the Gospel. Except, God is the business in the analogy and the purpose of the “business” is to bring glory to God. If we really care about and love God, then we’ll talk about God, show Him to the world around us. We will be marketing God, but not to keep our jobs. We will find ways to be Jesus to the world, because our love will compel us to do so.
 
 #### marketing God through the noise

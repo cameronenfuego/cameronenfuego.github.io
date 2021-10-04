@@ -7,6 +7,8 @@ keywords: []
 slug: /relationships-are-about-community
 ---
 
+![](../images/cookout-outdoors.jpg)
+
 Sorry I’ve been incommunicado, friends. Life (as a whole) has been rather hectic and busy as of late. It seems this blog and my quiet times are the first things to go, and that’s a shame. But one thing that has kept coming up for me in the past couple weeks is community and its purpose. And in my churning, I’ve come to the conclusion that community is about genuine relationships and relationships are about community. But why the circular logic?
 
 #### why relationships are about community
