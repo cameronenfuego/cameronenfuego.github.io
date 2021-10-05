@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The End of the World (As We Know It)
 description: ''
 date: '2012-12-20T11:56:52.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Life Less Dull
 description: ''
 date: '2011-04-06T17:01:47.000Z'

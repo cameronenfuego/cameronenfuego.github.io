@@ -1,4 +1,5 @@
 ---
+layout: post
 title: When Getting Nothing Is the Best Gift
 description: ''
 date: '2014-01-21T16:30:58.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /when-getting-nothing-is-the-best-gift
 ---
 
-You know those times when you feel like God is silent, even that maybe He’s not there. Those are rough times for the soul. We feel abandoned, perhaps destitute, alone, and maybe get to the brink of hopelessness. Visiting the church this past weekend, I realized that these times of feeling forsaken, abandoned, are just what we need from time to time. It’s the moments when we feel God is giving us nothing that we are given a choice. Do we pursue God Himself, though we’re getting nothing from Him at the moment, do we love Him for who He is and not His gifts, or do we run?
+You know those times when you feel like God is silent, even that maybe He’s not there. Those are rough times for the soul. We feel abandoned, perhaps destitute, alone, and maybe get to the brink of hopelessness. Visiting the church this past weekend, I realized that these times of feeling forsaken, abandoned, are just what we need from time to time. It’s the moments when we feel God is giving us nothing that we are given a choice. Do we pursue God Himself, though we’re getting nothing from Him at the moment, do we love Him for who He is and not His gifts, or do we run?<!--more-->
 
 #### Getting nothing and loving it
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Knowledge Is Power
 description: ''
 date: '2012-05-24T11:34:23.000Z'

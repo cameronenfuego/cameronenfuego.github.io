@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Jumping Ship
 description: ''
 date: '2011-04-13T14:34:34.000Z'

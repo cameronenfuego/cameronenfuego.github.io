@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Zombies Exist
 description: ''
 date: '2012-09-20T11:49:33.000Z'

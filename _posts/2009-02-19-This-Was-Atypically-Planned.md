@@ -1,4 +1,5 @@
 ---
+layout: post
 title: This Was Atypically Planned
 description: ''
 date: '2009-02-19T18:47:00.000Z'

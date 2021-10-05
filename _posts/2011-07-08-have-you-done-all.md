@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Have You Done All?
 description: ''
 date: '2011-07-08T05:13:53.000Z'

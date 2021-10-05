@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Tired of Missing Out
 description: ''
 date: '2013-01-24T12:00:08.000Z'

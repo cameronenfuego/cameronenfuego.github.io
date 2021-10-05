@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Rather Non-Triumphant Return
 description: ''
 date: '2010-04-26T00:14:00.000Z'

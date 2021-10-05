@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Needing Rest After the Weekend
 description: ''
 date: '2013-06-03T13:11:21.000Z'

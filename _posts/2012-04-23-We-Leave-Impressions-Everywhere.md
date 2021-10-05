@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We Leave Impressions Everywhere
 description: ''
 date: '2012-04-23T12:21:30.000Z'

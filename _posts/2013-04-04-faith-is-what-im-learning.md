@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Faith Is: What I’m Learning'
 description: ''
 date: '2013-04-04T14:09:00.000Z'

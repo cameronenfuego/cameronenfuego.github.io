@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Original Sin: In Need of a Savior'
 description: ''
 date: '2013-10-31T14:44:08.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Constructive Dissent
 description: ''
 date: '2012-06-21T11:46:19.000Z'

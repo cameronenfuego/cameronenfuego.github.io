@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Do You Know Where You’re Going?
 description: ''
 date: '2012-09-06T07:43:37.000Z'

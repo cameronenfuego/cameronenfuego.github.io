@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Prayer: Artificial Shroud of My Soul'
 description: ''
 date: '2010-11-05T14:06:00.000Z'

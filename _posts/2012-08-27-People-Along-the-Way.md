@@ -1,4 +1,5 @@
 ---
+layout: post
 title: People Along the Way
 description: ''
 date: '2012-08-27T12:19:33.000Z'

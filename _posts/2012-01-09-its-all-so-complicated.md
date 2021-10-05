@@ -1,4 +1,5 @@
 ---
+layout: post
 title: It’s All So Complicated
 description: ''
 date: '2012-01-09T14:00:47.000Z'

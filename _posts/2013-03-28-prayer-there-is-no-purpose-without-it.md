@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Prayer: There Is No Purpose Without It'
 description: ''
 date: '2013-03-28T12:45:14.000Z'

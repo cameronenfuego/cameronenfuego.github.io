@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Believing Lies Will Distract You from Purpose
 description: ''
 date: '2015-02-21T21:08:39.000Z'
@@ -9,7 +10,7 @@ slug: /believing-lies-will-distract-you-from-purpose
 
 ![](https://cdn-images-1.medium.com/max/1200/1*x0ZkHBjcEeun_J1BBk6OPQ.jpeg)
 
-I’ve believed a lot of silly half-truths and lies thus far in my life. Like, when I was 5 or so, my brother and dad convinced me that I was going to spawn a watermelon from my abdomen like an alien from the movie _Alien_. Seriously, I was nearly in tears the evening after swallowing that first fateful seed. And while that’s a silly example, I think it has a lot to do with this idea of [busyness](http://104.193.143.57/~waywar13/ce/curious-case-busyness/ "The Curious Case of Busyness") I’ve been ruminating on the past few weeks.
+I’ve believed a lot of silly half-truths and lies thus far in my life. Like, when I was 5 or so, my brother and dad convinced me that I was going to spawn a watermelon from my abdomen like an alien from the movie _Alien_. Seriously, I was nearly in tears the evening after swallowing that first fateful seed. And while that’s a silly example, I think it has a lot to do with this idea of [busyness](http://104.193.143.57/~waywar13/ce/curious-case-busyness/ "The Curious Case of Busyness") I’ve been ruminating on the past few weeks.<!--more-->
 
 #### Refocusing: it’s consuming
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We’re All Searching
 description: ''
 date: '2011-12-29T12:45:54.000Z'

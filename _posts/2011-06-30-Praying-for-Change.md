@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Praying for Change
 description: ''
 date: '2011-06-30T19:57:50.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Coming in Last
 description: ''
 date: '2009-02-04T03:43:00.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Sound of Silence to a Racing Heart
 description: ''
 date: '2013-08-08T13:28:44.000Z'

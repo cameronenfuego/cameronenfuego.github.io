@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Rattle the Cages
 description: ''
 date: '2010-09-10T01:35:00.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Prolonging the Gratefulness
 description: ''
 date: '2013-12-03T15:00:18.000Z'

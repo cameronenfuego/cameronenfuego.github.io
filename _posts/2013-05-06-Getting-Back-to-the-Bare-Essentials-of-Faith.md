@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Getting Back to the Bare Essentials of Faith
 description: ''
 date: '2013-05-06T12:54:31.000Z'

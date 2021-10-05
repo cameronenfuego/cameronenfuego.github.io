@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Out of Control
 description: ''
 date: '2011-08-09T11:30:11.000Z'

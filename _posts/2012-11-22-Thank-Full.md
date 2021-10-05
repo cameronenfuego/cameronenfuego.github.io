@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thank Full
 description: ''
 date: '2012-11-22T14:43:27.000Z'

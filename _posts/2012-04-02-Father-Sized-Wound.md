@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Father-Sized Wound
 description: ''
 date: '2012-04-02T11:45:34.000Z'

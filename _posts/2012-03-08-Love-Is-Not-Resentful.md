@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Is Not Resentful
 description: ''
 date: '2012-03-08T12:49:56.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love to Love
 description: ''
 date: '2011-07-29T11:30:34.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Anti-Social Network
 description: ''
 date: '2011-02-15T06:10:22.000Z'

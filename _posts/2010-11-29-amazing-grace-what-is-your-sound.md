@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Amazing Grace, What Is Your Sound?'
 description: ''
 date: '2010-11-29T18:44:00.000Z'

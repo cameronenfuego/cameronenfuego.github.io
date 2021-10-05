@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Righteous?
 description: ''
 date: '2009-02-06T03:54:00.000Z'

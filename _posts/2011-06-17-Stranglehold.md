@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Stranglehold
 description: ''
 date: '2011-06-17T13:00:26.000Z'

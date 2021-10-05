@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Is Love Winning?
 description: ''
 date: '2011-05-18T16:06:45.000Z'

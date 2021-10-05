@@ -1,4 +1,5 @@
 ---
+layout: post
 title: “Trouble Sharing with Others”
 description: ''
 date: '2011-03-09T22:38:02.000Z'

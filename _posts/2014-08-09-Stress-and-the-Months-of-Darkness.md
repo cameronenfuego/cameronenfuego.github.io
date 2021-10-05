@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Stress and the Months of Darkness
 description: ''
 date: '2014-08-09T18:49:10.000Z'
@@ -9,7 +10,7 @@ slug: /stress-and-the-months-of-darkness
 
 ![](https://cdn-images-1.medium.com/max/1200/0*l0FbLyE5OXBfaAHH.jpg)
 
-I don’t know where to begin, as it’s been…too long. So, like any good writer, I’ll start in the middle. I’ve been struggling to put words to paper (screen) for over two months, because I’ve been unwilling to let go of the altruistic, but ultimately fake ideal that this blog isn’t for me or about me, and since I had nothing really uplifting to say, I said nothing. And it’s in that quiet, tension-filled djinn I’ve languished the past couple months. So, I’m sorry reader, this blog is not about you, but I sincerely hope you enjoy the ride. Otherwise, please feel free to stop reading here. Don’t worry, my feelings won’t be hurt in the least.
+I don’t know where to begin, as it’s been…too long. So, like any good writer, I’ll start in the middle. I’ve been struggling to put words to paper (screen) for over two months, because I’ve been unwilling to let go of the altruistic, but ultimately fake ideal that this blog isn’t for me or about me, and since I had nothing really uplifting to say, I said nothing. And it’s in that quiet, tension-filled djinn I’ve languished the past couple months. So, I’m sorry reader, this blog is not about you, but I sincerely hope you enjoy the ride. Otherwise, please feel free to stop reading here. Don’t worry, my feelings won’t be hurt in the least.<!--more-->
 
 > So I’m not sure why it always goes downhill  
 > Why broken cisterns never could stay filled  

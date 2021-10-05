@@ -1,4 +1,5 @@
 ---
+layout: post
 title: For His Steadfast Love Endures Forever
 description: ''
 date: '2014-03-19T14:40:16.000Z'
@@ -9,7 +10,7 @@ slug: /for-his-steadfast-love-endures-forever
 
 ![](https://cdn-images-1.medium.com/max/1200/0*az-aHZsqIfAcmEh0.jpg)
 
-It’s been a really long time since I last blogged. Forgive me, friends. I’d completely intended to post after spending a morning reading through the words above “for His steadfast love endures forever,” _twenty-six_ times throughout [Psalm 136](http://www.biblegateway.com/passage/?search=psalm+136&version=ESV). For perspective, there are only twenty-six verses in the psalm. A few days later, I come across Psalm 138, which references this very same phrase. God is trying to tell me something. God is trying to tell us all something about His love.
+It’s been a really long time since I last blogged. Forgive me, friends. I’d completely intended to post after spending a morning reading through the words above “for His steadfast love endures forever,” _twenty-six_ times throughout [Psalm 136](http://www.biblegateway.com/passage/?search=psalm+136&version=ESV). For perspective, there are only twenty-six verses in the psalm. A few days later, I come across Psalm 138, which references this very same phrase. God is trying to tell me something. God is trying to tell us all something about His love.<!--more-->
 
 #### steadfast love was
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Choice
 description: ''
 date: '2011-09-26T13:51:14.000Z'

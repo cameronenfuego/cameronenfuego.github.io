@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Faith Less Dependent
 description: ''
 date: '2011-08-16T11:30:11.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Gifts Of the Spirit
 description: ''
 date: '2012-07-26T11:30:50.000Z'

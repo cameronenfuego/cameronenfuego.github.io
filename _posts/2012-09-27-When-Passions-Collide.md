@@ -1,4 +1,5 @@
 ---
+layout: post
 title: When Passions Collide
 description: ''
 date: '2012-09-27T12:08:02.000Z'

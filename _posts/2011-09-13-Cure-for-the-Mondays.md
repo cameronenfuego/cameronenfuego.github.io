@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cure for the Mondays
 description: ''
 date: '2011-09-13T11:30:27.000Z'

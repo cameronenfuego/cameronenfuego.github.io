@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Running for Comfort in Hypocrisy
 description: ''
 date: '2013-03-04T14:07:19.000Z'

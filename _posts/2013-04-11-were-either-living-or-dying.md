@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We’re Either Living or Dying
 description: ''
 date: '2013-04-11T13:41:43.000Z'

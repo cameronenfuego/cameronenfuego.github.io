@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Is Patient
 description: ''
 date: '2012-01-12T12:47:24.000Z'

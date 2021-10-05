@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Exploring the Gift of Imperfection
 description: >-
   I’ll confess, the prospect of imperfection after years of the need to be
@@ -11,7 +12,7 @@ slug: /exploring-the-gift-of-imperfection
 
 ![](https://cdn-images-1.medium.com/max/1200/1*iAI9mBVydZmVNH7nWIjKNg.jpeg)
 
-I’ll confess, the prospect of imperfection after years of the need to be perfect is not in the least enticing. It’s hard pretending that I want to be anything less than perfect most all of the time. As I said, I learned at a young age that perfection was required for love, safety, and survival. However, perfection isn’t real; I don’t want to be real, I want to survive; please don’t let my humanity show. I think this reflects too much of my prayer life.
+I’ll confess, the prospect of imperfection after years of the need to be perfect is not in the least enticing. It’s hard pretending that I want to be anything less than perfect most all of the time. As I said, I learned at a young age that perfection was required for love, safety, and survival. However, perfection isn’t real; I don’t want to be real, I want to survive; please don’t let my humanity show. I think this reflects too much of my prayer life.<!--more-->
 
 Yet, imperfection is real. Who of us — myself especially it seems — is anything more than just that: imperfect? It’s so easy to edit, apply the right filters, and ignore the ugly so that everyone thinks I am perfect. Social media makes this near-effortless. Those gorgeous vacation photos, the staged pictures with friends. What about the morning I forgot my badge for the office and had to wait around until I was allowed into the building? That really happened to me not too long ago. What about the time I raised my voice at my wife? Nowhere to be found on social media. What about the time I spent at work worrying that I couldn’t learn a new coding framework, so I put off the work? Uh, yeah. I’d be willing to say that I don’t want at least 80% of my life on social media. And I’d say that 80% isn’t far from the moments I consider less than perfect.
 

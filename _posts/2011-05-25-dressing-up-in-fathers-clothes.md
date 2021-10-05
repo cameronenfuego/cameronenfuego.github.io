@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dressing Up In Father’s Clothes
 description: ''
 date: '2011-05-25T19:17:10.000Z'

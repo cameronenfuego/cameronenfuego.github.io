@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Risky Business
 description: ''
 date: '2011-09-23T11:30:06.000Z'

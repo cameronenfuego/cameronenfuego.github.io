@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Running at Dusk
 description: ''
 date: '2011-10-31T11:59:36.000Z'

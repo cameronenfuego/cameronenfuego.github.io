@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Getting Back to Getting Personal
 description: ''
 date: '2010-06-02T14:08:00.000Z'

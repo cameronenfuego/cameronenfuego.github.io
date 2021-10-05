@@ -1,4 +1,5 @@
 ---
+layout: post
 title: If It Ain’t Broke
 description: ''
 date: '2012-01-30T12:52:28.000Z'

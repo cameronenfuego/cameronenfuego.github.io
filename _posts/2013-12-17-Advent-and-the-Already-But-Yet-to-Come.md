@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Advent and the Already But Yet to Come
 description: ''
 date: '2013-12-17T15:00:23.000Z'

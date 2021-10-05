@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The New Commandment That Isn’t So New
 description: ''
 date: '2013-08-12T14:03:55.000Z'

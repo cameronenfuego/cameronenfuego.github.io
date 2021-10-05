@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We All Receive Gifts We Don’t Want
 description: ''
 date: '2011-12-26T13:09:34.000Z'

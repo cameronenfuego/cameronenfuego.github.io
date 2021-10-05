@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Not a Birthright
 description: ''
 date: '2012-11-15T13:02:34.000Z'

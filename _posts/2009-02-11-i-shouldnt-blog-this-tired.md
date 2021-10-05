@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Shouldn’t Blog This Tired
 description: ''
 date: '2009-02-11T03:50:00.000Z'

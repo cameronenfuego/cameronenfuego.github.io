@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Can’t Quit, Won’t Quit, Just No Need To'
 description: ''
 date: '2013-11-15T14:52:48.000Z'

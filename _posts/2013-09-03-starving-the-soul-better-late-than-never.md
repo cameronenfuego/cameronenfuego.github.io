@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Starving the Soul (Better Late Than Never)
 description: ''
 date: '2013-09-03T14:15:58.000Z'

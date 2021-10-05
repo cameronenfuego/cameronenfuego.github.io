@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The God Who Doesn’t Settle
 description: ''
 date: '2013-09-23T14:15:53.000Z'

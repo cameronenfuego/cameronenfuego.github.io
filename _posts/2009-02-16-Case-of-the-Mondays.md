@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Case of the Mondays
 description: ''
 date: '2009-02-16T17:23:00.000Z'

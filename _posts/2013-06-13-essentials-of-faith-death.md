@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Death'
 description: ''
 date: '2013-06-13T13:42:36.000Z'

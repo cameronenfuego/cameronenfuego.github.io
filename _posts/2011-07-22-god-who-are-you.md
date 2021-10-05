@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'God, Who Are You?'
 description: ''
 date: '2011-07-22T14:40:07.000Z'

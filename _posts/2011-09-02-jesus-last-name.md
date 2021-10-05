@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Jesus, Last Name?'
 description: ''
 date: '2011-09-02T11:30:18.000Z'

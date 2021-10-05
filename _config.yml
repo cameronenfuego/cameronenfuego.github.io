@@ -26,7 +26,7 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram:
+  instagram: doubtisfaith
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -61,6 +61,18 @@ url: https://doubtisfaith.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Setting page defaults starting with posts
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+
+# Excerpt separator
+excerpt_separator: <!--more-->
+
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
@@ -81,7 +93,7 @@ page-col: "#FFFFFF"
 text-col: "#212121"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EEEEEE"
+footer-col: "#F0F0F0"
 footer-text-col: "#424242"
 footer-link-col: "#606060"
 

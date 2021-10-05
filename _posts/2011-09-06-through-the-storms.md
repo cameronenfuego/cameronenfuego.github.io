@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Through the Storms
 description: ''
 date: '2011-09-06T11:50:54.000Z'

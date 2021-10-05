@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Does Not Rejoice At Wrongdoing
 description: ''
 date: '2012-03-15T11:51:05.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Ghost of Community Past
 description: ''
 date: '2011-03-16T20:44:29.000Z'

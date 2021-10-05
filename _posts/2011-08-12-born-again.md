@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Born Again
 description: ''
 date: '2011-08-12T11:30:42.000Z'

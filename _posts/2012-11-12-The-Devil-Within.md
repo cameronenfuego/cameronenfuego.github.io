@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Devil Within
 description: ''
 date: '2012-11-12T15:03:25.000Z'

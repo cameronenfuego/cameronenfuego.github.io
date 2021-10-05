@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Maintain Consciousness
 description: ''
 date: '2013-01-10T13:53:45.000Z'

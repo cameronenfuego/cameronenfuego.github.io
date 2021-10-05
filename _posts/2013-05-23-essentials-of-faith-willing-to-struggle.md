@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Willing to Struggle'
 description: ''
 date: '2013-05-23T13:50:07.000Z'

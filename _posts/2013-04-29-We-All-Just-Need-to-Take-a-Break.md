@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We All Just Need to Take a Break
 description: ''
 date: '2013-04-29T18:01:37.000Z'

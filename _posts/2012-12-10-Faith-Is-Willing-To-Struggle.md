@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Faith Is Willing To Struggle
 description: ''
 date: '2012-12-10T13:43:06.000Z'

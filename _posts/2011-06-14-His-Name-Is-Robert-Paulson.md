@@ -1,4 +1,5 @@
 ---
+layout: post
 title: His Name Is Robert Paulson
 description: ''
 date: '2011-06-14T13:41:50.000Z'

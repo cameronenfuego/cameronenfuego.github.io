@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Am a Thief
 description: ''
 date: '2011-04-29T13:00:06.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Vine of the Living
 description: ''
 date: '2013-06-10T13:57:57.000Z'

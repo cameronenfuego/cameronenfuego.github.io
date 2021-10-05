@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Worn and Tattered, but Praising'
 description: ''
 date: '2013-03-21T13:07:57.000Z'

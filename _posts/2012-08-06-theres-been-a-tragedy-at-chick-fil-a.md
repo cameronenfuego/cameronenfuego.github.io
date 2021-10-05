@@ -1,4 +1,5 @@
 ---
+layout: post
 title: There’s Been a Tragedy At Chick-fil-A
 description: ''
 date: '2012-08-06T11:18:18.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Give Us This Day Our Daily Bread
 description: ''
 date: '2011-12-05T13:00:58.000Z'

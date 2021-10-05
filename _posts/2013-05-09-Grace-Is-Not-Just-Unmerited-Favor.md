@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Grace Is Not Just Unmerited Favor
 description: ''
 date: '2013-05-09T13:22:11.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 13 Mile Journey
 description: ''
 date: '2012-08-13T11:59:06.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Taming the Wilderness
 description: ''
 date: '2012-08-09T13:57:17.000Z'

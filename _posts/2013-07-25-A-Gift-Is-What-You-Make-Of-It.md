@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Gift Is What You Make Of It
 description: ''
 date: '2013-07-25T13:00:09.000Z'

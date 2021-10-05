@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Frayed Edges
 description: ''
 date: '2009-02-24T02:00:00.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Election 2016 or This Great Dumpster Fire
 description: 'Hello again, friends. It’s been over 10 months since my last post, but this election has me thinking thoughts I feel I need to return here…'
 date: '2016-11-08T19:11:01.207Z'
@@ -9,7 +10,7 @@ slug: /election-2016-or-this-great-dumpster-fire
 
 ![](https://images.unsplash.com/photo-1523761525159-56997b040b48?ixlib=rb-1.2.1&q=90&fm=jpg&crop=entropy&cs=tinysrgb&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-Hello again, friends. It’s been over 10 months since my last post, but this election has me thinking thoughts I feel I need to return here to process before I burst. Perhaps I feel like I’m going crazy, but at least I know I’m not going crazy alone. This has been a long and ugly campaign season. We’ve endured months on end of some of the meanest and most personal attacking tactics I can recall — not that I’ve been paying attention to too many in my still-short life.
+Hello again, friends. It’s been over 10 months since my last post, but this election has me thinking thoughts I feel I need to return here to process before I burst. Perhaps I feel like I’m going crazy, but at least I know I’m not going crazy alone. This has been a long and ugly campaign season. We’ve endured months on end of some of the meanest and most personal attacking tactics I can recall — not that I’ve been paying attention to too many in my still-short life.<!--more-->
 
 But it’s not the campaigns that trouble me, no. This is what I have come to expect from our two major parties who thrive on lobbing grenades over the aisle as if we are reenacting the Battle of the Bulge. What I didn’t expect is the way that we the electorate — particularly those who claim to love Jesus — have bought into the fear mongering and outright hatred espoused by this campaign season. It’s how a recent poll revealed that almost eighty percent of white evangelicals — that is four out of five — support a candidate that is _racist, misogynistic, xenophobic, and regularly inciting of violence_, among other things.
 

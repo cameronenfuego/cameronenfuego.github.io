@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Flatline Worship
 description: ''
 date: '2013-01-31T14:19:31.000Z'

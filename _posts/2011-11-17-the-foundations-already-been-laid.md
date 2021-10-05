@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Foundation’s Already Been Laid
 description: ''
 date: '2011-11-17T12:45:53.000Z'

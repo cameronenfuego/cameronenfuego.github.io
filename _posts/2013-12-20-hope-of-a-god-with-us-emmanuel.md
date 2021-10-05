@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Hope of a God with Us: Emmanuel'
 description: ''
 date: '2013-12-20T14:38:28.000Z'

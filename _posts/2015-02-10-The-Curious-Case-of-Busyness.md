@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Curious Case of Busyness
 description: ''
 date: '2015-02-10T19:21:59.000Z'
@@ -9,7 +10,7 @@ slug: /the-curious-case-of-busyness
 
 ![](https://cdn-images-1.medium.com/max/1200/1*xD_zk58mhpBafGXRIOX_og.jpeg)
 
-I wish I had a conclusion to this post, but I’m really just jotting down some thoughts on the idea of busyness as a means of putting those thoughts to paper (screen, but whatever). I’m also trying to bounce those thoughts off you, so if you have some feedback, I’d love to hear it. But busyness is a curious thing, said the man too “busy” to blog regularly. What really _is_ busyness? Is it a fate inevitable in the current age? Is it a side effect of a life being squeezed of every last drop of enjoyment and effectiveness like the juice of a ripe orange? Or could it be the opposite? Okay, I think it’s two things: a distraction filled lifestyle and an unwillingness to focus, borne of the fear of missing out.
+I wish I had a conclusion to this post, but I’m really just jotting down some thoughts on the idea of busyness as a means of putting those thoughts to paper (screen, but whatever). I’m also trying to bounce those thoughts off you, so if you have some feedback, I’d love to hear it. But busyness is a curious thing, said the man too “busy” to blog regularly. What really _is_ busyness? Is it a fate inevitable in the current age? Is it a side effect of a life being squeezed of every last drop of enjoyment and effectiveness like the juice of a ripe orange? Or could it be the opposite? Okay, I think it’s two things: a distraction filled lifestyle and an unwillingness to focus, borne of the fear of missing out.<!--more-->
 
 > What if we’re, _I’m_, so busy because of all the distractions we’re afforded today?
 

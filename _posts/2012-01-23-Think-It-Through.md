@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Think It Through
 description: ''
 date: '2012-01-23T12:48:52.000Z'

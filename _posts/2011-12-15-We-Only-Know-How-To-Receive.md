@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We Only Know How To Receive
 description: ''
 date: '2011-12-15T13:12:31.000Z'

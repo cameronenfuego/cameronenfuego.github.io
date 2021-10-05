@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What’s Wrong With Sex?
 description: ''
 date: '2012-10-01T12:07:42.000Z'

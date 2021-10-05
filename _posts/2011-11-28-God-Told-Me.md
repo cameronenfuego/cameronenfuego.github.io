@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God Told Me
 description: ''
 date: '2011-11-28T13:04:50.000Z'

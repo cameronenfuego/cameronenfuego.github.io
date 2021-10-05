@@ -1,4 +1,5 @@
 ---
+layout: post
 title: People. Life Is About the People
 description: ''
 date: '2013-03-11T13:27:11.000Z'

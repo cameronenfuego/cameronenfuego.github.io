@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Imbalance
 description: ''
 date: '2012-04-30T11:52:54.000Z'

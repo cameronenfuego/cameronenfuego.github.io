@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Anything But Balanced
 description: ''
 date: '2011-11-03T11:30:22.000Z'

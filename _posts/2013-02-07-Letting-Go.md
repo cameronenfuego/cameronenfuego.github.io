@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Letting Go
 description: ''
 date: '2013-02-07T14:04:58.000Z'

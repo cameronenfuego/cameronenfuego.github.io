@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hope for the New Week
 description: ''
 date: '2013-04-22T13:46:14.000Z'

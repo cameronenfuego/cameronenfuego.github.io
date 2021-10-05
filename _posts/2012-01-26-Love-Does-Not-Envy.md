@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Does Not Envy
 description: ''
 date: '2012-01-26T12:57:33.000Z'

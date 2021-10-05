@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Crying Out to Be Heard (In Search of an Identity)
 description: ''
 date: '2015-08-22T17:49:41.000Z'
@@ -9,7 +10,7 @@ slug: /crying-out-to-be-heard
 
 ![](https://cdn-images-1.medium.com/max/1200/1*vs_qQxf8QcHYCVgMEZb36A.jpeg)
 
-It’s sobering seeing that the last post here was from March. That was nearly 5 months ago for those of you doing the quick math. If you had been following along with this blog for any period of time, I apologize for my sudden and prolonged disappearance. I needed a little time away. While not writing at all is not the best course of action, I know it’s afforded me a little perspective on myself and how I can better communicate about this self.
+It’s sobering seeing that the last post here was from March. That was nearly 5 months ago for those of you doing the quick math. If you had been following along with this blog for any period of time, I apologize for my sudden and prolonged disappearance. I needed a little time away. While not writing at all is not the best course of action, I know it’s afforded me a little perspective on myself and how I can better communicate about this self.<!--more-->
 
 When my parents separated, a large part of my identity fell through the cracks of that schism. In my ignoring the tremendous confusion, pain, and anger, I was listless, hollow. That is, until I started going to counseling and found some identity in being the older brother to my sister.
 

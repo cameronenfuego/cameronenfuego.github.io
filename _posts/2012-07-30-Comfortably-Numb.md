@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Comfortably Numb
 description: ''
 date: '2012-07-30T11:55:37.000Z'

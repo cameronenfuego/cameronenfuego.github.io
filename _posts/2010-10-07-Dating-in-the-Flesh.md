@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dating in the Flesh
 description: ''
 date: '2010-10-07T18:22:00.000Z'

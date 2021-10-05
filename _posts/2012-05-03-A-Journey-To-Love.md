@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Journey To Love
 description: ''
 date: '2012-05-03T12:13:01.000Z'

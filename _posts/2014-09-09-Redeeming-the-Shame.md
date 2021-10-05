@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Redeeming the Shame
 description: ''
 date: '2014-09-09T10:43:00.000Z'
@@ -9,7 +10,7 @@ slug: /redeeming-the-shame
 
 ![](https://cdn-images-1.medium.com/max/1200/1*Rx9JMXIKLhb6hFizZluEQw.jpeg)
 
-There are many things that can seem to bring us shame in this life. We are fragile souls treading lightly across an unforgiving and often harsh earth, so it should be no surprise that we all at some point experience shame for something we for one reason or another believe should bring us to the harsher hell that is shame. Today, I’m going to let you in to view one event that brought me nearly fifteen years of it. I will warn you, friend, it is not the feeble shame of a white lie once told to protect the feelings of a friend, but shame from something far more damaging, more sinister. So please, if you would like to stop reading, I encourage you do so now, my feelings are unhurt.
+There are many things that can seem to bring us shame in this life. We are fragile souls treading lightly across an unforgiving and often harsh earth, so it should be no surprise that we all at some point experience shame for something we for one reason or another believe should bring us to the harsher hell that is shame. Today, I’m going to let you in to view one event that brought me nearly fifteen years of it. I will warn you, friend, it is not the feeble shame of a white lie once told to protect the feelings of a friend, but shame from something far more damaging, more sinister. So please, if you would like to stop reading, I encourage you do so now, my feelings are unhurt.<!--more-->
 
 #### The shame of dehumanization
 

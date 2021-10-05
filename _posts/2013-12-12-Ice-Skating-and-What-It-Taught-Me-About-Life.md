@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ice Skating and What It Taught Me About Life
 description: ''
 date: '2013-12-12T15:17:22.000Z'

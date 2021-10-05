@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I’m Such a Poser
 description: ''
 date: '2009-02-12T20:22:00.000Z'

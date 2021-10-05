@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Community Is Threatening
 description: ''
 date: '2012-05-14T11:58:55.000Z'

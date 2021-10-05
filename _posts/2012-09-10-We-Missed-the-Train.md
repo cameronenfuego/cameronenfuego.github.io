@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We Missed the Train
 description: ''
 date: '2012-09-10T14:46:05.000Z'

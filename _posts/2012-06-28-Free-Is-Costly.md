@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Free Is Costly
 description: ''
 date: '2012-06-28T11:35:16.000Z'

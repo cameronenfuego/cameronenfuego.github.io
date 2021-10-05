@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Thankful: Beach Vacation Without the Beach'
 description: ''
 date: '2013-05-27T13:49:00.000Z'

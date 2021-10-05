@@ -1,4 +1,5 @@
 ---
+layout: post
 title: My Lonely Confession
 description: ''
 date: '2013-03-25T13:05:25.000Z'

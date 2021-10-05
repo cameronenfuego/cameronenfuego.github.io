@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Expectations and Risk and Purpose, Oh My!'
 description: ''
 date: '2011-10-03T11:30:33.000Z'

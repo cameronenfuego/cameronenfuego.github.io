@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Busy Christmas and the Busy Heart
 description: ''
 date: '2013-12-27T14:49:00.000Z'

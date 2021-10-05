@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Three Things I Learned From the First Missionary
 description: ''
 date: '2013-09-19T14:47:51.000Z'

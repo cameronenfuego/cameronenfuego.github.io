@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Your Life Is a Drink Offering
 description: ''
 date: '2011-12-19T12:45:18.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Caught Between Two Worlds
 description: ''
 date: '2011-02-03T06:08:00.000Z'

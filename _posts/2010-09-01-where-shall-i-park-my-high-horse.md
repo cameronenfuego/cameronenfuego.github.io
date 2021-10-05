@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Where Shall I Park My High Horse?
 description: ''
 date: '2010-09-01T19:16:00.000Z'

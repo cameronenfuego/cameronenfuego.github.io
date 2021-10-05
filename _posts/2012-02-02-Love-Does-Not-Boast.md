@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Does Not Boast
 description: ''
 date: '2012-02-02T12:45:08.000Z'

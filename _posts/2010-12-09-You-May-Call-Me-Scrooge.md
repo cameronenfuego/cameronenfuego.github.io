@@ -1,4 +1,5 @@
 ---
+layout: post
 title: You May Call Me Scrooge
 description: ''
 date: '2010-12-09T05:46:00.000Z'

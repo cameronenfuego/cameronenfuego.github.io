@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Death and a Babe
 description: ''
 date: '2011-12-12T12:45:37.000Z'

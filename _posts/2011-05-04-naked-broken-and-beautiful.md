@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Naked, Broken and Beautiful'
 description: ''
 date: '2011-05-04T14:33:59.000Z'

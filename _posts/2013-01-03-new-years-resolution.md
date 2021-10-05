@@ -1,4 +1,5 @@
 ---
+layout: post
 title: New Year’s Resolution
 description: ''
 date: '2013-01-03T12:42:18.000Z'

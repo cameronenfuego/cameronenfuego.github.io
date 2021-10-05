@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Not Given Up on Me Yet
 description: ''
 date: '2011-04-27T13:00:41.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: One Of Billions
 description: ''
 date: '2012-06-11T11:40:43.000Z'

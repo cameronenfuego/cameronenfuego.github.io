@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fighting for Love
 description: ''
 date: '2013-01-21T13:48:38.000Z'

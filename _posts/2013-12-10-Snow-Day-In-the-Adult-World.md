@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Snow Day In the Adult World
 description: ''
 date: '2013-12-10T18:42:16.000Z'

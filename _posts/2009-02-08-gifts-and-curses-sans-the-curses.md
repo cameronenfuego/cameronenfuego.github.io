@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Gifts and Curses, Sans the Curses'
 description: ''
 date: '2009-02-08T20:54:00.000Z'

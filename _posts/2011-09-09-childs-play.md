@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Child’s Play
 description: ''
 date: '2011-09-09T11:30:36.000Z'

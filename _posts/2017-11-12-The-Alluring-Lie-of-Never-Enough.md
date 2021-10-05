@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Alluring Lie of Never Enough
 description: >-
   It’s called scarcity, but I didn’t know that as a child. I only knew that I
@@ -11,7 +12,7 @@ slug: /the-alluring-lie-of-never-enough
 
 ![](https://cdn-images-1.medium.com/max/1200/1*6fjqxslyrzFdJSzxyxjfRQ.jpeg)
 
-It’s called scarcity, but I didn’t know that as a child. I only knew that I was supposed to act a certain way, that I was supposed to achieve a certain amount — I was never sure what that magical amount was. There was a definition that my parents had articulated in part of perfection, of enough, that I was constantly chasing. Except, I never stopped, never questioned, and here I am. All I have is “not enough”; there is never _enough; I am not enough_.
+It’s called scarcity, but I didn’t know that as a child. I only knew that I was supposed to act a certain way, that I was supposed to achieve a certain amount — I was never sure what that magical amount was. There was a definition that my parents had articulated in part of perfection, of enough, that I was constantly chasing. Except, I never stopped, never questioned, and here I am. All I have is “not enough”; there is never _enough; I am not enough_.<!--more-->
 
 > I am not enough
 

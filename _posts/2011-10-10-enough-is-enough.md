@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Enough Is Enough
 description: ''
 date: '2011-10-10T14:04:58.000Z'

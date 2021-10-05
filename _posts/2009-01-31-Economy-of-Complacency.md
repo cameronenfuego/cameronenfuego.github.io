@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Economy of Complacency
 description: ''
 date: '2009-01-31T18:22:00.000Z'

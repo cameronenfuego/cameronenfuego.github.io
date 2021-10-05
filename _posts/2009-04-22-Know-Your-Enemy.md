@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Know Your Enemy
 description: ''
 date: '2009-04-22T22:59:00.000Z'

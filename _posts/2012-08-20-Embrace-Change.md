@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Embrace Change
 description: ''
 date: '2012-08-20T11:53:10.000Z'

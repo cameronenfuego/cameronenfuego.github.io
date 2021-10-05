@@ -1,4 +1,5 @@
 ---
+layout: post
 title: On Being Real and Heartbreak
 description: >-
   My heart is heavy as I sit down to type this. I do not know how to relate to
@@ -11,7 +12,7 @@ slug: /on-being-real-and-heartbreak
 
 ![](https://cdn-images-1.medium.com/max/1200/1*VIh-EfehUo3OqRL8YJsfDg.jpeg)
 
-My heart is heavy as I sit down to type this. I do not know how to relate to you this story, nor do I feel joy in its telling. But I feel this is the story I need to tell today; the real, the visceral pain I’m living is the story, the only story I have for you. Please accept this love offering.
+My heart is heavy as I sit down to type this. I do not know how to relate to you this story, nor do I feel joy in its telling. But I feel this is the story I need to tell today; the real, the visceral pain I’m living is the story, the only story I have for you. Please accept this love offering.<!--more-->
 
 I’ve never been an exemplary husband. That’s not self-deprecation, but a stated fact. I’ve failed in that role time and again, but my real failure was convincing myself that I could and would somehow overcome this shortfall too.
 

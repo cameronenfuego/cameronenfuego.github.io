@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Gay Marriage: Where Should Christians Stand?'
 description: ''
 date: '2013-07-15T15:17:00.000Z'

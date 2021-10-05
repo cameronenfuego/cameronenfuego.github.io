@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wellness Is Not Just a Health Issue
 description: ''
 date: '2013-07-22T12:00:13.000Z'

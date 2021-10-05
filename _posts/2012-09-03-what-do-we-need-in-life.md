@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What Do We Need In Life?
 description: ''
 date: '2012-09-03T12:26:56.000Z'

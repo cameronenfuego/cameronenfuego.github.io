@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Metaphors
 description: ''
 date: '2009-05-29T20:10:00.000Z'

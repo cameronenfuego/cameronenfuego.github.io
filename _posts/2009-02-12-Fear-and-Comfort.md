@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fear and Comfort
 description: ''
 date: '2009-02-12T04:06:00.000Z'

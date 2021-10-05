@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Is Not Arrogant
 description: ''
 date: '2012-02-09T12:49:09.000Z'

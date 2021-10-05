@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Be Still and Know That You’re Alone
 description: ''
 date: '2013-09-12T14:00:20.000Z'

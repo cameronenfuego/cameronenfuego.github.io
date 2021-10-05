@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Life of Paradox
 description: ''
 date: '2011-10-27T11:53:08.000Z'

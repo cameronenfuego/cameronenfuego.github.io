@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Dub This Two-Post Thursday
 description: ''
 date: '2009-02-13T03:48:00.000Z'

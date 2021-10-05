@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'I Trust You, But Help My Unbelief'
 description: ''
 date: '2010-09-24T02:08:00.000Z'

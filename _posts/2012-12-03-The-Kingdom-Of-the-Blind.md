@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Kingdom Of the Blind
 description: ''
 date: '2012-12-03T13:35:38.000Z'

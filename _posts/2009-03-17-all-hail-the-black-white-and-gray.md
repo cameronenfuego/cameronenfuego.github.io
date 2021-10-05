@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'All Hail the Black, White, and Gray'
 description: ''
 date: '2009-03-17T19:41:00.000Z'

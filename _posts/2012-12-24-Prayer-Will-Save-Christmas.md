@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Prayer Will Save Christmas
 description: ''
 date: '2012-12-24T14:08:48.000Z'

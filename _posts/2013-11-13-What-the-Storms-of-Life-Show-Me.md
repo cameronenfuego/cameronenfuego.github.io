@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What the Storms of Life Show Me
 description: ''
 date: '2013-11-13T15:29:32.000Z'

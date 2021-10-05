@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Live Experiences
 description: ''
 date: '2012-07-19T11:30:14.000Z'

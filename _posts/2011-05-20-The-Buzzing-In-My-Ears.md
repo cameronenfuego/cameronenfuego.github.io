@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Buzzing In My Ears
 description: ''
 date: '2011-05-20T13:00:36.000Z'

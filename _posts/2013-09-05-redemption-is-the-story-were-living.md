@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Redemption Is the Story We’re Living
 description: ''
 date: '2013-09-05T14:15:58.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Growth Begins With Darkness
 description: ''
 date: '2012-06-07T11:40:02.000Z'

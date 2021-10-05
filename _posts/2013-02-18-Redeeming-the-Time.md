@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Redeeming the Time
 description: ''
 date: '2013-02-18T16:11:26.000Z'

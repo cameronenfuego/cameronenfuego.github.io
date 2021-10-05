@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What Does Resurrection Mean?
 description: ''
 date: '2012-04-09T11:45:59.000Z'

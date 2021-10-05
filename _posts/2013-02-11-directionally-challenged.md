@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Directionally Challenged
 description: ''
 date: '2013-02-11T13:59:10.000Z'

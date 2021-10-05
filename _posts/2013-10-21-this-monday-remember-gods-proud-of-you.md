@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'This Monday, Remember God’s Proud of You'
 description: ''
 date: '2013-10-21T13:05:36.000Z'

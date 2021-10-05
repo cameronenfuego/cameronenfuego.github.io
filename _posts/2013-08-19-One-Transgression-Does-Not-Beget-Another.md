@@ -1,4 +1,5 @@
 ---
+layout: post
 title: One Transgression Does Not Beget Another
 description: ''
 date: '2013-08-19T13:47:07.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Those Around Us. Use Our Gifts.
 description: ''
 date: '2013-05-20T11:25:55.000Z'

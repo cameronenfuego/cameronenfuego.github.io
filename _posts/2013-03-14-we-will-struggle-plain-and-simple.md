@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We Will Struggle. Plain and Simple
 description: ''
 date: '2013-03-14T13:28:16.000Z'

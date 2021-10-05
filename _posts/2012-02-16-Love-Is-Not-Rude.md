@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Is Not Rude
 description: ''
 date: '2012-02-16T12:56:07.000Z'

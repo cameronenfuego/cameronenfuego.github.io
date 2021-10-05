@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What a Town Slut Taught Me About Silence
 description: ''
 date: '2013-09-16T14:56:14.000Z'

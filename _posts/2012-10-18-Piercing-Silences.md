@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Piercing Silences
 description: ''
 date: '2012-10-18T11:46:00.000Z'

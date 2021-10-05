@@ -1,4 +1,5 @@
 ---
+layout: post
 title: My Own Personal Hell
 description: ''
 date: '2010-12-16T04:40:00.000Z'

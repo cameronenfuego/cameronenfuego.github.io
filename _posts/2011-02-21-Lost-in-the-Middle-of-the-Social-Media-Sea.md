@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lost in the Middle of the Social Media Sea
 description: ''
 date: '2011-02-21T21:39:17.000Z'

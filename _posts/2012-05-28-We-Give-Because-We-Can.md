@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We Give Because We Can
 description: ''
 date: '2012-05-28T11:53:44.000Z'

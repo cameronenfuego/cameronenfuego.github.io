@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Never Be Ready
 description: ''
 date: '2013-02-04T13:56:45.000Z'

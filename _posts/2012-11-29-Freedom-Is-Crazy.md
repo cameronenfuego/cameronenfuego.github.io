@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Freedom Is Crazy
 description: ''
 date: '2012-11-29T13:31:01.000Z'

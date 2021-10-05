@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Family and Parents: We All Have Growing Up to Do'
 description: ''
 date: '2009-02-19T02:23:00.000Z'

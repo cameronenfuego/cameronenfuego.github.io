@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Change the World
 description: ''
 date: '2012-03-19T11:49:26.000Z'

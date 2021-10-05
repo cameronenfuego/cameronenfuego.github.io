@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Never Ends
 description: ''
 date: '2012-04-26T11:49:48.000Z'

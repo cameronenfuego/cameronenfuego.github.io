@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Two Broken Pieces Don’t Make a Whole
 description: ''
 date: '2012-05-31T11:48:39.000Z'

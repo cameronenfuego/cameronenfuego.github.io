@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Passivity Is Not the Answer
 description: ''
 date: '2010-10-19T19:00:00.000Z'

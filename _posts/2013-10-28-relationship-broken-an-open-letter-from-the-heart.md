@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Relationship Broken: An Open Letter From the Heart'
 description: ''
 date: '2013-10-28T14:52:28.000Z'

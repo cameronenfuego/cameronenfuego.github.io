@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Doors Open
 description: ''
 date: '2012-08-30T11:39:26.000Z'

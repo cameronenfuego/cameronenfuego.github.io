@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Manna: Grace Enough for the Day'
 description: ''
 date: '2013-08-15T13:30:43.000Z'

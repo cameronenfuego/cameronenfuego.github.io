@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Responsible for Our Brothers and Sisters
 description: ''
 date: '2013-08-01T13:24:28.000Z'

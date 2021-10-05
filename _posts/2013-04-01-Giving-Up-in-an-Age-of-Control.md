@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Giving Up in an Age of Control
 description: ''
 date: '2013-04-01T13:26:52.000Z'

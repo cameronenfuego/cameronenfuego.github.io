@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Don’t Waste Another (Work)Day
 description: ''
 date: '2011-07-05T19:32:13.000Z'

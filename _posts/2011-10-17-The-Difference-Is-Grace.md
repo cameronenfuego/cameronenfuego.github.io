@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Difference Is Grace
 description: ''
 date: '2011-10-17T11:30:33.000Z'

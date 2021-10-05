@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Humility Is Inherent in Recovery
 description: ''
 date: '2014-01-17T15:00:27.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /humility-is-inherent-in-recovery
 ---
 
-So, it’s been three weeks since I pulled my back. Therefore, for one who treats most things as if they have an on-off switch, it’s been three weeks of moderate torture. I’ve always been fortunate enough to physically do just about whatever I wanted, so silly injuries like this immediately turn into mountain-out-of-a-molehill type situations. However, I got back to the gym this week, but it was far from an enjoyable experience. It hit me last night that my trip to the gym was not all that unlike bringing ourselves before God, whether for the first time or the millionth. Bringing ourselves before God requires humility, submitting to our Father’s authority, admitting we _are_ not and can _never_ be equal to Him.
+So, it’s been three weeks since I pulled my back. Therefore, for one who treats most things as if they have an on-off switch, it’s been three weeks of moderate torture. I’ve always been fortunate enough to physically do just about whatever I wanted, so silly injuries like this immediately turn into mountain-out-of-a-molehill type situations. However, I got back to the gym this week, but it was far from an enjoyable experience. It hit me last night that my trip to the gym was not all that unlike bringing ourselves before God, whether for the first time or the millionth. Bringing ourselves before God requires humility, submitting to our Father’s authority, admitting we _are_ not and can _never_ be equal to Him.<!--more-->
 
 #### Resolution in humility
 

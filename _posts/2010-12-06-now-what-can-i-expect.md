@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Now What Can I Expect?
 description: ''
 date: '2010-12-06T04:56:00.000Z'

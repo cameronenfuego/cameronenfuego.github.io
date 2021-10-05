@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Our Foundation’s Cracked
 description: ''
 date: '2011-11-14T13:13:21.000Z'

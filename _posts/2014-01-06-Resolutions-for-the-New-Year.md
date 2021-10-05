@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Resolutions for the New Year
 description: ''
 date: '2014-01-06T15:00:42.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /resolutions-for-the-new-year
 ---
 
-Now that it’s the first Monday of the year, last year seems pretty firmly in the past. Not that I’d want to travel back, but for some reason there’s a finality that this morning brought. With that being said, I hope you had a wonderful New Year’s Eve and the past few days have brought you hope for this new year. Now I’d like to talk about resolutions and share with you mine.
+Now that it’s the first Monday of the year, last year seems pretty firmly in the past. Not that I’d want to travel back, but for some reason there’s a finality that this morning brought. With that being said, I hope you had a wonderful New Year’s Eve and the past few days have brought you hope for this new year. Now I’d like to talk about resolutions and share with you mine.<!--more-->
 
 #### Resolutions, resolutions, resolutions
 

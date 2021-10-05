@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Standing at the Brink of the Desert
 description: ''
 date: '2013-10-07T15:39:55.000Z'

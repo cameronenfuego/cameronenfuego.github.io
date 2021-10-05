@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Authority Is the Basis for Freedom
 description: ''
 date: '2014-01-14T15:00:43.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /authority-is-the-basis-for-freedom
 ---
 
-Sunday’s message at church focused on dispelling the myth that authority and freedom are mutually exclusive concepts. Naturally, I have a hard time believing these words, being deeply mistrusting of authority. However, somehow or another it clicked in my mind as I was rounding the Pentagon on my commute to work Monday morning. Without authority, where is freedom rooted and who is there to uphold it?
+Sunday’s message at church focused on dispelling the myth that authority and freedom are mutually exclusive concepts. Naturally, I have a hard time believing these words, being deeply mistrusting of authority. However, somehow or another it clicked in my mind as I was rounding the Pentagon on my commute to work Monday morning. Without authority, where is freedom rooted and who is there to uphold it?<!--more-->
 
 #### Authority and the roots of freedom
 

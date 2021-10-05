@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why Do We Keep Dying?
 description: ''
 date: '2012-02-27T13:43:35.000Z'

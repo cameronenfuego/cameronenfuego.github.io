@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How Quickly We Forget
 description: ''
 date: '2011-12-22T12:45:30.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Where the Heart Is
 description: ''
 date: '2011-08-26T11:30:20.000Z'

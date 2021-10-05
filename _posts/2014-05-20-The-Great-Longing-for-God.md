@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Great Longing for God
 description: ''
 date: '2014-05-20T12:00:05.000Z'
@@ -9,7 +10,7 @@ slug: /the-great-longing-for-god
 
 ![](https://cdn-images-1.medium.com/max/800/0*cHZTJVav29uPpCGh.jpg)
 
-I know it’s been a while friends and I’m sorry. I’ve had the following verses on my mind for a long time and felt I needed to share some thoughts and reflections. First, a question: What would truly yearning and longing for God and His presence look like?
+I know it’s been a while friends and I’m sorry. I’ve had the following verses on my mind for a long time and felt I needed to share some thoughts and reflections. First, a question: What would truly yearning and longing for God and His presence look like?<!--more-->
 
 > As a deer pants for flowing streams,  
 >  so pants my soul for you, O God.  

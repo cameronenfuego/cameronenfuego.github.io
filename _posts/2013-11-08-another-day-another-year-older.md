@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Another Day, Another Year Older'
 description: ''
 date: '2013-11-08T15:53:28.000Z'

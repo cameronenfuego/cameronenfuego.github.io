@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Am Waiting on God in Fear
 description: ''
 date: '2013-07-29T16:00:27.000Z'

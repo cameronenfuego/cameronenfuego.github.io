@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dare We Be So Bold In Love?
 description: ''
 date: '2011-08-23T11:30:01.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Standing in Front of a Wedding
 description: ''
 date: '2012-12-31T18:13:13.000Z'

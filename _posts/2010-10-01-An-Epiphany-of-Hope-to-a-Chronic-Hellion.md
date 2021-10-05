@@ -1,4 +1,5 @@
 ---
+layout: post
 title: An Epiphany of Hope to a Chronic Hellion
 description: ''
 date: '2010-10-01T14:12:00.000Z'

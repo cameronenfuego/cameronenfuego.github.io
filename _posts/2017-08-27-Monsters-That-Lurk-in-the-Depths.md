@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Monsters That Lurk in the Depths
 description: >-
   I’ve continued churning through the idea of conquering monsters and I realized
@@ -11,7 +12,7 @@ slug: /monsters-that-lurk-in-the-depths
 
 ![](https://cdn-images-1.medium.com/max/1200/1*QSbDxrZFumfEfGHLmwZWyQ.jpeg)
 
-I’ve continued churning through the idea of conquering monsters and I realized I needed to readjust the way I speak about monsters. It also dawned on me that I could help you with a little context as to where this word ‘monsters’ is coming from. So, I invite you to see with me where this goes.
+I’ve continued churning through the idea of conquering monsters and I realized I needed to readjust the way I speak about monsters. It also dawned on me that I could help you with a little context as to where this word ‘monsters’ is coming from. So, I invite you to see with me where this goes.<!--more-->
 
 I started reading through [“How to Survive a Shipwreck: Help Is On the Way and Love Is Already Here” by Jonathan Martin](https://www.amazon.com/How-Survive-Shipwreck-Help-Already/dp/0310347971/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) the day after that fateful conversation with my wife. I can only conclude that meeting the author — he’s a remarkable man — was undeniably God’s grace, and my ordering the book that night and its subsequent arrival a godsend. On Sunday, I did not know that my own ship was in the process of wrecking. Well, Mr. Martin refers to monsters as the creatures that inhabit our own inner darknesses.
 

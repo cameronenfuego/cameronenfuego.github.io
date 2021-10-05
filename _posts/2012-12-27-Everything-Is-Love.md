@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Everything Is Love
 description: ''
 date: '2012-12-27T13:57:50.000Z'

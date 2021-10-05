@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What the Mona Lisa Taught Me About My Sense of Self
 description: >-
   I’ve been in Paris for a couple of days now. It’s been many more days since I
@@ -12,7 +13,7 @@ slug: >-
 
 ![](https://cdn-images-1.medium.com/max/1200/1*AW_Th2qTyU3b8FkPaWuN0A.jpeg)
 
-I’ve been in Paris for a couple of days now. It’s been many more days since I last wrote here. It’s time to process some of the thoughts I’ve had over the past few weeks and several hours alone in the city of light.
+I’ve been in Paris for a couple of days now. It’s been many more days since I last wrote here. It’s time to process some of the thoughts I’ve had over the past few weeks and several hours alone in the city of light.<!--more-->
 
 I’ve struggled mightily in life with the question of “who am I?” as I’ve never found a satisfying answer. I’ve envied people who were able to answer effortlessly either more definitively than me or decisively that they didn’t know. My answer has always been some paltry assembling of what I felt like I should be saying at the time. All this to say, I’ve never had a damn clue.
 

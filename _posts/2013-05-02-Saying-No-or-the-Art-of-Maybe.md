@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Saying No or the Art of Maybe
 description: ''
 date: '2013-05-02T13:00:33.000Z'

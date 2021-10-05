@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Control Freaks
 description: ''
 date: '2012-06-14T11:35:31.000Z'

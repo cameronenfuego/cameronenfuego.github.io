@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Definitely a Week Late
 description: ''
 date: '2010-09-23T04:24:00.000Z'

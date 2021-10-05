@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Watering the Seeds
 description: ''
 date: '2011-06-24T13:00:57.000Z'

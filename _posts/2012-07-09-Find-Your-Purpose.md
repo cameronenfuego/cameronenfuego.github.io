@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Find Your Purpose
 description: ''
 date: '2012-07-09T11:47:48.000Z'

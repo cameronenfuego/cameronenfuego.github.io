@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Showing Up
 description: ''
 date: '2012-05-10T11:15:14.000Z'

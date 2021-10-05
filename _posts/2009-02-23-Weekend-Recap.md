@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Weekend Recap
 description: ''
 date: '2009-02-23T19:38:00.000Z'

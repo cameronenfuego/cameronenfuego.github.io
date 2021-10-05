@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Jesus Christ'
 description: ''
 date: '2013-07-18T13:22:19.000Z'

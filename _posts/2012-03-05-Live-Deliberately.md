@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Live Deliberately
 description: ''
 date: '2012-03-05T12:56:48.000Z'

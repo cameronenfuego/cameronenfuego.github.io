@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Expect Answers
 description: ''
 date: '2011-08-02T11:30:29.000Z'

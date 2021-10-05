@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Ephesians: The Beginning of a Journey'
 description: ''
 date: '2011-04-20T13:00:33.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Sex: The Ties That Bind'
 description: ''
 date: '2013-06-24T13:15:50.000Z'

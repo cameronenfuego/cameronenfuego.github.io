@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Intimacy Issues
 description: >-
   I just finished reading Donald Miller’s Scary Close. I highly recommend the
@@ -11,7 +12,7 @@ slug: /intimacy-issues
 
 ![](https://cdn-images-1.medium.com/max/800/1*q1sgPPibR-M41WgnI02ETg.jpeg)
 
-I just finished reading Donald Miller’s [_Scary Close_](http://scaryclose.com/). I highly recommend the book. To anyone. I’m not here to talk about the book specifically, but I am here to share some inspired reflection.
+I just finished reading Donald Miller’s [_Scary Close_](http://scaryclose.com/). I highly recommend the book. To anyone. I’m not here to talk about the book specifically, but I am here to share some inspired reflection.<!--more-->
 
 I always thought — probably even up until today — that I wanted to be known as wise. For awhile, I thought I wanted to be known as smart, but that wasn’t satisfying. It struck me that what is wisdom without the capacity for relational intimacy, being a healthy human being?
 

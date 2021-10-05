@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Opposition Is Inevitable
 description: ''
 date: '2013-05-13T11:33:33.000Z'

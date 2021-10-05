@@ -1,4 +1,5 @@
 ---
+layout: post
 title: As We Step Toward Provision
 description: ''
 date: '2013-04-15T18:41:03.000Z'

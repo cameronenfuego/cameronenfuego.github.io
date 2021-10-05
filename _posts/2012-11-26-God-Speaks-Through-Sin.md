@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God Speaks Through Sin
 description: ''
 date: '2012-11-26T12:24:53.000Z'

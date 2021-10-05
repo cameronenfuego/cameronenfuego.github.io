@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A God Who Can’t Save You
 description: ''
 date: '2012-08-23T11:46:43.000Z'

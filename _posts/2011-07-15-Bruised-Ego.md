@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bruised Ego
 description: ''
 date: '2011-07-15T12:48:42.000Z'

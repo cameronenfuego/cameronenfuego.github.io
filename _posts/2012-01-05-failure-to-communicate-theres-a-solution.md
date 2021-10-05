@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Failure To Communicate (There’s a Solution)
 description: ''
 date: '2012-01-05T13:19:48.000Z'

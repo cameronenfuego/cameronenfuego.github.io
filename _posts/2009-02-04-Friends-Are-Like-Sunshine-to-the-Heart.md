@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Friends Are Like Sunshine to the Heart
 description: ''
 date: '2009-02-04T21:56:00.000Z'

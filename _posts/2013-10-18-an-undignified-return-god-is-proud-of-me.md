@@ -1,4 +1,5 @@
 ---
+layout: post
 title: An Undignified Return (God Is Proud of Me)
 description: ''
 date: '2013-10-18T13:22:06.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fasting for the Answer to Prayer
 description: ''
 date: '2013-04-25T11:42:38.000Z'

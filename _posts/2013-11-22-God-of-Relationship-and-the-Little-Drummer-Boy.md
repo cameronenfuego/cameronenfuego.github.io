@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God of Relationship and the Little Drummer Boy
 description: ''
 date: '2013-11-22T15:29:47.000Z'

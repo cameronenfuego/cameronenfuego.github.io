@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We’re Learning to Make Sense Of it All
 description: ''
 date: '2011-12-08T13:16:12.000Z'

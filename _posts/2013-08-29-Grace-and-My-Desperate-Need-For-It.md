@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Grace and My Desperate Need For It
 description: ''
 date: '2013-08-29T14:05:00.000Z'

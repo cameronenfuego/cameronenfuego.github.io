@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Too Far Gone
 description: ''
 date: '2012-06-25T11:41:17.000Z'

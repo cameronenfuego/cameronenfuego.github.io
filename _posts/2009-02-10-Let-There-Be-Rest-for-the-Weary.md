@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Let There Be Rest for the Weary
 description: ''
 date: '2009-02-10T01:19:00.000Z'

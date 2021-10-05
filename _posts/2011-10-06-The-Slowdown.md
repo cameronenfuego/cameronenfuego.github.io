@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Slowdown
 description: ''
 date: '2011-10-06T11:30:57.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: When I Need to Calm My Soul
 description: ''
 date: '2013-09-26T14:00:30.000Z'

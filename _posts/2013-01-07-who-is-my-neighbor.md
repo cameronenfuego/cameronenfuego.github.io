@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Who Is My Neighbor?
 description: ''
 date: '2013-01-07T12:09:28.000Z'

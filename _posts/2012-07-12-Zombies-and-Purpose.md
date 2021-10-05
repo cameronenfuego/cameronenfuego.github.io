@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Zombies and Purpose
 description: ''
 date: '2012-07-12T11:39:27.000Z'

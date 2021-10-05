@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Living With a Stranger
 description: ''
 date: '2012-10-29T11:24:05.000Z'

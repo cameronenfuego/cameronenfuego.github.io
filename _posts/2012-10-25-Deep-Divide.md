@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Deep Divide
 description: ''
 date: '2012-10-25T11:37:11.000Z'

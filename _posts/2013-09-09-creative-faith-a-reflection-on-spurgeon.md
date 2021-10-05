@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Creative Faith: A Reflection on Spurgeon'
 description: ''
 date: '2013-09-09T14:26:37.000Z'

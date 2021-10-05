@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Half Kidding?
 description: ''
 date: '2009-06-26T04:11:00.000Z'

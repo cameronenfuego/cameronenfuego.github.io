@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Community Is Learning How To Receive
 description: ''
 date: '2012-05-21T11:45:54.000Z'

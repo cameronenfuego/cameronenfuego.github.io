@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Power of a Dollar
 description: ''
 date: '2013-07-08T13:00:14.000Z'

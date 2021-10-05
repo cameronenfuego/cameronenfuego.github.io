@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Change of Heart and Mind
 description: ''
 date: '2013-11-04T15:43:19.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Good Friday and the Meaning of Goodness
 description: ''
 date: '2014-04-19T13:59:24.000Z'
@@ -9,7 +10,7 @@ slug: /good-friday-and-the-meaning-of-goodness
 
 ![](https://images.unsplash.com/photo-1488867605300-0380106bc701?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&q=90)
 
-So, tomorrow’s Easter, huh? And that means yesterday must’ve been Good Friday. I see.
+So, tomorrow’s Easter, huh? And that means yesterday must’ve been Good Friday. I see.<!--more-->
 
 This is me most years the day before Easter. I don’t know about you, but Easter’s a weird holiday to me. I mean, I enjoy the family time, and I really love the egg hunt (yes, of course we still do that in my family), but the whole premise of Easter…meh. Easter’s kind of like the bookend to Christmas. For the whole salvation thing, Jesus had to die and be resurrected, hooray. I think you get my point.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Consumerism Fever Is What I Got
 description: ''
 date: '2013-11-27T15:51:58.000Z'

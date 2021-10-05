@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Surrender is Stronger
 description: ''
 date: '2011-01-13T02:07:00.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sabotaging God and the Pursuit of Happiness
 description: ''
 date: '2014-02-17T18:20:04.000Z'
@@ -9,7 +10,7 @@ slug: /sabotaging-god-and-the-pursuit-of-happiness
 
 ![](../images/damsel-in-distress.jpg)
 
-We all want to be happy. We’re all in our own ways striving after the things we think will bring us that long happiness. I know I am. But I also know that I have a tendency of sabotaging God when He does give me something awesome. How does one go about “sabotaging God,” you ask? One minute, please.
+We all want to be happy. We’re all in our own ways striving after the things we think will bring us that long happiness. I know I am. But I also know that I have a tendency of sabotaging God when He does give me something awesome. How does one go about “sabotaging God,” you ask? One minute, please.<!--more-->
 
 #### Sabotaging God is an everyday act
 

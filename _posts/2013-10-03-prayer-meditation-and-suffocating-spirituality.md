@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Prayer, Meditation and Suffocating Spirituality'
 description: ''
 date: '2013-10-03T15:47:52.000Z'

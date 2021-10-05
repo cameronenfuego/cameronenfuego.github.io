@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Forgive Me Father, for I Have Sinned'
 description: ''
 date: '2010-11-12T14:36:00.000Z'

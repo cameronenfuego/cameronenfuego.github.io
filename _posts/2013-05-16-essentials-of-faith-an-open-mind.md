@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: An Open Mind'
 description: ''
 date: '2013-05-16T13:29:40.000Z'

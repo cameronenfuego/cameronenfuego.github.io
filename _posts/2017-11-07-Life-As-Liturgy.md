@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Life As Liturgy
 description: >-
   If you’ve been following me at all on social media, you’ve probably noticed my
@@ -11,7 +12,7 @@ slug: /life-as-liturgy
 
 ![](https://cdn-images-1.medium.com/max/1200/1*naeB4kK-Nj87FU14JVDEng.jpeg)
 
-If you’ve been following me at all on social media, you’ve probably noticed my use of the words “life as liturgy.” Honestly, I am certain I’ve shoehorned those words into posts more often than not, but I hope you’re able to look past my shortcoming there. I feel like it’s about time to explain what I mean by those words as I attempt to dedicate this next year (and maybe more years to come) of my life to them.
+If you’ve been following me at all on social media, you’ve probably noticed my use of the words “life as liturgy.” Honestly, I am certain I’ve shoehorned those words into posts more often than not, but I hope you’re able to look past my shortcoming there. I feel like it’s about time to explain what I mean by those words as I attempt to dedicate this next year (and maybe more years to come) of my life to them.<!--more-->
 
 Liturgy, according to Merriam-Webster, is: “a customary repertoire of ideas, phrases, or observances” for public worship. In other words, liturgy forms the set of thoughts, words, and actions that makes up the collection of how one or a group reveres or celebrates a deity. In my case, it is the set of actions, words, and thoughts that encompass my love for and worship of the trinitarian God found in the pages of the Christian Bible.
 

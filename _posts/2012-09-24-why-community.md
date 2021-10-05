@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why Community?
 description: ''
 date: '2012-09-24T11:19:29.000Z'

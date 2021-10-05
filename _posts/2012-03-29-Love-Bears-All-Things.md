@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Bears All Things
 description: ''
 date: '2012-03-29T11:54:23.000Z'

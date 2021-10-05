@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Discipline Of Solitude
 description: ''
 date: '2012-10-15T11:54:17.000Z'

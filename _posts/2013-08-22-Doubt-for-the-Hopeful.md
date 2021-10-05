@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Doubt for the Hopeful
 description: ''
 date: '2013-08-22T13:30:56.000Z'

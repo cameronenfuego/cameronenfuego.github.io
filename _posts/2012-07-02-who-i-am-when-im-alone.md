@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Who I Am When I’m Alone
 description: ''
 date: '2012-07-02T11:27:34.000Z'

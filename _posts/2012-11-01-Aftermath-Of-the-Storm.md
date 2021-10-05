@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Aftermath Of the Storm
 description: ''
 date: '2012-11-01T11:54:20.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Make a Difference
 description: ''
 date: '2012-08-02T11:34:09.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Labor of Love
 description: ''
 date: '2011-03-30T20:50:19.000Z'

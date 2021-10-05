@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The One That Will Always Get Away
 description: ''
 date: '2013-07-01T14:19:25.000Z'

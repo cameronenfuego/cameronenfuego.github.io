@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Believes All Things
 description: ''
 date: '2012-04-05T11:38:08.000Z'

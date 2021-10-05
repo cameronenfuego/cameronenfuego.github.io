@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Prayer Is a Way of Life
 description: ''
 date: '2013-04-18T11:47:09.000Z'

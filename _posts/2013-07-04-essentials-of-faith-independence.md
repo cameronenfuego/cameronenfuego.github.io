@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Independence'
 description: ''
 date: '2013-07-04T15:55:44.000Z'

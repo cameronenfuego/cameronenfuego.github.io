@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why We Need Negative People In Our Lives
 description: ''
 date: '2013-03-07T14:17:56.000Z'

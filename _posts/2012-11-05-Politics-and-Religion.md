@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Politics and Religion
 description: ''
 date: '2012-11-05T13:08:02.000Z'

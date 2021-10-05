@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Prayer Will Break Your Heart
 description: ''
 date: '2014-01-25T19:54:10.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /prayer-will-break-your-heart
 ---
 
-Over the last week or so, I’ve come to believe that if you’re doing it right, you’ll eventually find yourself in prayer for something which you never thought you’d pray. You’ll pray for things like broken relationships, hardship, destitution, and for people you genuinely love. At least that’s where I’ve found myself, but I feel a strange peace because though on the surface I’m praying that “bad” things happen, I know that ultimately I am praying for God to use these circumstances to bring about a greater good.
+Over the last week or so, I’ve come to believe that if you’re doing it right, you’ll eventually find yourself in prayer for something which you never thought you’d pray. You’ll pray for things like broken relationships, hardship, destitution, and for people you genuinely love. At least that’s where I’ve found myself, but I feel a strange peace because though on the surface I’m praying that “bad” things happen, I know that ultimately I am praying for God to use these circumstances to bring about a greater good.<!--more-->
 
 #### A prayer for bad things
 

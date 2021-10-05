@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'The Economy of Grace: Free But Not Cheap'
 description: ''
 date: '2013-08-26T14:00:54.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Encouragement for the Start of a New Week
 description: ''
 date: '2013-09-30T14:20:57.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: One Day Workweek
 description: ''
 date: '2012-11-19T13:16:22.000Z'

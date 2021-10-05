@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Un-Christian
 description: ''
 date: '2011-08-05T11:30:07.000Z'

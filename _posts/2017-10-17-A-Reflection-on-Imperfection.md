@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Reflection on Imperfection
 description: >-
   I’m not sure when I first learned it, but I figured it out pretty early in
@@ -11,7 +12,7 @@ slug: /a-reflection-on-imperfection
 
 ![](https://cdn-images-1.medium.com/max/1200/1*ODSLMKT-iCpzPY9ME3CJLA.jpeg)
 
-I’m not sure when I first learned it, but I figured it out pretty early in life that to receive love, attention, affirmation, protection, and sustenance, I needed to be perfect. Looking back, I’m honestly in awe of how observant and sponge-like God made children. That’s a hell of a correlation for an infant or a toddler to make. That’s one _hell_ of a correlation.
+I’m not sure when I first learned it, but I figured it out pretty early in life that to receive love, attention, affirmation, protection, and sustenance, I needed to be perfect. Looking back, I’m honestly in awe of how observant and sponge-like God made children. That’s a hell of a correlation for an infant or a toddler to make. That’s one _hell_ of a correlation.<!--more-->
 
 It is the hell in which I’ve been living for nearly three decades. It is hell because I think we all agree it is unattainable. You do agree with me, right? Maybe not, but I’m convinced that on this side of eternity perfection is impossible. And yet, here I strive after it unwilling to give up the ghost, day after day, year after year.
 

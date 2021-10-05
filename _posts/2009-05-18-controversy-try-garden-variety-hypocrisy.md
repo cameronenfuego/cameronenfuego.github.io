@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Controversy? Try Garden-Variety Hypocrisy
 description: ''
 date: '2009-05-18T12:38:00.000Z'

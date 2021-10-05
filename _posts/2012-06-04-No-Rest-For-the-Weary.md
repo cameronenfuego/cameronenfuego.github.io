@@ -1,4 +1,5 @@
 ---
+layout: post
 title: No Rest For the Weary
 description: ''
 date: '2012-06-04T11:29:28.000Z'

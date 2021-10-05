@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dying to Live
 description: ''
 date: '2011-09-30T11:51:37.000Z'

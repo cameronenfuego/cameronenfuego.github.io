@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Endures All Things
 description: ''
 date: '2012-04-19T16:34:58.000Z'

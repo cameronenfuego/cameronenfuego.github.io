@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Just Reflections
 description: ''
 date: '2011-10-13T12:08:32.000Z'

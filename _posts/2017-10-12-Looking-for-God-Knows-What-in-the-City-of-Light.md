@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Looking for God Knows What in the City of Light
 description: >-
   I would like to say that I booked my flight to Paris for a good reason, but I
@@ -11,7 +12,7 @@ slug: /looking-for-god-knows-what-in-the-city-of-light
 
 ![](https://cdn-images-1.medium.com/max/1200/1*SphbxneVc0I4kozbSEM0ZQ.jpeg)
 
-I would like to say that I booked my flight to Paris for a good reason, but I would be lying. I knew I just needed to get away. I needed space from the prison that used to be a home, somewhere to be when she was posting photos from the trip that was to be a celebration of our anniversary. I’m not on that on that trip; I was asked not to come; it’s not our celebration anymore.
+I would like to say that I booked my flight to Paris for a good reason, but I would be lying. I knew I just needed to get away. I needed space from the prison that used to be a home, somewhere to be when she was posting photos from the trip that was to be a celebration of our anniversary. I’m not on that on that trip; I was asked not to come; it’s not our celebration anymore.<!--more-->
 
 So I ran. I don’t even think I was looking for anything when I landed, strung out, out of sorts, lost in grief, less than lucid from the lack of sleep and the sleepless rest on the plane. I suppose deep within me somewhere I knew there was something here, something I was in fact looking for. I did not know what it was, nor did I know how even to look for it.
 

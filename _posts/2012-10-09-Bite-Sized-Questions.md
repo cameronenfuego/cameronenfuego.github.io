@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bite-Sized Questions
 description: ''
 date: '2012-10-09T00:00:42.000Z'

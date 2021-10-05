@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dealing With Our Pain
 description: ''
 date: '2012-06-18T11:33:21.000Z'

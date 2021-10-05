@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Rejoices With the Truth
 description: ''
 date: '2012-03-22T11:45:34.000Z'

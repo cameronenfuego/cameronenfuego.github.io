@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Community'
 description: ''
 date: '2013-06-27T13:51:45.000Z'

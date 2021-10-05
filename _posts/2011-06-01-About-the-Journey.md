@@ -1,4 +1,5 @@
 ---
+layout: post
 title: About the Journey
 description: ''
 date: '2011-06-01T15:59:12.000Z'

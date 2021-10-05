@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Death Without Purpose
 description: ''
 date: '2013-01-14T13:57:31.000Z'

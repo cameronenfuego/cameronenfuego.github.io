@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Work Is a Gift
 description: ''
 date: '2013-02-14T14:17:29.000Z'

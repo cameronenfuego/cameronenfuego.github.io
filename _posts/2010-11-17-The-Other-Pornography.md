@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Other Pornography
 description: ''
 date: '2010-11-17T19:45:00.000Z'

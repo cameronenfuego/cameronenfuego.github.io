@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Don’t Share Your Faith
 description: ''
 date: '2011-06-10T16:30:47.000Z'

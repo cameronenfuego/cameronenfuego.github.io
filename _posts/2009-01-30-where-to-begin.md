@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Where to Begin..?
 description: ''
 date: 2009-01-30T21:18:00+00:00

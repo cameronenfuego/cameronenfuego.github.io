@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Purpose Starts With Understanding
 description: ''
 date: '2012-07-05T12:21:59.000Z'

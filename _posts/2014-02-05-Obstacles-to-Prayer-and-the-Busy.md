@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Obstacles to Prayer and the Busy
 description: ''
 date: '2014-02-05T15:04:34.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /obstacles-to-prayer-and-the-busy
 ---
 
-What gets in the way of your prayer? What, if you could push it aside for a few minutes is the biggest reason you don’t pray more? Everyone of us has our own obstacles to prayer. However, I’m willing to bet that the more people that were asked, the more alike we would find the responses. This brings me to my own, which is busyness, and I’m sorry to those faithful of you who haven’t seen anything new in over a week. What I would consider bigger than all the other obstacles to prayer in my life is certainly busyness. Or maybe busyness is just the tip of the iceberg.
+What gets in the way of your prayer? What, if you could push it aside for a few minutes is the biggest reason you don’t pray more? Everyone of us has our own obstacles to prayer. However, I’m willing to bet that the more people that were asked, the more alike we would find the responses. This brings me to my own, which is busyness, and I’m sorry to those faithful of you who haven’t seen anything new in over a week. What I would consider bigger than all the other obstacles to prayer in my life is certainly busyness. Or maybe busyness is just the tip of the iceberg.<!--more-->
 
 #### Differentiating obstacles to prayer from distractions
 

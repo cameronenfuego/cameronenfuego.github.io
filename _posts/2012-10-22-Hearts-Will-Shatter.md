@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hearts Will Shatter
 description: ''
 date: '2012-10-22T11:55:03.000Z'

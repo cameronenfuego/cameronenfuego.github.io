@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Gospel Of Enough
 description: ''
 date: '2012-02-20T12:45:00.000Z'

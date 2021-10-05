@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pain In the Offering
 description: ''
 date: '2010-10-27T03:28:00.000Z'

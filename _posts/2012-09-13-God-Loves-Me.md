@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God Loves Me
 description: ''
 date: '2012-09-13T08:23:28.000Z'

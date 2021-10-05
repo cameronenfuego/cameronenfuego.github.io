@@ -1,4 +1,5 @@
 ---
+layout: post
 title: An End To Christmas Consumerism
 description: ''
 date: '2012-12-06T13:00:51.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What Is Freedom?
 description: ''
 date: '2011-02-24T17:12:42.000Z'

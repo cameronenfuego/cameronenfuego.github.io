@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What Is Persecution?
 description: ''
 date: '2011-09-20T11:30:20.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Fear of Success
 description: ''
 date: '2013-02-25T14:50:42.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Two Truths and a Lie
 description: ''
 date: '2012-03-26T11:44:42.000Z'

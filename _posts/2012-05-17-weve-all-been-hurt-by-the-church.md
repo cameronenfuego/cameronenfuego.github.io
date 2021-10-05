@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We’ve All Been Hurt By the Church
 description: ''
 date: '2012-05-17T11:45:39.000Z'

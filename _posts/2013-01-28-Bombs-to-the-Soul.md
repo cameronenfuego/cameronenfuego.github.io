@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bombs to the Soul
 description: ''
 date: '2013-01-28T14:51:17.000Z'

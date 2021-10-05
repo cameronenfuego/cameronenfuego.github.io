@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Your Father Lights the Way
 description: ''
 date: '2013-06-17T14:05:30.000Z'

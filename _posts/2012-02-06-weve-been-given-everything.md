@@ -1,4 +1,5 @@
 ---
+layout: post
 title: We’ve Been Given Everything
 description: ''
 date: '2012-02-06T12:53:19.000Z'

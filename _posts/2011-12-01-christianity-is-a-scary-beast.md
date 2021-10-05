@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Christianity Is a Scary Beast
 description: ''
 date: '2011-12-01T13:00:10.000Z'

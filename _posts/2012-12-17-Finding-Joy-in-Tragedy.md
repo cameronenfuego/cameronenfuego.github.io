@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Finding Joy in Tragedy
 description: ''
 date: '2012-12-17T13:44:13.000Z'

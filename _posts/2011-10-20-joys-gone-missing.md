@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Joy’s Gone Missing
 description: ''
 date: '2011-10-20T12:08:38.000Z'

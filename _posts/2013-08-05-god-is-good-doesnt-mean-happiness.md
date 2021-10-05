@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God Is Good Doesn’t Mean Happiness
 description: ''
 date: '2013-08-05T13:08:28.000Z'

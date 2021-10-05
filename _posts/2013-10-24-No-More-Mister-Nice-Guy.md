@@ -1,4 +1,5 @@
 ---
+layout: post
 title: No More Mister Nice Guy
 description: ''
 date: '2013-10-24T14:00:06.000Z'

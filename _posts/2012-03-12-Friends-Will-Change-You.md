@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Friends Will Change You
 description: ''
 date: '2012-03-12T11:59:55.000Z'

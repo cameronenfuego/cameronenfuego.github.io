@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Calamity Is a Blessing
 description: ''
 date: '2012-07-16T11:19:36.000Z'

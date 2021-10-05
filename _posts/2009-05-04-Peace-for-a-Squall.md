@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Peace for a Squall
 description: ''
 date: '2009-05-04T03:23:00.000Z'

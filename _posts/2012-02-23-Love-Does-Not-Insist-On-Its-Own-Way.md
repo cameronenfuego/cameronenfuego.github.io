@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Does Not Insist On Its Own Way
 description: ''
 date: '2012-02-23T12:45:49.000Z'

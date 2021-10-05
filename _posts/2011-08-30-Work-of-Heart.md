@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Work of Heart
 description: ''
 date: '2011-08-30T11:30:26.000Z'

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Broken Gratitude and Pulled Muscles
 description: ''
 date: '2013-12-31T15:25:20.000Z'

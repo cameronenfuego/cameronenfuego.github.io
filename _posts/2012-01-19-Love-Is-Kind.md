@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Love Is Kind
 description: ''
 date: '2012-01-19T12:45:02.000Z'

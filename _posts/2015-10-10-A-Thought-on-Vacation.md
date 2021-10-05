@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Thought on Vacation
 description: >-
   I’m about to go on vacation for a couple weeks with my wife and I’m really
@@ -11,7 +12,7 @@ slug: /a-thought-on-vacation
 
 ![](https://cdn-images-1.medium.com/max/800/1*0XkoFzITEP_JfjHZTONlbQ.jpeg)
 
-I’m about to go on vacation for a couple weeks with my wife and I’m really excited. What is it about vacation that we love so much? Well, duh, but the real question I am getting at is what is it about the rest of our lives, real life, that leaves us so ready to escape it to vacation land?
+I’m about to go on vacation for a couple weeks with my wife and I’m really excited. What is it about vacation that we love so much? Well, duh, but the real question I am getting at is what is it about the rest of our lives, real life, that leaves us so ready to escape it to vacation land?<!--more-->
 
 Perhaps I’m phoning this topic in, but it’s just where my head’s at. Why do I need this escape? What is it that I’m actually trying to distance myself from?
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Religion Fails
 description: ''
 date: '2012-10-11T11:48:18.000Z'

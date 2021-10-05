@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Every Good Story Needs Relationships
 description: ''
 date: '2012-05-07T11:35:06.000Z'

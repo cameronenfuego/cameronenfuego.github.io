@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Essentials of Faith: Simplicity'
 description: ''
 date: '2013-07-11T13:17:28.000Z'

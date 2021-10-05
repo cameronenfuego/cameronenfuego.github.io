@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Am a Fraud
 description: ''
 date: '2013-02-21T14:25:24.000Z'

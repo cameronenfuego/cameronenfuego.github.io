@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Sunday, Heavy Sunday'
 description: ''
 date: '2009-02-01T16:50:00.000Z'

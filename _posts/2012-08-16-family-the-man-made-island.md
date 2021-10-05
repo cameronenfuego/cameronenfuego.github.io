@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Family: The Man-Made Island'
 description: ''
 date: '2012-08-16T11:49:01.000Z'

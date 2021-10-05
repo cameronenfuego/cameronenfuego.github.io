@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I Was Just Trying To Get There
 description: ''
 date: '2011-11-21T12:56:56.000Z'
