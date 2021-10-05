@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: Advent'
 description: >-
   I don’t know your connection or experience with the Advent season, but I can’t
@@ -11,7 +12,7 @@ slug: /deconstruction-advent
 
 ![](https://cdn-images-1.medium.com/max/1200/1*YRxAcHtcZQGgDl_ybrfZSw.jpeg)
 
-I don’t know your connection or experience with the Advent season, but I can’t say that I’ve ever really celebrated it in a concerted way. I haven’t intentionally engaged in any observance of Advent. This year is a little different. I’ve sort of fallen into Advent as I see it.
+I don’t know your connection or experience with the Advent season, but I can’t say that I’ve ever really celebrated it in a concerted way. I haven’t intentionally engaged in any observance of Advent. This year is a little different. I’ve sort of fallen into Advent as I see it.<!--more-->
 
 I’m not sure I can articulate whether or not engaging in the deconstruction oft the foundations of one’s life during Advent has been a positive experience. I can tell you that I understand creative tension in a way that I never could before and tension for me begins to get at the heart of Advent — as well as deconstruction.
 

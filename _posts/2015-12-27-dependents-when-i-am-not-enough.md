@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dependents (When I Am Not Enough)
 description: 'I’d be willing to bet that the idea of being dependents ranks right up there with submission, meekness, and self-denial.'
 date: '2015-12-27T19:42:51.000Z'
@@ -9,7 +10,7 @@ slug: /dependents-when-i-am-not-enough
 
 ![](..\images\snow-mountain-forest-trees-snow.jpg)
 
-I’d be willing to bet that the idea of being dependents ranks right up there with submission, meekness, and self-denial. That is a downright scary list of terms. But it’s a damned important one; in the life of faith, they are nothing short of necessity.
+I’d be willing to bet that the idea of being dependents ranks right up there with submission, meekness, and self-denial. That is a downright scary list of terms. But it’s a damned important one; in the life of faith, they are nothing short of necessity.<!--more-->
 
 Yet, when I think of dependence it conjures visions of drudgery and weakness, invokes a feeling of incapability and helplessness. The idea of being a dependent is something I will fight tooth and nail before I succumb. Being one of God’s dependents _—_ an adopted son _—_ I rebel against at nearly every turn.
 

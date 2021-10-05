@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Tired of Talking About the Pandemic'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-05-07T19:53:50.000Z'
 
 ![](https://images.unsplash.com/photo-1588853801246-b7f05880c144?ixlib=rb-1.2.1&q=90&fm=jpg&crop=entropy&cs=tinysrgb&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-While some states are beginning the process of opening up, you have news of large corporations extending work from home policies into the fall. The juxtaposition is a bit dizzying. Really, I just don't want to be talking about the subject of this damn pandemic anymore.
+While some states are beginning the process of opening up, you have news of large corporations extending work from home policies into the fall. The juxtaposition is a bit dizzying. Really, I just don't want to be talking about the subject of this damn pandemic anymore.<!--more-->
 
 However, here we are, and many of us are just as concerned about COVID-19 spreading as we were two months ago. Sheltering in place for this long has felt brutal, and I imagine several of you can relate.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Breaking Down the Fourth Wall'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-04-30T17:19:14.000Z'
 
 ![](https://images.unsplash.com/photo-1586957067130-f3fe4fb76cf4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I'm not sure what was more jarring, taking work home with us every day or bringing the home into the workplace—and the lack of choice the pandemic ushered in on both accounts with such abruptness. Seemingly overnight, everyone *had *to work from home. Every day, we couldn't *not* bring home work; every day, we brought our homes straight to the little makeshift workplace that many were forced to carve out with little prep time.
+I'm not sure what was more jarring, taking work home with us every day or bringing the home into the workplace—and the lack of choice the pandemic ushered in on both accounts with such abruptness. Seemingly overnight, everyone *had *to work from home. Every day, we couldn't *not* bring home work; every day, we brought our homes straight to the little makeshift workplace that many were forced to carve out with little prep time.<!--more-->
 
 I thought I had been prepared for this when government funding for the project I was working on a couple of years ago was cut, and the company worked with me to keep my job, but I rapidly transitioned to working from home. This transition at work was a few months after my now ex-wife and I had separated. The separation precipitated the loss of a faith community that didn't know how to respond to the situation—instead of feeling like they were picking sides, many simply withdrew. I felt like I was alone on an island, and my new assignment lasted for nearly three months.
 

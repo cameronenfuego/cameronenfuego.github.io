@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Fear: Constant Enemy, Silent Killer'
 description: 'Fear, it’s something I deal with everyday. It’s something I’m aware of at every moment; deep down I know it has it out for me. I’ll admit…'
 date: '2017-06-10T22:25:12.000Z'
@@ -9,7 +10,7 @@ slug: /fear-constant-enemy-silent-killer
 
 ![](https://images.unsplash.com/photo-1531926249475-325d7895646b?ixlib=rb-1.2.1&q=90&fm=jpg&crop=entropy&cs=tinysrgb&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-Fear, it’s something I deal with everyday. It’s something I’m aware of at every moment; deep down I know it has it out for me. I’ll admit, I almost didn’t write this post out of succumbing to the fear. Pardon my French, but fear is a bastard that knows no rules, only kill. Surely, if I’ve learned anything over the past few years, it’s that fear is a killer.
+Fear, it’s something I deal with everyday. It’s something I’m aware of at every moment; deep down I know it has it out for me. I’ll admit, I almost didn’t write this post out of succumbing to the fear. Pardon my French, but fear is a bastard that knows no rules, only kill. Surely, if I’ve learned anything over the past few years, it’s that fear is a killer.<!--more-->
 
 But fear of what? I want to burst out, “A fear of failure, of course! What else could it be?” but this would be over simplistic and naive. True, failure is something I’m afraid of, but it’s also the fear of success. No, the readership of this blog isn’t anything more than a handful of pageviews a week, but what might happen if I really started to write here and people began to find my posts and the thoughts, feelings and experiences started to resonate? People might start sharing and I would then pressure myself to increase that interaction, to continually write in such a way that my readers resonate with more and more — I would want to grow the fledgling community. On the flip side, what if I started back up again and people started to criticize those very same thoughts, feelings and experiences? I would be mightily tempted to feel invalidated.
 

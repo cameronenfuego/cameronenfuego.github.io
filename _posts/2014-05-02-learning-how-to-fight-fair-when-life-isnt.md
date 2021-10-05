@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Learning How to Fight Fair When Life Isn’t
 description: ''
 date: '2014-05-02T14:00:32.000Z'
@@ -9,7 +10,7 @@ slug: /learning-how-to-fight-fair-when-life-isnt
 
 ![](..\images\couple-fighting.jpg)
 
-Something that was drilled into my head at a relatively early age were the words “life isn’t fair.” I didn’t really understand what that meant, but since then I’ve been very careful not to mix fair with life or its circumstances. However, what’s a boy to do when a girl flits into his life (my girlfriend of four months who up until now I have treated largely as a yeti) speaking things of fairness in conversations, situations, and disagreements? You see, this boy has been beckoned to reevaluate his stance on fairness and learn how to fight fair, while it’s true that life is far from fair. Allow me to elaborate.
+Something that was drilled into my head at a relatively early age were the words “life isn’t fair.” I didn’t really understand what that meant, but since then I’ve been very careful not to mix fair with life or its circumstances. However, what’s a boy to do when a girl flits into his life (my girlfriend of four months who up until now I have treated largely as a yeti) speaking things of fairness in conversations, situations, and disagreements? You see, this boy has been beckoned to reevaluate his stance on fairness and learn how to fight fair, while it’s true that life is far from fair. Allow me to elaborate.<!--more-->
 
 > Life isn’t fair.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'The Great Exhale: A Form of Our Own Re-Creation'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-05-15T23:35:39.000Z'
 
 ![](https://images.unsplash.com/photo-1461344577544-4e5dc9487184?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I feel like I—and we—are in the liminal space between a death and a rebirth. Societally, I think we are on the precipice of breaking into a new sense of inclusion and equality. Yes, this is a more optimistic view. I recognize we are also on the ledge, liable of falling into the canyon of ever-greater income inequality.
+I feel like I—and we—are in the liminal space between a death and a rebirth. Societally, I think we are on the precipice of breaking into a new sense of inclusion and equality. Yes, this is a more optimistic view. I recognize we are also on the ledge, liable of falling into the canyon of ever-greater income inequality.<!--more-->
 
 But the overarching truth that I feel is we occupy the space where the old self or norm is dying, and the new self or norm is incubating in anticipation of birth. I suppose I will start with my story. Then, I'll speak to the hopes for our future.
 

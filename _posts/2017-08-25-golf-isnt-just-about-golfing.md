@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Golf Isn’t Just About Golfing
 description: >-
   I played a few holes of golf with my dad yesterday. There was a group playing
@@ -11,7 +12,7 @@ slug: /golf-isnt-just-about-golfing
 
 ![](https://cdn-images-1.medium.com/max/1200/1*2H8NOy0GyEtNcGpc3bWY7A.jpeg)
 
-I played a few holes of golf with my dad yesterday. There was a group playing behind us, so we were hurrying — I should say, my dad was trying to hurry us. Thus, I was being hurried. You don’t hurry someone who’s never played golf before. I was feeling the pressure and getting frazzled. I was failing. I was nearing the verge of giving up completely.
+I played a few holes of golf with my dad yesterday. There was a group playing behind us, so we were hurrying — I should say, my dad was trying to hurry us. Thus, I was being hurried. You don’t hurry someone who’s never played golf before. I was feeling the pressure and getting frazzled. I was failing. I was nearing the verge of giving up completely.<!--more-->
 
 We finished the hole and skipped the next to give ourselves a little buffer. I was still feeling hurried — in fact, I was still being hurried. As I felt the newly established norm of the tightness mounting in my chest, I began to pray. I knew nothing else to do. Nothing other than to quit. Or cry. Though, the latter wouldn’t have been that bad.
 

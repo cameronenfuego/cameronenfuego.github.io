@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Self-Abandonment as a Form of Narcissim'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ slug: /self-abandonment-as-a-form-of-narcissim
 
 ![](https://images.unsplash.com/photo-1586107286881-dbac5e4c1a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fENvbmZpbmVkfGVufDB8fHx8MTYyMzYwNTEzNw&ixlib=rb-1.2.1&q=90)
 
-It's been a heavy week for me, and if I'm honest, I'm forcing myself in front of this keyboard. My self-doubt has nearly convinced me that the words I will type will fail the thoughts and ideas underlying them even before the first keystroke. I suppose this is my attempt a transparency today, so I hope you can forgive its awkward clunkiness and keep reading with me as the words unfold.
+It's been a heavy week for me, and if I'm honest, I'm forcing myself in front of this keyboard. My self-doubt has nearly convinced me that the words I will type will fail the thoughts and ideas underlying them even before the first keystroke. I suppose this is my attempt a transparency today, so I hope you can forgive its awkward clunkiness and keep reading with me as the words unfold.<!--more-->
 
 I've been learning a lot about myself in the past few days, particularly in the context of close relationships. It feels like the realizations and mini-revelations keep coming at me as if they were traveling near light speed. So it seems the only reasonable choice is to absorb and feel the impact of each as sober-mindedly as possible.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'More on Purpose: Cleaning My Glasses and Faith'
 description: ''
 date: '2015-02-26T14:10:42.000Z'
@@ -9,7 +10,7 @@ slug: /more-on-purpose-cleaning-my-glasses-and-faith
 
 ![](https://cdn-images-1.medium.com/max/1200/1*Icz7k65twkrK5QX9fdBXmA.jpeg)
 
-I’ve had my glasses less than a year, so I still occasionally get compliments about them and I don’t mind them much yet. But for someone who can be OCD, glasses are a terrible thing; how does anyone keep the lenses clean for even an hour?! Mainly I have them for driving, but I’ll bring my glasses along anytime I might have a meeting or presentation or any other situation where distance focus might be advantageous. Heaven forbid there are spots on the lenses, because not only will they drive me nuts if I don’t have a cloth to clean them off, but practically, they’re obscuring my vision — the very thing they are supposed to be correcting. I feel like this spotting and smudging often happens with my faith.
+I’ve had my glasses less than a year, so I still occasionally get compliments about them and I don’t mind them much yet. But for someone who can be OCD, glasses are a terrible thing; how does anyone keep the lenses clean for even an hour?! Mainly I have them for driving, but I’ll bring my glasses along anytime I might have a meeting or presentation or any other situation where distance focus might be advantageous. Heaven forbid there are spots on the lenses, because not only will they drive me nuts if I don’t have a cloth to clean them off, but practically, they’re obscuring my vision — the very thing they are supposed to be correcting. I feel like this spotting and smudging often happens with my faith.<!--more-->
 
 #### Faith is like glasses
 

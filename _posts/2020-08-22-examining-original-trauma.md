@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Examining Original [Trauma]'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-08-22T16:36:55.000Z'
 
 ![](https://images.unsplash.com/photo-1597956377408-c1755dbb5957?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I've been interested in trauma since I first heard about it a few years ago. Frankly, the more I understand about trauma—especially since I just started looking into [Resmaa Menakem's white-body supremacy trauma](https://www.resmaa.com/)—I wonder if it isn't the most human of experiences and our primary emotion if you will, especially when we look at trauma from an epigenetic standpoint.
+I've been interested in trauma since I first heard about it a few years ago. Frankly, the more I understand about trauma—especially since I just started looking into [Resmaa Menakem's white-body supremacy trauma](https://www.resmaa.com/)—I wonder if it isn't the most human of experiences and our primary emotion if you will, especially when we look at trauma from an epigenetic standpoint.<!--more-->
 
 Before I jump into it, for those less familiar with trauma and the science, there's a growing body of research that asserts that trauma gets stored in the body. Furthermore, if this trauma is not released from the body and resolved, it is passed on epigenetically to the trauma survivor's offspring. It's also important to note that trauma is our body's adaptive and beneficial response to overwhelming or traumatic events that our brains cannot rationally process in the moment.
 

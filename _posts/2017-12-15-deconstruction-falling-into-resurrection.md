@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: Falling into Resurrection'
 description: >-
   I wish I had a conclusion for this post, but this is a piece with no tidy
@@ -11,7 +12,7 @@ slug: /deconstruction-falling-into-resurrection
 
 ![](https://cdn-images-1.medium.com/max/1200/1*rE9b5BhDLFxozP1mvKzeQQ.jpeg)
 
-I wish I had a conclusion for this post, but this is a piece with no tidy ending. There is no bow to this poorly bundled package of questions. I am merely in a season of deconstruction — appropriate for the fall, a season where the foliage is my soul’s mirror.
+I wish I had a conclusion for this post, but this is a piece with no tidy ending. There is no bow to this poorly bundled package of questions. I am merely in a season of deconstruction — appropriate for the fall, a season where the foliage is my soul’s mirror.<!--more-->
 
 What if failure is merely mercy? Perhaps that disaster I could have avoided is the Divine sparing me a disaster of far greater magnitude, sparing me several more days, months, or years of living through a perpetual hell.
 

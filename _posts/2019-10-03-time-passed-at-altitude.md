@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Time Passed at Altitude'
 slug: /time-passed-at-altitude
 date: '2019-10-04T03:57:00.000Z'
@@ -6,7 +7,7 @@ date: '2019-10-04T03:57:00.000Z'
 
 ![](https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I would apologize, but it would be shallow. And there are so few of you tracking with this—would you even call it a blog anymore?—that it's just not worth it. However, I've been silent for a purpose.
+I would apologize, but it would be shallow. And there are so few of you tracking with this—would you even call it a blog anymore?—that it's just not worth it. However, I've been silent for a purpose.<!--more-->
 
 I moved to Denver almost seven months ago to the day. I've had a lot to work out before and since I got here. Truthfully, I feel as if I should have more of it in a state that feels solidified or concrete, but that isn't the case. Perhaps that's life in a nutshell.
 

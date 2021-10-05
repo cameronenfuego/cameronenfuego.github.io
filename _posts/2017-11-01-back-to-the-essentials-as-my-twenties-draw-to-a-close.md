@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Back to the Essentials (As My Twenties Draw to a Close)
 description: >-
   It feels like I should be closing out this second decade of my life with
@@ -12,7 +13,7 @@ slug: >-
 
 ![](https://cdn-images-1.medium.com/max/1200/1*zkrMCz7y_jfVg1HF2_Mk1w.jpeg)
 
-It feels like I should be closing out this second decade of my life with something meaningful, but I feel as if I’m falling short these days. What I mean is, I feel like there’s something I should be doing to commemorate the death of my twenties, like there’s some appropriate memorialization, a rite of passage, of which I’m not aware. But this idea of the need for a perfect sendoff is the remnant of learning so long ago that I needed to be someone else — someone other than who I am naturally — to survive this life. And maybe this gradual unlearning of things as I’m exploring in this series of posts is precisely the commemoration my twenties deserve, _need_.
+It feels like I should be closing out this second decade of my life with something meaningful, but I feel as if I’m falling short these days. What I mean is, I feel like there’s something I should be doing to commemorate the death of my twenties, like there’s some appropriate memorialization, a rite of passage, of which I’m not aware. But this idea of the need for a perfect sendoff is the remnant of learning so long ago that I needed to be someone else — someone other than who I am naturally — to survive this life. And maybe this gradual unlearning of things as I’m exploring in this series of posts is precisely the commemoration my twenties deserve, _need_.<!--more-->
 
 It is the unlearning, the unbecoming, that has probably best characterized the last two months of my life. The returning — or maybe the turning for the first time — to essentials I believe is necessary for all of us from time to time. Like moving into a bigger house, we always find ways of filling the space we occupy. As I grow older, I’ve found that time has seen me fill my own soul with stuff — almost none of it essential. The necessities are there, but they grow harder to find as the distractions, the numbing trivialities, take over the space. Life gets choked out, like flowers as weeds take over a garden.
 

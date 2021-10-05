@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Criminalizing the Unloved (The Least of These)'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2021-02-13T19:58:33.000Z'
 
 ![](https://images.unsplash.com/photo-1546931899-30116b9907ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDEwfHxkcnVnJTIwbmVlZGxlc3xlbnwwfHx8&ixlib=rb-1.2.1&q=90)
 
-In honor of the holiday on the calendar tomorrow, I will be talking about love. However, it will not at all be in the way that you might expect. No, today, I'm talking about the correlation between love and substance use.
+In honor of the holiday on the calendar tomorrow, I will be talking about love. However, it will not at all be in the way that you might expect. No, today, I'm talking about the correlation between love and substance use.<!--more-->
 
 I recently started working as a Substance Abuse Counselor, the title I find off-putting. I quickly noticed how ridiculous it was to me that there is a question in the intake asking whether the people I see have experienced any traumatic events in their lives. This question seems ridiculous because regardless of whether the person in front of me classifies certain events as traumatic, they all have a trauma history.
 

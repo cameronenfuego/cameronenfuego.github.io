@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'At the Precipice of a New Year'
 description: ''
 date: '2019-01-01T03:13:00.000Z'
@@ -9,7 +10,7 @@ slug: /at-the-precipice-of-a-new-year
 
 ![](https://images.unsplash.com/photo-1531167599833-609a45d3d903?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-Pensive does not begin to approach adequately describing the level of introspection I feel like I've experienced the past few weeks. As I was explaining yesterday, I feel the rhythm of the calendar leads me to spending more time in a reflective state with a birthday in November—the ending of a year of existence—that dovetails into the introspection that typically accompanies the ending of another calendar year. This year proved no different.
+Pensive does not begin to approach adequately describing the level of introspection I feel like I've experienced the past few weeks. As I was explaining yesterday, I feel the rhythm of the calendar leads me to spending more time in a reflective state with a birthday in November—the ending of a year of existence—that dovetails into the introspection that typically accompanies the ending of another calendar year. This year proved no different.<!--more-->
 
 This was a year for me of seismic shifts. No, I'm not talking about some large earthquake, but rather the bedrock of my life shifting along some crucial fault lines that have led to some notable changes—exhibit a is the URL and title of this blog. I refer to it as shifts because sure there has been a lot of growth, but to call it growth would belie the growing amount and types of questions that have also bubbled to the surface throughout the year.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: Integration'
 description: 'I’ll admit, it’s so much easier to live life based on the principle of
   either-or. Something is one or the other, black or white. There are…'
@@ -10,7 +11,7 @@ slug: /deconstruction-integration
 
 ![](https://cdn-images-1.medium.com/max/1200/1*6uYlwa0Xr7iRQFPynhzlLg@2x.jpeg)
 
-I’ll admit, it’s so much easier to live life based on the principle of either-or. Something is one or the other, black or white. There are two categories for everything; gray can be exhausting. I cannot argue that a color with infinite shades isn’t exhausting. However, I am increasingly less able to argue that this “exhausting” shade isn’t a closer representation of Reality, of life as it is truly.
+I’ll admit, it’s so much easier to live life based on the principle of either-or. Something is one or the other, black or white. There are two categories for everything; gray can be exhausting. I cannot argue that a color with infinite shades isn’t exhausting. However, I am increasingly less able to argue that this “exhausting” shade isn’t a closer representation of Reality, of life as it is truly.<!--more-->
 
 I’m once again reading through Richard Rohr‘s [“Falling Upward”](https://www.amazon.com/dp/0470907754/ref=cm_sw_r_cp_tai_heyJBb74W7VBZ) and I’ve been struck by Richard’s assertion that life is about the exceptions, not the rule. I — and I think _we_ in general — find comfort in the correlation, in establishing a correlation or a general rule.
 

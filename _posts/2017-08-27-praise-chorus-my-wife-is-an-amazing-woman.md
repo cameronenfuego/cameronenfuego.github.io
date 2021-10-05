@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Praise Chorus: My Wife Is an Amazing Woman'
 description: >-
   I woke up this morning convicted of the idea that I need to thank God for my
@@ -11,7 +12,7 @@ slug: /praise-chorus-my-wife-is-an-amazing-woman
 
 ![](https://cdn-images-1.medium.com/max/1200/1*zZr564ugi1D4PPGnPeiq8g.jpeg)
 
-I woke up this morning convicted of the idea that I need to thank God for my wife. Maybe you know her, maybe you don’t. That’s beside the point. She’s an amazing woman and I’m going to shout it from this platform today. Feel free to read or not, my feelings aren’t bothered either way.
+I woke up this morning convicted of the idea that I need to thank God for my wife. Maybe you know her, maybe you don’t. That’s beside the point. She’s an amazing woman and I’m going to shout it from this platform today. Feel free to read or not, my feelings aren’t bothered either way.<!--more-->
 
 First of all, she’s the strongest woman I know. She’s probably the strongest person I know. She has faced some difficult times before she met me. We’ve endured thus far in marriage. During those years of marriage, she’s also been able to deal with me. Thank You, Lord, for the incredible strength of my wife.
 

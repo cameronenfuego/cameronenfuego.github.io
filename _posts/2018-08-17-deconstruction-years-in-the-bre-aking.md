@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: Years in the [Bre]aking'
 description: >-
   I’d thought my deconstruction process only began in earnest about a year ago.
@@ -11,7 +12,7 @@ slug: /deconstruction-years-in-the-bre-aking
 
 ![](https://cdn-images-1.medium.com/max/1200/1*11PnLMFfDV9QXJa92GRYLw.jpeg)
 
-I’d thought my deconstruction process only began in earnest about a year ago. I thought that of course it would line up conveniently with the separation. But when is deconstruction ever convenient? Or neat and tidy?
+I’d thought my deconstruction process only began in earnest about a year ago. I thought that of course it would line up conveniently with the separation. But when is deconstruction ever convenient? Or neat and tidy?<!--more-->
 
 I said “the prayer” when my mom woke me up one morning around the age of five-and-a-half, telling me about Jesus and asking if I wanted to accept him into my heart. I say that I became a Christian that day. It’s just simpler that way. But—as many of you may be aware—faith is not an on-off switch. And growing up in a household with only one Christian parent, I think there was even more of a process to the whole “coming to faith” experience for me than some.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Stress, Privilege, and Reconciliation: A Contemplation of Sorts'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-03-05T21:55:00.000Z'
 
 ![](https://images.unsplash.com/photo-1518398046578-8cca57782e17?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-This post is going to get political right away. You've been forewarned. So, Elizabeth Warren suspended her presidential campaign today. Sadly, I said Tuesday evening that I would be surprised if she was still a candidate come Friday. Sometimes I hate being right.
+This post is going to get political right away. You've been forewarned. So, Elizabeth Warren suspended her presidential campaign today. Sadly, I said Tuesday evening that I would be surprised if she was still a candidate come Friday. Sometimes I hate being right.<!--more-->
 
 What makes me sad isn't just the fact that there is but a faint hint of diversity left as we are now forced to choose between elderly white male candidates—this is deeply saddening. Instead, what it says about us, including myself. The implications are vast, but before I get to the ones I feel most important to note here, I will share with you an anecdote.
 

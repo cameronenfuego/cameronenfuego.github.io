@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: A Death'
 description: >-
   As a disclaimer, the meaning of the title is figurative. No one close to me
@@ -11,7 +12,7 @@ slug: /deconstruction-a-death
 
 ![](https://cdn-images-1.medium.com/max/1200/1*CYayrcdRnpPIZoqXEjP-FQ.jpeg)
 
-As a disclaimer, the meaning of the title is figurative. No one close to me has physically died in the past several months. However, I acknowledge the fact that I’ve kept silent for some months now — the entirety of this year to date.
+As a disclaimer, the meaning of the title is figurative. No one close to me has physically died in the past several months. However, I acknowledge the fact that I’ve kept silent for some months now — the entirety of this year to date.<!--more-->
 
 I apologize. I’ve had no idea what to say, or if I should say anything at all. In my doubt and wondering, I chose just to say nothing. I’ve been carrying around the guilt of that decision for nearly eight months now. That weight is just too damn heavy. Reader, if you’re squeamish around curse words, you may want to stop reading now as I can’t guarantee what I’ll write in the remaining paragraphs won’t offend you.
 

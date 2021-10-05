@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'We Found Gratitude in a Hopeless Place'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-12-20T19:47:41.000Z'
 
 ![](https://images.unsplash.com/photo-1553118048-ce652bbc9058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDE0fHxCcm9va2x5biUyMGJsYWNrJTIwd2hpdGV8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000)
 
-I'm struggling to put together the words to describe where I find myself as I sit down before this blank screen. This haziness, or fuzziness, is why I want to continue as it feels truer than merely a narcissistic indulgence. I wonder if we're all not in a certain grey space? We are weary from a year that has held no punches, saddened by 9/11-every-day death rates, disgust for a government standing by idly, excited for a holiday with a limited friend group or family members, and the rebellious hope of a better new year.
+I'm struggling to put together the words to describe where I find myself as I sit down before this blank screen. This haziness, or fuzziness, is why I want to continue as it feels truer than merely a narcissistic indulgence. I wonder if we're all not in a certain grey space? We are weary from a year that has held no punches, saddened by 9/11-every-day death rates, disgust for a government standing by idly, excited for a holiday with a limited friend group or family members, and the rebellious hope of a better new year.<!--more-->
 
 It is confusing and crushing to contemplate and explore the depths of our present reality. In many ways, I hope that these are my words and that you do not resonate with them. Yet, while the holidays are often stressful and weighty for many, including myself, this year seems to carry a unique heft with it.
 

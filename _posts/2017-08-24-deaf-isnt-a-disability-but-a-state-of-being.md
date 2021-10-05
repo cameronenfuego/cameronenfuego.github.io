@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Deaf Isn’t a Disability But a State of Being (For Some)
 description: 'I was on the way to the airport to spend a few days with my dad. I stopped by the house to drop off a few items of clothing that were worn'
 date: '2017-08-24T19:02:10.000Z'
@@ -9,7 +10,7 @@ slug: /deaf-isnt-a-disability-but-a-state-of-being-for-some
 
 ![](https://cdn-images-1.medium.com/max/1200/1*JLD6OlPrdXad-n21UQwviA.jpeg)
 
-I was on the way to the airport to spend a few days with my dad. I stopped by the house to drop off a few items of clothing that were worn and served no purpose in the warm Florida summer sun, and to pick up a few others. I lost track of how many times I told my dog George I was sorry. I couldn’t verbalize for what—it took everything within me to not break down into a puddle and to be ready when the Lyft was scheduled to arrive–but for so many things. Poor puppy.
+I was on the way to the airport to spend a few days with my dad. I stopped by the house to drop off a few items of clothing that were worn and served no purpose in the warm Florida summer sun, and to pick up a few others. I lost track of how many times I told my dog George I was sorry. I couldn’t verbalize for what—it took everything within me to not break down into a puddle and to be ready when the Lyft was scheduled to arrive–but for so many things. Poor puppy.<!--more-->
 
 I didn’t read the texts I received from Lyft before gratefully hopping in the car. Honestly, I was praising Jesus for the car not arriving any later. Being at the house was excruciating. Once seated, I checked my phone, “Your driver is deaf or hard of hearing. Please text them instead of calling, and let them lead the way with communication. Enjoy your ride!” read the text. Wow, not what I was expecting, not what I’ve ever experienced.
 

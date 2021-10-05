@@ -1,4 +1,5 @@
 ---
+layout: post
 title: God Is Holy and That’s All That Matters
 description: ''
 date: '2014-01-09T15:41:21.000Z'
@@ -7,7 +8,7 @@ keywords: []
 slug: /god-is-holy-and-thats-all-that-matters
 ---
 
-Yesterday was a long day for me. It felt like I was coordinating the invasion of Normandy all over again. Yes, yes, enough with the melodrama already. In summary, the day consisted of me doing things for which I did not feel, nor am I in truth qualified, but knew had to be done and in less time than I thought necessary. Once again, it needed to be done, so it got done. And come five o’clock, so was I. In fact, well past done. I was frazzled, tired, stressed, and just feeling burdened. Then the song below played in the car, and I realized once more that God is holy.
+Yesterday was a long day for me. It felt like I was coordinating the invasion of Normandy all over again. Yes, yes, enough with the melodrama already. In summary, the day consisted of me doing things for which I did not feel, nor am I in truth qualified, but knew had to be done and in less time than I thought necessary. Once again, it needed to be done, so it got done. And come five o’clock, so was I. In fact, well past done. I was frazzled, tired, stressed, and just feeling burdened. Then the song below played in the car, and I realized once more that God is holy.<!--more-->
 
 #### God is holy, but so what?
 

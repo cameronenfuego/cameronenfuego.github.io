@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Remembering: A Question of Identity'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2019-01-14T02:47:00.000Z'
 
 ![](https://images.unsplash.com/photo-1472669876562-4dacf98c6a67?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)
 
-Who am I? It's one of the earliest questions—or maybe *the* earliest question—we ask in life. It's also the question that we will continue to ask, answer, and reanswer. Our earliest answer is one that is much more *given* to us than something we find for ourselves. Yes, our parents, friends, families, and even society at large will all have things to say about who *I *am, who *you* are.
+Who am I? It's one of the earliest questions—or maybe *the* earliest question—we ask in life. It's also the question that we will continue to ask, answer, and reanswer. Our earliest answer is one that is much more *given* to us than something we find for ourselves. Yes, our parents, friends, families, and even society at large will all have things to say about who *I *am, who *you* are.<!--more-->
 
 True identity does not enter from the external; it emanates from within. We must unlearn the former before we can embrace the latter. Our earliest idea of identity is one that is bequeathed to us by those who care for us. Our earliest idea of identity is much more of a persona than an identity.
 

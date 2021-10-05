@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Deconstruction: Enter Chaos'
 description: 'I’d thought this post was going to unfold very differently, that I’d be
   talking about my path toward wholeness. But that feels…'
@@ -10,7 +11,7 @@ slug: /deconstruction-enter-chaos
 
 ![](https://cdn-images-1.medium.com/max/1200/1*Yc2mlKFqW13YYnEwxa074g.jpeg)
 
-I’d thought this post was going to unfold very differently, that I’d be talking about my path toward wholeness. But that feels inappropriate now that I’ve sat down to type. No, that’s not the story I have to tell this evening. Instead, let’s talk about chaos and uncertainty.
+I’d thought this post was going to unfold very differently, that I’d be talking about my path toward wholeness. But that feels inappropriate now that I’ve sat down to type. No, that’s not the story I have to tell this evening. Instead, let’s talk about chaos and uncertainty.<!--more-->
 
 As is common for people undergoing the upheaval of life, the story of Job has been rather poignant for me recently. Even months after the last time I read the story, I’m still churning on parts of it, chewing bits of it still rattling around my mind. Ignoring some rather key facts about the story, I am still struck by the number of appearances of Leviathan in this story that seemingly has nothing to do with the sea. Or does it?
 

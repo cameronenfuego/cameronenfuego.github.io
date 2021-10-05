@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Isolation: The Place Where Fear Leads Us'
 description: >-
   I want to hang here with this theme of fear for a minute. Really, I want to
@@ -11,7 +12,7 @@ slug: /isolation-the-place-where-fear-leads-us
 
 ![](https://cdn-images-1.medium.com/max/1200/1*wBgmxZQsD4IVtuzvrRCQ7g.jpeg)
 
-I want to hang here with this [theme of fear](http://faiththroughdoubt.com/naming-the-fear/) for a minute. Really, I want to remain here because talking about it makes me uncomfortable. I feel like I’m already talking about isolation in my avoidance. I’ve been putting off being vulnerable about this topic for a few weeks now–apparently this is the part of the article where I tell you I’m nervous with the hope that it’ll make me less nervous.
+I want to hang here with this [theme of fear](http://faiththroughdoubt.com/naming-the-fear/) for a minute. Really, I want to remain here because talking about it makes me uncomfortable. I feel like I’m already talking about isolation in my avoidance. I’ve been putting off being vulnerable about this topic for a few weeks now–apparently this is the part of the article where I tell you I’m nervous with the hope that it’ll make me less nervous.<!--more-->
 
 ### The danger of fear
 

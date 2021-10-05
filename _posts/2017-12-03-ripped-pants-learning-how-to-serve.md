@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Ripped Pants: Learning How to Serve'
 description: I hadn’t been there more than ten minutes. I’d ripped. My. Pants.
 date: '2017-12-03T04:09:24.944Z'
@@ -9,7 +10,7 @@ slug: /ripped-pants-learning-how-to-serve
 
 ![](https://cdn-images-1.medium.com/max/1200/1*bLsRc7rGn0W0WkfIRqVCng.jpeg)
 
-I hadn’t been there more than ten minutes. I’d ripped. My. Pants.
+I hadn’t been there more than ten minutes. I’d ripped. My. Pants.<!--more-->
 
 Before tonight, that had never to my recollection happened to me — other than the knee blowout or three growing up. It’s hard to calmly assess what feels to be a rather _large_ situation that has just _apparated_ along the upper part of your inner thigh! How did I even get here?
 

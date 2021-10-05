@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Ferguson, UVa, and a Great Darkness'
 description: ''
 date: '2014-11-25T04:39:45.000Z'
@@ -9,7 +10,7 @@ slug: /ferguson-uva-and-a-great-darkness
 
 ![](https://cdn-images-1.medium.com/max/1200/1*yKoZdqoXiz2jRbo5cZOokQ.jpeg)
 
-Truth be told, I’ve written this post over 20 times in the past couple months. Returning to this blog has been monumentally daunting. As the days passed, the idea of returning and what I should say have been blowing in like a Midwestern summer storm. Thick clouds of doubt and trepidation have kept me from updating the many times. But I can’t sleep. I want to, but I physically lack the ability to go to bed tonight; it’s long past time that I blogged. I want to write about how great marriage is and how much I’ve learned recently, but my heart is too heavy to convey such lofty thoughts. No, tonight is about the weight of the past few days. Tonight is about hate, evil, and how they relate to my alma mater and a place called Ferguson.
+Truth be told, I’ve written this post over 20 times in the past couple months. Returning to this blog has been monumentally daunting. As the days passed, the idea of returning and what I should say have been blowing in like a Midwestern summer storm. Thick clouds of doubt and trepidation have kept me from updating the many times. But I can’t sleep. I want to, but I physically lack the ability to go to bed tonight; it’s long past time that I blogged. I want to write about how great marriage is and how much I’ve learned recently, but my heart is too heavy to convey such lofty thoughts. No, tonight is about the weight of the past few days. Tonight is about hate, evil, and how they relate to my alma mater and a place called Ferguson.<!--more-->
 
 #### Appalled at my dear UVa
 

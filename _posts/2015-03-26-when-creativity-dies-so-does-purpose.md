@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'When Creativity Dies, So Does Purpose'
 description: ''
 date: '2015-03-26T15:50:35.000Z'
@@ -9,7 +10,7 @@ slug: /when-creativity-dies-so-does-purpose
 
 ![](https://cdn-images-1.medium.com/max/1200/1*BvokIeQ2hG_i0Rewm0LCUQ.jpeg)
 
-Aw, screw it. You know, I had something for this. I had a post written in my head, but somehow it just doesn’t seem to matter much at the moment. Maybe I should just stop here and send this draft to the trash. That’s how a lot of ideas in my life die an untimely death. Creativity withers away before it can blossom like a flower bud met by a late-season frost. I’m too afraid to breathe a little life into the idea and let it take shape before I judge it. Instead, I allow the imaginary critic in my mind convince me up one cranial wall and down the other of why it’s a terrible idea and why it should never see the light of day. And the idea doesn’t.
+Aw, screw it. You know, I had something for this. I had a post written in my head, but somehow it just doesn’t seem to matter much at the moment. Maybe I should just stop here and send this draft to the trash. That’s how a lot of ideas in my life die an untimely death. Creativity withers away before it can blossom like a flower bud met by a late-season frost. I’m too afraid to breathe a little life into the idea and let it take shape before I judge it. Instead, I allow the imaginary critic in my mind convince me up one cranial wall and down the other of why it’s a terrible idea and why it should never see the light of day. And the idea doesn’t.<!--more-->
 
 #### Creativity’s slow death
 

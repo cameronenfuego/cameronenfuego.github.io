@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Is There Enough Love for Me, Too?'
 description: >-
   It’s been too many days since my last post. But that only goes to show how
@@ -11,7 +12,7 @@ slug: /is-there-enough-love-for-me-too
 
 ![](https://cdn-images-1.medium.com/max/800/1*_uoajYVLVH97gZl1-Y86KA.jpeg)
 
-It’s been too many days since my last post. But that only goes to show how scared I am to venture into these depths on my own, let alone to share with you a glimpse of my darkness. It’s tough as an Enneagram type 2 to dive into these murky waters, because I want to tell myself they do not exist, that the ocean of shame and fear is a mirage and that my drowning in them is a figment of the imagination. But the term scarcity really begins to explain some of what I find down there.
+It’s been too many days since my last post. But that only goes to show how scared I am to venture into these depths on my own, let alone to share with you a glimpse of my darkness. It’s tough as an Enneagram type 2 to dive into these murky waters, because I want to tell myself they do not exist, that the ocean of shame and fear is a mirage and that my drowning in them is a figment of the imagination. But the term scarcity really begins to explain some of what I find down there.<!--more-->
 
 As a means of background, type 2s such as myself are motivated to show others love and compassion through helping in various ways — basically any way we percieve the other person will receive help. We are essentially the “moms” of the world. This is hard for me to embrace as a male, having grown up in a household where masculinity was far from any working definition I had and still have of a mom. Yes, there has been quite the dissonance that I’m still working through. But understanding myself in the context of the Enneagram helped me unearth the deepest fear from which I’ve been running from before I could even form memories: I am mortally fearful of being unlovable and worthless on my own.
 

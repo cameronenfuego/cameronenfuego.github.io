@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'The Unknown and Mystery'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-07-26T23:54:01.000Z'
 
 ![](https://images.unsplash.com/photo-1482424917728-d82d29662023?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I have a complicated relationship with the divine. It's been more profoundly complicated for nearly the past four years. However, the relationship probably started out as more complex since I became aware that there was a divine, notably at the age of five, when I accepted Jesus into my heart. The relationship was never stable or static from the start. I shouldn't be surprised that I refer to the divine as Mystery today.
+I have a complicated relationship with the divine. It's been more profoundly complicated for nearly the past four years. However, the relationship probably started out as more complex since I became aware that there was a divine, notably at the age of five, when I accepted Jesus into my heart. The relationship was never stable or static from the start. I shouldn't be surprised that I refer to the divine as Mystery today.<!--more-->
 I remember that whenever I got punished as a kid and sent to my room, I asked Jesus out of my heart. I knew that I had been sinful, imperfect, and I figured my heart was an unsuitable home for the son of God. I would re-invite Jesus back into my heart each time I had estimated that I had sufficiently repented and atoned for my sins. God and I had a pretty intense relationship even when I was a young kid.
 When my ex-wife and I separated and eventually divorced—including my leaving the church where I'd been a member and active contributor more Sundays than not—it was impossible to disaggregate religion from the rest of my life which was caving in in its entirety. I mean, we met in a Bible study at the church. A couple months after she moved out of the house, with both of our names on the deed, I took a step back from the assumption that God existed. Nothing changed.
 Yet, after a few weeks, I had noticed some serendipitous events that I felt I could only attribute to God. I decided that I'd keep believing in God. God felt like the only safe explanation—this is often the case in unknowingly working through Religious Trauma Syndrome I would later learn. At this time, I needed to experience a new and different church community.

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Fuck Normal: We Need a New System Altogether'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-05-23T21:31:20.000Z'
 
 ![](https://images.unsplash.com/photo-1509114397022-ed747cca3f65?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I can't tell y'all the number of posts I've written in my head in the past week, and none of them felt right. I've felt a few little but significant enough shifts within me in the last week or so, and I feel those shifts have been a bit emblematic of what's going on in a meta-sense. I wonder if a few of y'all aren't a bit confused—as I find myself—in what to think and how to feel right now. I don't promise much about this update other than the fact that it will be a form of a streaming-consciousness grab bag.
+I can't tell y'all the number of posts I've written in my head in the past week, and none of them felt right. I've felt a few little but significant enough shifts within me in the last week or so, and I feel those shifts have been a bit emblematic of what's going on in a meta-sense. I wonder if a few of y'all aren't a bit confused—as I find myself—in what to think and how to feel right now. I don't promise much about this update other than the fact that it will be a form of a streaming-consciousness grab bag.<!--more-->
 
 Things are opening back up in every state, but what pace is the best or right? I find myself asking this as I find myself decreasingly confident in our national government and increasingly suspicious of its overreach in influencing state and local politics. Simply, I'm concerned about who's really calling the shots and their rationale.
 

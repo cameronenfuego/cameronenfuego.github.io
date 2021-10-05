@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Too Many Words and Yet Never Enough'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-06-25T19:35:47.000Z'
 
 ![](https://images.unsplash.com/photo-1522083165195-3424ed129620?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-I'd love to say this has been an interesting week or so, but what does "interesting" mean anymore? Honestly, I couldn't tell you. Nonetheless, the past several days have been eventful.
+I'd love to say this has been an interesting week or so, but what does "interesting" mean anymore? Honestly, I couldn't tell you. Nonetheless, the past several days have been eventful.<!--more-->
 I'm not even sure where to begin this post. It's not for lack of starting points, but rather the opposite. What is even happening these days and weeks? Is this a revolution or a moment of the at-last uncomfortable?
 Will we white people finally understand the inherent privilege in individualism, or will we be lulled back to sleep by another round of platitudes and incremental change that further cements the insidiousness of white supremacy? When society and the structures that undergird that society is intrinsically designed in opposition to you, individualism isn't luxury that you can afford or a risk that you can take. This concept is foreign to many white people and even may feel affronting. Hell, you may even accuse me of buying in too much to the liberal agenda.
 If the latter is you, I'm not going to argue; you're lying to yourself, and I don't have time for it anymore.

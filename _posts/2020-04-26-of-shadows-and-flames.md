@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Of Shadows and Flames'
 description: ''
 categories: []
@@ -9,7 +10,7 @@ date: '2020-04-26T19:43:09.000Z'
 
 ![](https://images.unsplash.com/photo-1510027078314-3562def9c856?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-What world will we create in moving forward? This is the question on the top of my mind and has been for weeks now. I'd also love to know when we'll be able to move freely about and create that world more tangibly. However, we will continue physical distancing to protect those most vulnerable and ourselves alike. In this time, I am reminded that I and we are recreating today a new future. One that we will soon enough be able to physically step into if you will.
+What world will we create in moving forward? This is the question on the top of my mind and has been for weeks now. I'd also love to know when we'll be able to move freely about and create that world more tangibly. However, we will continue physical distancing to protect those most vulnerable and ourselves alike. In this time, I am reminded that I and we are recreating today a new future. One that we will soon enough be able to physically step into if you will.<!--more-->
 
 I'm going to make a massive pivot here and introduce Carl Jung, the esteemed psychologist, and the concept of the shadow self that he popularized in his work. To Jung, the shadow was an essential element of the personality just beyond the conscious reach, if you will, of the ego, and could be positive or negative. For Jung, the shadow exerted a force on the individual like the moon's influence on the tides—invisible, but the effects were undeniable.
 

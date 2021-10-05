@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Worst Thanksgiving I’ve Ever Had (Sort of)
 description: >-
   I’m going to try and relate to you what may have been the worst Thanksgiving
@@ -11,7 +12,7 @@ slug: /the-worst-thanksgiving-day-ive-ever-had-sort-of
 
 ![](https://cdn-images-1.medium.com/max/1200/1*h1dCjNW1ZUUVOiY6B87bFQ.jpeg)
 
-I’m going to try and relate to you what may have been the worst Thanksgiving I’ve ever had. However, there will be a silver lining to this story. Eventually. It was a pretty rough day.
+I’m going to try and relate to you what may have been the worst Thanksgiving I’ve ever had. However, there will be a silver lining to this story. Eventually. It was a pretty rough day.<!--more-->
 
 I got out of bed — and by got out of bed, I oozed out of it more than anything else, a succumbing to having tossed and turned the prior hour. I was not looking forward to beginning this day. I only recently stopped absolutely dreading this day.
 
