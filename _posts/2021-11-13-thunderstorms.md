@@ -1,3 +1,15 @@
+---
+layout: post
+title: 'Thunderstorms'
+description: ''
+categories: []
+keywords: []
+date: '2021-11-13T17:26:26.000Z'
+slug: /thunderstorms
+---
+
+![](https://images.unsplash.com/photo-1634963103133-a28701db95bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=90)
+
 We had thunderstorms roll through this afternoon as a cold front swooped in like a blustery blanket accompanied with sheets of rain. I made an event of it, turning out the lights, opening the shades, and planting myself in front of the kitchen window. It didn’t always use to be this way.
 
 One of the more traumatic memories of my childhood involved a thunderstorm. I was probably three, and my dad was grilling some meat—chicken, I believe—preparing dinner one evening. As I recall it, this was the most blinding lightning display I had witnessed, the most violent thunder symphony I had ever experienced. I was scared, growing more terrified with each nearly deafening clap of thunder. Yet my dad was committed to attending the grill on the deck.
